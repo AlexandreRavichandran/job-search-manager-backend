@@ -10,4 +10,14 @@ public class JobsearchmanagerApplication {
 		SpringApplication.run(JobsearchmanagerApplication.class, args);
 	}
 
+	//TODO Faire tout les repository
+	//TODo Faire tout les services + implementations
+
+	//TODO Faire les fake données
+
+	//TODO Faire les test
+
+	//TODO Faire le front en reprenant MEMO https://memo.pole-emploi.fr/dashboard
+
+	//TODO https://material.angular.io/cdk/drag-drop/api
 }
