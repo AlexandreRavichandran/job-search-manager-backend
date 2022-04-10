@@ -1,15 +1,15 @@
 package com.jobsearchmanager.jobsearchmanager.domain;
 
+import lombok.AllArgsConstructor;
 import lombok.Data;
 
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
-import javax.persistence.Id;
+import javax.persistence.*;
+import java.util.Collection;
 import java.util.Date;
 
 @Entity
 @Data
+@AllArgsConstructor
 public class Application {
 
     @Id
@@ -37,5 +37,17 @@ public class Application {
     private String contactEmail;
 
     private String contactPhoneNumber;
+
+    @OneToMany(targetEntity = Activity.class,mappedBy = "relatedApplication")
+    private Collection<Activity> activities;
+
+    @OneToMany(targetEntity = Note.class,mappedBy = "relatedApplication")
+    private Collection<Note> notes;
+
+    @OneToMany(targetEntity = Discussion.class,mappedBy = "relatedApplication")
+    private Collection<Discussion> discussions;
+
+    @ManyToOne(targetEntity = AppUser.class)
+    private AppUser relatedUser;
 
 }

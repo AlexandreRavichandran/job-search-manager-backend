@@ -11,7 +11,7 @@ public interface DiscussionService {
 
     Discussion read(Long discussionId) throws NoResultException;
 
-    Discussion edit(Long discussionToEdit) throws NoResultException;
+    Discussion edit(Discussion discussionToEdit) throws NoResultException;
 
     Discussion add(Discussion discussion);
 

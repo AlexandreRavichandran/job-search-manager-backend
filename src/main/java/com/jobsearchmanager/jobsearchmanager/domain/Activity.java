@@ -1,15 +1,14 @@
 package com.jobsearchmanager.jobsearchmanager.domain;
 
+import lombok.AllArgsConstructor;
 import lombok.Data;
 
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
-import javax.persistence.Id;
+import javax.persistence.*;
 import java.util.Date;
 
 @Entity
 @Data
+@AllArgsConstructor
 public class Activity {
 
     @Id
@@ -21,4 +20,7 @@ public class Activity {
     private ResultEnum result;
 
     private Date changedAt;
+
+    @ManyToOne(targetEntity = Application.class)
+    private Application relatedApplication;
 }
