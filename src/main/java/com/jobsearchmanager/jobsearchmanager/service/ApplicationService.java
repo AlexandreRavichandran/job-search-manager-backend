@@ -17,5 +17,5 @@ public interface ApplicationService {
 
     Application delete(Long applicationId) throws NoResultException;
 
-    Collection<Application> browseByStatus(Long userId, String status) throws NoResultException;
+    Collection<Application> browseByStatus(Long userId) throws NoResultException;
 }

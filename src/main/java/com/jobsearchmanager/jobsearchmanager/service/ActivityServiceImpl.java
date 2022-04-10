@@ -23,7 +23,7 @@ public class ActivityServiceImpl implements ActivityService {
     public Collection<Activity> browseByApplication(Long applicationId) throws NoResultException {
         Application application = this.applicationRepository.findById(applicationId).orElseThrow(NoResultException::new);
 
-        return this.activityRepository.findByApplicationId(application.getId());
+        return this.activityRepository.findByRelatedApplication(application.getId());
     }
 
     @Override

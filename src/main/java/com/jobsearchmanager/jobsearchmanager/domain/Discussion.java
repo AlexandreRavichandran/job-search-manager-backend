@@ -2,6 +2,7 @@ package com.jobsearchmanager.jobsearchmanager.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
+import lombok.NoArgsConstructor;
 
 import javax.persistence.*;
 import java.util.Date;
@@ -9,6 +10,7 @@ import java.util.Date;
 @Entity
 @Data
 @AllArgsConstructor
+@NoArgsConstructor
 public class Discussion {
 
     @Id

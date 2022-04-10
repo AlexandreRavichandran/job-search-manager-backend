@@ -23,7 +23,7 @@ public class NoteServiceImpl implements NoteService {
     public Collection<Note> browseByApplication(Long applicationId) throws NoResultException {
         Application application = this.applicationRepository.findById(applicationId).orElseThrow(NoResultException::new);
 
-        return this.noteRepository.findByApplicationId(application.getId());
+        return this.noteRepository.findByRelatedApplication(application.getId());
     }
 
     @Override

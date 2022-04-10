@@ -2,6 +2,7 @@ package com.jobsearchmanager.jobsearchmanager.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
+import lombok.NoArgsConstructor;
 
 import javax.persistence.*;
 import java.util.Collection;
@@ -10,6 +11,7 @@ import java.util.Date;
 @Entity
 @Data
 @AllArgsConstructor
+@NoArgsConstructor
 public class Application {
 
     @Id
@@ -20,6 +22,7 @@ public class Application {
 
     private String description;
 
+    @Enumerated(EnumType.STRING)
     private StatusEnum status;
 
     private String link;

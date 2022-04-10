@@ -13,7 +13,7 @@ import java.util.Collection;
 import java.util.stream.Collectors;
 
 @RestController
-@RequestMapping("/applications/{applicationId}/discussions")
+@RequestMapping("/api/applications/{applicationId}/discussions")
 public class DiscussionController {
 
     @Autowired

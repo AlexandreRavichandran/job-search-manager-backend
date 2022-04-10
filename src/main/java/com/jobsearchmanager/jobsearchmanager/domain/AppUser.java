@@ -2,6 +2,8 @@ package com.jobsearchmanager.jobsearchmanager.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
+import lombok.NoArgsConstructor;
+import lombok.RequiredArgsConstructor;
 
 import javax.persistence.*;
 import java.util.Collection;
@@ -9,6 +11,7 @@ import java.util.Collection;
 @Entity
 @Data
 @AllArgsConstructor
+@NoArgsConstructor
 public class AppUser {
 
     @Id

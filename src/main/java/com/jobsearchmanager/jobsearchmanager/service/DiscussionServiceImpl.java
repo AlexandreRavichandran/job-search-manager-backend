@@ -23,7 +23,7 @@ public class DiscussionServiceImpl implements DiscussionService {
     public Collection<Discussion> browseByApplication(Long applicationId) throws NoResultException {
         Application application = this.applicationRepository.findById(applicationId).orElseThrow(NoResultException::new);
 
-        return this.discussionRepository.findByApplicationId(application.getId());
+        return this.discussionRepository.findByRelatedApplication(application.getId());
     }
 
     @Override

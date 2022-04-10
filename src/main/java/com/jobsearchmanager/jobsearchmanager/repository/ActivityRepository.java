@@ -9,5 +9,5 @@ import java.util.Collection;
 @Repository
 public interface ActivityRepository extends JpaRepository<Activity, Long> {
 
-    Collection<Activity> findByApplicationId(Long applicationId);
+    Collection<Activity> findByRelatedApplication(Long applicationId);
 }

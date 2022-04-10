@@ -13,7 +13,7 @@ import java.util.Collection;
 import java.util.stream.Collectors;
 
 @RestController
-@RequestMapping("/applications/{applicationId}/notes")
+@RequestMapping("/api/applications/{applicationId}/notes")
 public class NoteController {
 
     @Autowired
@@ -37,7 +37,7 @@ public class NoteController {
         return new ResponseEntity<>(this.modelMapper.map(this.noteService.read(noteId), NoteDTO.class), HttpStatus.OK);
     }
 
-    @PutMapping("/{noteId")
+    @PutMapping("/{noteId}")
     public ResponseEntity<NoteDTO> edit(@RequestBody NoteDTO noteDTO) {
         Note note = this.modelMapper.map(noteDTO, Note.class);
 

@@ -3,10 +3,12 @@ package com.jobsearchmanager.jobsearchmanager;
 import com.github.javafaker.Faker;
 import com.jobsearchmanager.jobsearchmanager.domain.*;
 import com.jobsearchmanager.jobsearchmanager.repository.*;
+import org.modelmapper.ModelMapper;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
+import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 
 import java.util.ArrayList;
 import java.util.Date;
@@ -56,11 +58,11 @@ public class JobsearchmanagerApplication {
                         faker.name().lastName(),
                         null,
                         faker.internet().emailAddress(),
-                        "demo",
+                        this.passwordEncoder().encode("demo"),
                         new ArrayList<>()
                 );
 
-                appUser.setUsername(appUser.getFirstName() + " " + appUser.getLastName());
+                appUser.setUsername(appUser.getFirstName().toLowerCase() + "." + appUser.getLastName().toLowerCase());
                 appUserRepository.save(appUser);
 
                 for (int j = 0; j < 10; j++) {
@@ -128,5 +130,15 @@ public class JobsearchmanagerApplication {
 
 
         };
+    }
+
+    @Bean
+    ModelMapper modelMapper(){
+        return new ModelMapper();
+    }
+
+    @Bean
+    BCryptPasswordEncoder passwordEncoder(){
+        return new BCryptPasswordEncoder();
     }
 }

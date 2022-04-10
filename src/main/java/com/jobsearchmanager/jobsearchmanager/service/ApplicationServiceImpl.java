@@ -23,14 +23,14 @@ public class ApplicationServiceImpl implements ApplicationService {
     public Collection<Application> browseByUser(Long userId) throws NoResultException {
         AppUser appUser = this.appUserRepository.findById(userId).orElseThrow(NoResultException::new);
 
-        return this.applicationRepository.findByUserId(appUser.getId());
+        return this.applicationRepository.findByRelatedUserId(appUser.getId());
     }
 
     @Override
-    public Collection<Application> browseByStatus(Long userId, String status) throws NoResultException {
+    public Collection<Application> browseByStatus(Long userId) throws NoResultException {
         AppUser appUser = this.appUserRepository.findById(userId).orElseThrow(NoResultException::new);
 
-        return this.applicationRepository.findByUserIdAndStatus(appUser.getId(), status);
+        return this.applicationRepository.findByRelatedUserId(appUser.getId());
     }
 
     @Override

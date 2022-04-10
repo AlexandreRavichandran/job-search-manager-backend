@@ -1,6 +1,7 @@
 package com.jobsearchmanager.jobsearchmanager.controller;
 
 import com.jobsearchmanager.jobsearchmanager.domain.Application;
+import com.jobsearchmanager.jobsearchmanager.domain.DiscussionEnum;
 import com.jobsearchmanager.jobsearchmanager.dto.ApplicationDTO;
 import com.jobsearchmanager.jobsearchmanager.service.ApplicationServiceImpl;
 import org.modelmapper.ModelMapper;
@@ -13,7 +14,7 @@ import java.util.Collection;
 import java.util.stream.Collectors;
 
 @RestController
-@RequestMapping("/applications")
+@RequestMapping("/api/applications")
 public class ApplicationController {
 
     @Autowired
@@ -23,10 +24,10 @@ public class ApplicationController {
     ModelMapper modelMapper;
 
     @GetMapping
-    public ResponseEntity<Collection<ApplicationDTO>> getByStatus(@RequestParam("status") String status) {
+    public ResponseEntity<Collection<ApplicationDTO>> getByStatus() {
 
         return new ResponseEntity<>(
-                this.applicationService.browseByStatus(1L, status)
+                this.applicationService.browseByStatus(1L)
                         .stream()
                         .map(application -> this.modelMapper.map(application, ApplicationDTO.class))
                         .collect(Collectors.toList()),

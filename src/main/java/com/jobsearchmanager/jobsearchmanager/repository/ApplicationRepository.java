@@ -9,7 +9,6 @@ import java.util.Collection;
 @Repository
 public interface ApplicationRepository extends JpaRepository<Application, Long> {
 
-    Collection<Application> findByUserId(Long userId);
+    Collection<Application> findByRelatedUserId(Long userId);
 
-    Collection<Application> findByUserIdAndStatus(Long userId, String status);
 }

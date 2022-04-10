@@ -9,6 +9,6 @@ import java.util.Collection;
 @Repository
 public interface DiscussionRepository extends JpaRepository<Discussion, Long> {
 
-    Collection<Discussion> findByApplicationId(Long applicationId);
+    Collection<Discussion> findByRelatedApplication(Long applicationId);
 
 }

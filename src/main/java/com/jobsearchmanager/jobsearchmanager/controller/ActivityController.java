@@ -13,7 +13,7 @@ import java.util.Collection;
 import java.util.stream.Collectors;
 
 @RestController
-@RequestMapping("/applications/{applicationId}/activities")
+@RequestMapping("/api/applications/{applicationId}/activities")
 public class ActivityController {
 
     @Autowired
@@ -32,7 +32,7 @@ public class ActivityController {
         );
     }
 
-    @GetMapping("/{activityId")
+    @GetMapping("/{activityId}")
     public ResponseEntity<ActivityDTO> read(@PathVariable("activityId") Long activityId){
         return new ResponseEntity<>(
                 this.modelMapper.map(this.activityService.read(activityId),ActivityDTO.class),
