@@ -16,4 +16,6 @@ public interface ApplicationService {
     Application add(Application applicationToAdd) throws NoResultException;
 
     Application delete(Long applicationId) throws NoResultException;
+
+    Collection<Application> browseByStatus(Long userId, String status) throws NoResultException;
 }

@@ -27,6 +27,13 @@ public class ApplicationServiceImpl implements ApplicationService {
     }
 
     @Override
+    public Collection<Application> browseByStatus(Long userId, String status) throws NoResultException {
+        AppUser appUser = this.appUserRepository.findById(userId).orElseThrow(NoResultException::new);
+
+        return this.applicationRepository.findByUserIdAndStatus(appUser.getId(), status);
+    }
+
+    @Override
     public Application read(Long applicationId) throws NoResultException {
 
         return this.applicationRepository.findById(applicationId).orElseThrow(NoResultException::new);
