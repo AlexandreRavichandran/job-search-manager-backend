@@ -13,7 +13,7 @@ import java.util.Collection;
 import java.util.stream.Collectors;
 
 @RestController
-@RequestMapping("/api/applications/{applicationId}/activities")
+@RequestMapping("/api")
 public class ActivityController {
 
     @Autowired
@@ -22,7 +22,7 @@ public class ActivityController {
     @Autowired
     ModelMapper modelMapper;
 
-    @GetMapping
+    @GetMapping("/applications/{applicationId}/activities")
     public ResponseEntity<Collection<ActivityDTO>> getByApplicationId(@PathVariable("applicationId") Long applicationId){
         return new ResponseEntity<>(this.activityService.browseByApplication(applicationId)
                 .stream()
@@ -32,7 +32,7 @@ public class ActivityController {
         );
     }
 
-    @GetMapping("/{activityId}")
+    @GetMapping("/applications/{applicationId}/activities/{activityId}")
     public ResponseEntity<ActivityDTO> read(@PathVariable("activityId") Long activityId){
         return new ResponseEntity<>(
                 this.modelMapper.map(this.activityService.read(activityId),ActivityDTO.class),
@@ -40,7 +40,7 @@ public class ActivityController {
         );
     }
 
-    @PostMapping
+    @PostMapping("/applications/{applicationId}/activities")
     public ResponseEntity<ActivityDTO> add(@RequestBody ActivityDTO activityDTO){
         Activity activity = this.modelMapper.map(activityDTO, Activity.class);
 
@@ -50,11 +50,20 @@ public class ActivityController {
         );
     }
 
-    @DeleteMapping("/{activityId}")
+    @DeleteMapping("/applications/{applicationId}/activities/{activityId}")
     public ResponseEntity<ActivityDTO> delete(@PathVariable("activityId") Long activityId){
         return new ResponseEntity<>(
                 this.modelMapper.map(this.activityService.delete(activityId),ActivityDTO.class),
                 HttpStatus.ACCEPTED
         );
+    }
+
+    @GetMapping("/activities")
+    public ResponseEntity<Collection<ActivityDTO>> browse()
+    {
+        return new ResponseEntity<>(this.activityService.browseByUserId(1L)
+                .stream()
+                .map(activity -> this.modelMapper.map(activity,ActivityDTO.class))
+                .collect(Collectors.toList()), HttpStatus.OK);
     }
 }

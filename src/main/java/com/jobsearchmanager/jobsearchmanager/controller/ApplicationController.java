@@ -1,9 +1,10 @@
 package com.jobsearchmanager.jobsearchmanager.controller;
 
 import com.jobsearchmanager.jobsearchmanager.domain.Application;
-import com.jobsearchmanager.jobsearchmanager.domain.DiscussionEnum;
 import com.jobsearchmanager.jobsearchmanager.dto.ApplicationDTO;
+import com.jobsearchmanager.jobsearchmanager.dto.ApplicationImportationDTO;
 import com.jobsearchmanager.jobsearchmanager.service.ApplicationServiceImpl;
+import com.jobsearchmanager.jobsearchmanager.utils.thirdpartyapi.ThirdpartyAPISelector;
 import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
@@ -23,6 +24,9 @@ public class ApplicationController {
     @Autowired
     ModelMapper modelMapper;
 
+    @Autowired
+    ThirdpartyAPISelector apiSelector;
+
     @GetMapping
     public ResponseEntity<Collection<ApplicationDTO>> getByStatus() {
 
@@ -35,6 +39,19 @@ public class ApplicationController {
         );
     }
 
+    @PostMapping("/importation")
+    public ResponseEntity<ApplicationDTO> importByLink(@RequestBody ApplicationImportationDTO applicationImportation) {
+        try {
+            return new ResponseEntity<>(
+                    this.modelMapper.map(this.apiSelector.guessServiceByLink(applicationImportation.getLink()),
+                            ApplicationDTO.class),
+                    HttpStatus.OK);
+        } catch (Exception e) {
+            return new ResponseEntity<>(HttpStatus.BAD_REQUEST);
+        }
+
+    }
+
     @GetMapping("/{applicationId}")
     public ResponseEntity<ApplicationDTO> read(@PathVariable("application") Long applicationId) {
 
@@ -45,7 +62,7 @@ public class ApplicationController {
     }
 
     @PutMapping("/{applicationId}")
-    public ResponseEntity<ApplicationDTO> edit(@RequestBody ApplicationDTO applicationDTO){
+    public ResponseEntity<ApplicationDTO> edit(@RequestBody ApplicationDTO applicationDTO) {
         Application application = this.modelMapper.map(applicationDTO, Application.class);
 
         return new ResponseEntity<>(this.modelMapper.map(this.applicationService.edit(application),
@@ -55,7 +72,7 @@ public class ApplicationController {
     }
 
     @PostMapping
-    public ResponseEntity<ApplicationDTO> add(@RequestBody ApplicationDTO applicationDTO){
+    public ResponseEntity<ApplicationDTO> add(@RequestBody ApplicationDTO applicationDTO) {
         Application application = this.modelMapper.map(applicationDTO, Application.class);
 
         return new ResponseEntity<>(this.modelMapper.map(this.applicationService.add(application),
@@ -65,7 +82,7 @@ public class ApplicationController {
     }
 
     @DeleteMapping("/{applicationId}")
-    public ResponseEntity<ApplicationDTO> delete(@PathVariable Long applicationId){
+    public ResponseEntity<ApplicationDTO> delete(@PathVariable Long applicationId) {
 
         return new ResponseEntity<>(this.modelMapper.map(this.applicationService.delete(applicationId),
                 ApplicationDTO.class),

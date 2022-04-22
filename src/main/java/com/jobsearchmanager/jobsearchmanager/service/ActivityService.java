@@ -7,6 +7,8 @@ import java.util.Collection;
 
 public interface ActivityService {
 
+    Collection<Activity> browseByUserId(Long userId);
+
     Collection<Activity> browseByApplication(Long applicationId) throws NoResultException;
 
     Activity read(Long activityId) throws NoResultException;

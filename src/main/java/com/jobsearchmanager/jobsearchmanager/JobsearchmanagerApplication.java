@@ -9,11 +9,11 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
+import org.springframework.web.cors.CorsConfiguration;
+import org.springframework.web.cors.UrlBasedCorsConfigurationSource;
+import org.springframework.web.filter.CorsFilter;
 
-import java.util.ArrayList;
-import java.util.Date;
-import java.util.List;
-import java.util.Locale;
+import java.util.*;
 
 @SpringBootApplication
 public class JobsearchmanagerApplication {
@@ -32,6 +32,10 @@ public class JobsearchmanagerApplication {
 
         return args -> {
 
+            List<Boolean> booleans = new ArrayList<>();
+            booleans.add(true);
+            booleans.add(false);
+
             List<DiscussionEnum> discussionTypes = new ArrayList<>();
             discussionTypes.add(DiscussionEnum.MAIL_DISCUSSION);
             discussionTypes.add(DiscussionEnum.PHONE_MEETING);
@@ -40,9 +44,6 @@ public class JobsearchmanagerApplication {
 
             List<StatusEnum> applicationStatus = new ArrayList<>();
             applicationStatus.add(StatusEnum.GOING_TO_APPLY);
-            applicationStatus.add(StatusEnum.APPLIED);
-            applicationStatus.add(StatusEnum.RELAUNCH);
-            applicationStatus.add(StatusEnum.HAVE_A_MEETING);
 
             List<ResultEnum> applicationResults = new ArrayList<>();
             applicationResults.add(ResultEnum.NO_RESPONSE);
@@ -59,26 +60,28 @@ public class JobsearchmanagerApplication {
                         null,
                         faker.internet().emailAddress(),
                         this.passwordEncoder().encode("demo"),
+                        new ArrayList<>(),
                         new ArrayList<>()
                 );
 
                 appUser.setUsername(appUser.getFirstName().toLowerCase() + "." + appUser.getLastName().toLowerCase());
                 appUserRepository.save(appUser);
 
-                for (int j = 0; j < 10; j++) {
+                for (int j = 0; j < 2; j++) {
                     Application application = new Application(
                             null,
                             faker.job().title(),
                             faker.lorem().paragraph(2),
                             applicationStatus.get(faker.number().numberBetween(0, applicationStatus.size())),
                             faker.internet().url(),
-                            false,
+                            booleans.get(faker.number().numberBetween(0,booleans.size())),
                             applicationResults.get(faker.number().numberBetween(0, applicationResults.size())),
                             new Date(),
                             faker.company().name(),
                             faker.address().fullAddress(),
                             faker.internet().emailAddress(),
                             faker.phoneNumber().phoneNumber(),
+                            booleans.get(faker.number().numberBetween(0,booleans.size())),
                             new ArrayList<>(),
                             new ArrayList<>(),
                             new ArrayList<>(),
@@ -93,6 +96,7 @@ public class JobsearchmanagerApplication {
                                 applicationStatus.get(faker.number().numberBetween(0, applicationStatus.size())),
                                 applicationResults.get(faker.number().numberBetween(0, applicationResults.size())),
                                 new Date(),
+                                appUser,
                                 application
                         );
 
@@ -133,12 +137,25 @@ public class JobsearchmanagerApplication {
     }
 
     @Bean
-    ModelMapper modelMapper(){
+    ModelMapper modelMapper() {
         return new ModelMapper();
     }
 
     @Bean
-    BCryptPasswordEncoder passwordEncoder(){
+    BCryptPasswordEncoder passwordEncoder() {
         return new BCryptPasswordEncoder();
+    }
+
+    @Bean
+    public CorsFilter corsFilter() {
+        CorsConfiguration corsConfiguration = new CorsConfiguration();
+        corsConfiguration.setAllowCredentials(true);
+        corsConfiguration.setAllowedOrigins(Arrays.asList("http://localhost:4200"));
+        corsConfiguration.setAllowedHeaders(Arrays.asList("Origin", "Access-Control-Allow-Origin", "Content-Type", "Accept", "Authorization", "Origin, Accept", "X-Requested-With", "Access-Control-Request-Method", "Access-Control-Request-Headers"));
+        corsConfiguration.setExposedHeaders(Arrays.asList("Origin", "Content-Type", "Accept", "Authorization", "Access-Control-Allow-Origin", "Access-Control-Allow-Origin", "Access-Control-Allow-Credentials"));
+        corsConfiguration.setAllowedMethods(Arrays.asList("GET", "POST", "PUT", "DELETE", "OPTIONS"));
+        UrlBasedCorsConfigurationSource urlBasedCorsConfigurationSource = new UrlBasedCorsConfigurationSource();
+        urlBasedCorsConfigurationSource.registerCorsConfiguration("/**", corsConfiguration);
+        return new CorsFilter(urlBasedCorsConfigurationSource);
     }
 }

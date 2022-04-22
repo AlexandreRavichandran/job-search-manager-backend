@@ -26,4 +26,6 @@ public class AppUser {
     @OneToMany(targetEntity = Application.class,mappedBy = "relatedUser")
     private Collection<Application> applications;
 
+    @OneToMany(targetEntity = Activity.class, mappedBy = "relatedUser")
+    private Collection<Activity> activities;
 }

@@ -41,6 +41,8 @@ public class Application {
 
     private String contactPhoneNumber;
 
+    private Boolean moved;
+
     @OneToMany(targetEntity = Activity.class,mappedBy = "relatedApplication")
     private Collection<Activity> activities;
 

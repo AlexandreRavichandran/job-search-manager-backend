@@ -1,6 +1,7 @@
 package com.jobsearchmanager.jobsearchmanager.service;
 
 import com.jobsearchmanager.jobsearchmanager.domain.Activity;
+import com.jobsearchmanager.jobsearchmanager.domain.AppUser;
 import com.jobsearchmanager.jobsearchmanager.domain.Application;
 import com.jobsearchmanager.jobsearchmanager.repository.ActivityRepository;
 import com.jobsearchmanager.jobsearchmanager.repository.ApplicationRepository;
@@ -18,6 +19,11 @@ public class ActivityServiceImpl implements ActivityService {
 
     @Autowired
     ActivityRepository activityRepository;
+
+    @Override
+    public Collection<Activity> browseByUserId(Long userId) {
+        return this.activityRepository.findByRelatedUser(userId);
+    }
 
     @Override
     public Collection<Activity> browseByApplication(Long applicationId) throws NoResultException {

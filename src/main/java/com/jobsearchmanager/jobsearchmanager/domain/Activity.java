@@ -23,6 +23,9 @@ public class Activity {
 
     private Date changedAt;
 
+    @ManyToOne(targetEntity = AppUser.class)
+    private AppUser relatedUser;
+
     @ManyToOne(targetEntity = Application.class)
     private Application relatedApplication;
 }

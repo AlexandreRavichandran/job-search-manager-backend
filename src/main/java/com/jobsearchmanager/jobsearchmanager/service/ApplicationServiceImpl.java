@@ -34,6 +34,11 @@ public class ApplicationServiceImpl implements ApplicationService {
     }
 
     @Override
+    public Application importByLink(String link) throws NoResultException {
+        return new Application();
+    }
+
+    @Override
     public Application read(Long applicationId) throws NoResultException {
 
         return this.applicationRepository.findById(applicationId).orElseThrow(NoResultException::new);

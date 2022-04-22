@@ -18,4 +18,6 @@ public interface ApplicationService {
     Application delete(Long applicationId) throws NoResultException;
 
     Collection<Application> browseByStatus(Long userId) throws NoResultException;
+
+    Application importByLink(String link) throws NoResultException;
 }

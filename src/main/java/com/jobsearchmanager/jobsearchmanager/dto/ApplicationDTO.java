@@ -33,4 +33,6 @@ public class ApplicationDTO {
 
     private String contactPhoneNumber;
 
+    private Boolean moved;
+
 }
