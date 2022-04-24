@@ -2,6 +2,7 @@ package com.jobsearchmanager.jobsearchmanager.service;
 
 import com.jobsearchmanager.jobsearchmanager.domain.AppUser;
 import com.jobsearchmanager.jobsearchmanager.domain.Application;
+import com.jobsearchmanager.jobsearchmanager.domain.StatusEnum;
 import com.jobsearchmanager.jobsearchmanager.repository.AppUserRepository;
 import com.jobsearchmanager.jobsearchmanager.repository.ApplicationRepository;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -27,10 +28,10 @@ public class ApplicationServiceImpl implements ApplicationService {
     }
 
     @Override
-    public Collection<Application> browseByStatus(Long userId) throws NoResultException {
+    public Collection<Application> browseByStatusAndArchived(Long userId, StatusEnum status, String archived) throws NoResultException {
         AppUser appUser = this.appUserRepository.findById(userId).orElseThrow(NoResultException::new);
 
-        return this.applicationRepository.findByRelatedUserId(appUser.getId());
+        return this.applicationRepository.findByRelatedUserIdAndStatusAndArchived(appUser.getId(), status, Boolean.getBoolean(archived));
     }
 
     @Override

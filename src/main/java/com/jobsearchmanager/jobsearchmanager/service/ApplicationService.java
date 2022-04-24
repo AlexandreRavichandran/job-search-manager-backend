@@ -1,6 +1,7 @@
 package com.jobsearchmanager.jobsearchmanager.service;
 
 import com.jobsearchmanager.jobsearchmanager.domain.Application;
+import com.jobsearchmanager.jobsearchmanager.domain.StatusEnum;
 
 import javax.persistence.NoResultException;
 import java.util.Collection;
@@ -17,7 +18,7 @@ public interface ApplicationService {
 
     Application delete(Long applicationId) throws NoResultException;
 
-    Collection<Application> browseByStatus(Long userId) throws NoResultException;
+    Collection<Application> browseByStatusAndArchived(Long userId, StatusEnum status, String archived) throws NoResultException;
 
     Application importByLink(String link) throws NoResultException;
 }

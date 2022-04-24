@@ -21,6 +21,9 @@ public class Activity {
 
     private ResultEnum result;
 
+    @Column(columnDefinition = "LONGTEXT")
+    private String description;
+
     private Date changedAt;
 
     @ManyToOne(targetEntity = AppUser.class)

@@ -1,9 +1,10 @@
 package com.jobsearchmanager.jobsearchmanager.dto;
 
-import com.jobsearchmanager.jobsearchmanager.domain.ResultEnum;
-import com.jobsearchmanager.jobsearchmanager.domain.StatusEnum;
+import com.jobsearchmanager.jobsearchmanager.domain.*;
 import lombok.Data;
 
+import javax.persistence.OneToMany;
+import java.util.Collection;
 import java.util.Date;
 
 @Data
@@ -34,5 +35,11 @@ public class ApplicationDTO {
     private String contactPhoneNumber;
 
     private Boolean moved;
+
+    private Collection<ActivityDTO> activities;
+
+    private Collection<NoteDTO> notes;
+
+    private Collection<DiscussionDTO> discussions;
 
 }

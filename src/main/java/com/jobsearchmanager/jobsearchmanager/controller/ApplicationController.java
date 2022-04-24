@@ -1,8 +1,11 @@
 package com.jobsearchmanager.jobsearchmanager.controller;
 
+import com.jobsearchmanager.jobsearchmanager.converter.StatusStringToEnumConverter;
 import com.jobsearchmanager.jobsearchmanager.domain.Application;
+import com.jobsearchmanager.jobsearchmanager.domain.StatusEnum;
 import com.jobsearchmanager.jobsearchmanager.dto.ApplicationDTO;
 import com.jobsearchmanager.jobsearchmanager.dto.ApplicationImportationDTO;
+import com.jobsearchmanager.jobsearchmanager.repository.AppUserRepository;
 import com.jobsearchmanager.jobsearchmanager.service.ApplicationServiceImpl;
 import com.jobsearchmanager.jobsearchmanager.utils.thirdpartyapi.ThirdpartyAPISelector;
 import org.modelmapper.ModelMapper;
@@ -27,11 +30,20 @@ public class ApplicationController {
     @Autowired
     ThirdpartyAPISelector apiSelector;
 
-    @GetMapping
-    public ResponseEntity<Collection<ApplicationDTO>> getByStatus() {
+    @Autowired
+    StatusStringToEnumConverter stringToEnumConverter;
 
+    @Autowired
+    AppUserRepository appUserRepository;
+
+    @GetMapping("/status/{status}/archived/{archived}")
+    public ResponseEntity<Collection<ApplicationDTO>> getByStatus(@PathVariable("status") String status,
+                                                                  @PathVariable("archived") String archived) {
         return new ResponseEntity<>(
-                this.applicationService.browseByStatus(1L)
+                this.applicationService.browseByStatusAndArchived(
+                                1L,
+                                this.stringToEnumConverter.convert(status),
+                                archived)
                         .stream()
                         .map(application -> this.modelMapper.map(application, ApplicationDTO.class))
                         .collect(Collectors.toList()),
@@ -53,7 +65,7 @@ public class ApplicationController {
     }
 
     @GetMapping("/{applicationId}")
-    public ResponseEntity<ApplicationDTO> read(@PathVariable("application") Long applicationId) {
+    public ResponseEntity<ApplicationDTO> read(@PathVariable("applicationId") Long applicationId) {
 
         return new ResponseEntity<>(this.modelMapper.map(this.applicationService.read(applicationId),
                 ApplicationDTO.class),
@@ -64,7 +76,7 @@ public class ApplicationController {
     @PutMapping("/{applicationId}")
     public ResponseEntity<ApplicationDTO> edit(@RequestBody ApplicationDTO applicationDTO) {
         Application application = this.modelMapper.map(applicationDTO, Application.class);
-
+        application.setRelatedUser(this.appUserRepository.getById(1L));
         return new ResponseEntity<>(this.modelMapper.map(this.applicationService.edit(application),
                 ApplicationDTO.class),
                 HttpStatus.OK
@@ -74,7 +86,7 @@ public class ApplicationController {
     @PostMapping
     public ResponseEntity<ApplicationDTO> add(@RequestBody ApplicationDTO applicationDTO) {
         Application application = this.modelMapper.map(applicationDTO, Application.class);
-
+        application.setRelatedUser(this.appUserRepository.getById(1L));
         return new ResponseEntity<>(this.modelMapper.map(this.applicationService.add(application),
                 ApplicationDTO.class),
                 HttpStatus.OK
@@ -82,7 +94,7 @@ public class ApplicationController {
     }
 
     @DeleteMapping("/{applicationId}")
-    public ResponseEntity<ApplicationDTO> delete(@PathVariable Long applicationId) {
+    public ResponseEntity<ApplicationDTO> delete(@PathVariable("applicationId")  Long applicationId) {
 
         return new ResponseEntity<>(this.modelMapper.map(this.applicationService.delete(applicationId),
                 ApplicationDTO.class),

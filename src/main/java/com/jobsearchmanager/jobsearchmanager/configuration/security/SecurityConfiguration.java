@@ -1,4 +1,4 @@
-package com.jobsearchmanager.jobsearchmanager.security;
+package com.jobsearchmanager.jobsearchmanager.configuration.security;
 
 import com.jobsearchmanager.jobsearchmanager.filter.JWTFilter;
 import com.jobsearchmanager.jobsearchmanager.service.AppUserServiceImpl;

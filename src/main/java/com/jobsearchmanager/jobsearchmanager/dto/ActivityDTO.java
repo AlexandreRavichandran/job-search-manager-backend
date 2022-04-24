@@ -14,5 +14,7 @@ public class ActivityDTO {
 
     private ResultEnum result;
 
+    private String description;
+
     private Date changedAt;
 }

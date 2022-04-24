@@ -1,5 +1,6 @@
 package com.jobsearchmanager.jobsearchmanager;
 
+import com.github.javafaker.Bool;
 import com.github.javafaker.Faker;
 import com.jobsearchmanager.jobsearchmanager.domain.*;
 import com.jobsearchmanager.jobsearchmanager.repository.*;
@@ -74,14 +75,14 @@ public class JobsearchmanagerApplication {
                             faker.lorem().paragraph(2),
                             applicationStatus.get(faker.number().numberBetween(0, applicationStatus.size())),
                             faker.internet().url(),
-                            booleans.get(faker.number().numberBetween(0,booleans.size())),
+                            booleans.get(faker.number().numberBetween(0, booleans.size())),
                             applicationResults.get(faker.number().numberBetween(0, applicationResults.size())),
                             new Date(),
                             faker.company().name(),
                             faker.address().fullAddress(),
                             faker.internet().emailAddress(),
                             faker.phoneNumber().phoneNumber(),
-                            booleans.get(faker.number().numberBetween(0,booleans.size())),
+                            booleans.get(faker.number().numberBetween(0, booleans.size())),
                             new ArrayList<>(),
                             new ArrayList<>(),
                             new ArrayList<>(),
@@ -93,12 +94,19 @@ public class JobsearchmanagerApplication {
                     for (int k = 0; k < 4; k++) {
                         Activity activity = new Activity(
                                 null,
-                                applicationStatus.get(faker.number().numberBetween(0, applicationStatus.size())),
-                                applicationResults.get(faker.number().numberBetween(0, applicationResults.size())),
+                                null,
+                                null,
+                                faker.lorem().paragraph(),
                                 new Date(),
                                 appUser,
                                 application
                         );
+                        Boolean randomBoolean = booleans.get(faker.number().numberBetween(1, 2));
+                        if (Boolean.TRUE.equals(randomBoolean)) {
+                            activity.setStatus(applicationStatus.get(faker.number().numberBetween(0, applicationStatus.size())));
+                        } else {
+                            activity.setResult(applicationResults.get(faker.number().numberBetween(0, applicationResults.size())));
+                        }
 
                         activityRepository.save(activity);
                     }
