@@ -10,9 +10,9 @@ import java.util.Date;
 public class ActivityDTO {
     private Long id;
 
-    private StatusEnum status;
+    private String status;
 
-    private ResultEnum result;
+    private String result;
 
     private String description;
 

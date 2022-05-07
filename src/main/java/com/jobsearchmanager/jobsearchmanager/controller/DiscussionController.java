@@ -1,5 +1,6 @@
 package com.jobsearchmanager.jobsearchmanager.controller;
 
+import com.jobsearchmanager.jobsearchmanager.converter.DiscussionStringToEnumConverter;
 import com.jobsearchmanager.jobsearchmanager.domain.Discussion;
 import com.jobsearchmanager.jobsearchmanager.dto.DiscussionDTO;
 import com.jobsearchmanager.jobsearchmanager.service.DiscussionServiceImpl;
@@ -21,6 +22,9 @@ public class DiscussionController {
 
     @Autowired
     private ModelMapper modelMapper;
+
+    @Autowired
+    DiscussionStringToEnumConverter discussionStringToEnumConverter;
 
     @GetMapping
     public ResponseEntity<Collection<DiscussionDTO>> browseByApplication(@PathVariable("applicationId") Long applicationId){
@@ -44,6 +48,7 @@ public class DiscussionController {
     @PutMapping("/{discussionId}")
     public ResponseEntity<DiscussionDTO> edit(@RequestBody DiscussionDTO discussionDTO){
         Discussion discussion = this.modelMapper.map(discussionDTO,Discussion.class);
+        discussion.setType(this.discussionStringToEnumConverter.convert(discussionDTO.getType()));
         return new ResponseEntity<>(this.modelMapper.map(this.discussionService.edit(discussion),
                 DiscussionDTO.class),
                 HttpStatus.OK

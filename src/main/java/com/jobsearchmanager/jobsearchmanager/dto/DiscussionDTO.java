@@ -12,9 +12,9 @@ public class DiscussionDTO {
 
     private String date;
 
-    private DiscussionEnum type;
+    private String type;
 
-    private String comment;
+    private String description;
 
     private Date createdAt;
 }

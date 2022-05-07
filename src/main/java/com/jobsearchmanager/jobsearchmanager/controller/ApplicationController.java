@@ -1,8 +1,8 @@
 package com.jobsearchmanager.jobsearchmanager.controller;
 
 import com.jobsearchmanager.jobsearchmanager.converter.StatusStringToEnumConverter;
+import com.jobsearchmanager.jobsearchmanager.domain.AppUser;
 import com.jobsearchmanager.jobsearchmanager.domain.Application;
-import com.jobsearchmanager.jobsearchmanager.domain.StatusEnum;
 import com.jobsearchmanager.jobsearchmanager.dto.ApplicationDTO;
 import com.jobsearchmanager.jobsearchmanager.dto.ApplicationImportationDTO;
 import com.jobsearchmanager.jobsearchmanager.repository.AppUserRepository;
@@ -19,7 +19,7 @@ import java.util.stream.Collectors;
 
 @RestController
 @RequestMapping("/api/applications")
-public class ApplicationController {
+public class ApplicationController extends AbstractController{
 
     @Autowired
     ApplicationServiceImpl applicationService;
@@ -39,9 +39,10 @@ public class ApplicationController {
     @GetMapping("/status/{status}/archived/{archived}")
     public ResponseEntity<Collection<ApplicationDTO>> getByStatus(@PathVariable("status") String status,
                                                                   @PathVariable("archived") String archived) {
+        AppUser currentUser = this.getCurrentLoggedUser();
         return new ResponseEntity<>(
                 this.applicationService.browseByStatusAndArchived(
-                                1L,
+                                currentUser.getId(),
                                 this.stringToEnumConverter.convert(status),
                                 archived)
                         .stream()
@@ -76,7 +77,7 @@ public class ApplicationController {
     @PutMapping("/{applicationId}")
     public ResponseEntity<ApplicationDTO> edit(@RequestBody ApplicationDTO applicationDTO) {
         Application application = this.modelMapper.map(applicationDTO, Application.class);
-        application.setRelatedUser(this.appUserRepository.getById(1L));
+        application.setRelatedUser(this.getCurrentLoggedUser());
         return new ResponseEntity<>(this.modelMapper.map(this.applicationService.edit(application),
                 ApplicationDTO.class),
                 HttpStatus.OK
@@ -86,7 +87,8 @@ public class ApplicationController {
     @PostMapping
     public ResponseEntity<ApplicationDTO> add(@RequestBody ApplicationDTO applicationDTO) {
         Application application = this.modelMapper.map(applicationDTO, Application.class);
-        application.setRelatedUser(this.appUserRepository.getById(1L));
+        application.setRelatedUser(this.getCurrentLoggedUser());
+        application.setStatus(this.stringToEnumConverter.convert(applicationDTO.getStatus()));
         return new ResponseEntity<>(this.modelMapper.map(this.applicationService.add(application),
                 ApplicationDTO.class),
                 HttpStatus.OK

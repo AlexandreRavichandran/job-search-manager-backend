@@ -40,7 +40,6 @@ public class NoteController {
     @PutMapping("/{noteId}")
     public ResponseEntity<NoteDTO> edit(@RequestBody NoteDTO noteDTO) {
         Note note = this.modelMapper.map(noteDTO, Note.class);
-
         return new ResponseEntity<>(this.modelMapper.map(this.noteService.edit(note), NoteDTO.class), HttpStatus.OK);
     }
 

@@ -39,6 +39,8 @@ public class Application {
 
     private String companyAddress;
 
+    private String contactName;
+
     private String contactEmail;
 
     private String contactPhoneNumber;

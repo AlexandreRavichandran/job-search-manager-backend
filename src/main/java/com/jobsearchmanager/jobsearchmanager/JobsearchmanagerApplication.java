@@ -53,7 +53,7 @@ public class JobsearchmanagerApplication {
 
             Faker faker = new Faker(Locale.FRANCE);
 
-            for (int i = 0; i < 3; i++) {
+            for (int i = 1; i < 4; i++) {
                 AppUser appUser = new AppUser(
                         null,
                         faker.name().firstName(),
@@ -65,10 +65,12 @@ public class JobsearchmanagerApplication {
                         new ArrayList<>()
                 );
 
-                appUser.setUsername(appUser.getFirstName().toLowerCase() + "." + appUser.getLastName().toLowerCase());
+                //appUser.setUsername(appUser.getFirstName().toLowerCase() + "." + appUser.getLastName().toLowerCase() + i);
+                appUser.setUsername("test" + i);
+
                 appUserRepository.save(appUser);
 
-                for (int j = 0; j < 2; j++) {
+                for (int j = 0; j < 5; j++) {
                     Application application = new Application(
                             null,
                             faker.job().title(),
@@ -80,6 +82,7 @@ public class JobsearchmanagerApplication {
                             new Date(),
                             faker.company().name(),
                             faker.address().fullAddress(),
+                            faker.name().fullName(),
                             faker.internet().emailAddress(),
                             faker.phoneNumber().phoneNumber(),
                             booleans.get(faker.number().numberBetween(0, booleans.size())),

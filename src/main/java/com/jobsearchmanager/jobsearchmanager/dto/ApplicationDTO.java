@@ -16,19 +16,21 @@ public class ApplicationDTO {
 
     private String description;
 
-    private StatusEnum status;
+    private String status;
 
     private String link;
 
     private Boolean archived;
 
-    private ResultEnum result;
+    private String result;
 
     private Date createdAt;
 
     private String companyName;
 
     private String companyAddress;
+
+    private String contactName;
 
     private String contactEmail;
 

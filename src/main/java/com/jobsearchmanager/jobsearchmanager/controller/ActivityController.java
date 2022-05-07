@@ -40,6 +40,16 @@ public class ActivityController {
         );
     }
 
+    @PutMapping("/applications/{applicationId}/activities/{activityId}")
+    public ResponseEntity<ActivityDTO> edit(@RequestBody ActivityDTO activityDTO){
+        Activity activity = this.modelMapper.map(activityDTO, Activity.class);
+
+        return new ResponseEntity<>(
+                this.modelMapper.map(this.activityService.edit(activity),ActivityDTO.class),
+                HttpStatus.OK
+        );
+    }
+
     @PostMapping("/applications/{applicationId}/activities")
     public ResponseEntity<ActivityDTO> add(@RequestBody ActivityDTO activityDTO){
         Activity activity = this.modelMapper.map(activityDTO, Activity.class);

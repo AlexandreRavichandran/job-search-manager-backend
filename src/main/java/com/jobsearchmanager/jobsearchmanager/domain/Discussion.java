@@ -21,7 +21,7 @@ public class Discussion {
 
     private DiscussionEnum type;
 
-    private String comment;
+    private String description;
 
     private Date createdAt;
 

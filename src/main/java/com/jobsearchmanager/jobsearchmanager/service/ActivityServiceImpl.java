@@ -39,6 +39,14 @@ public class ActivityServiceImpl implements ActivityService {
     }
 
     @Override
+    public Activity edit(Activity activityToEdit) throws NoResultException {
+
+        this.activityRepository.findById(activityToEdit.getId()).orElseThrow(NoResultException::new);
+
+        return this.activityRepository.save(activityToEdit);
+    }
+
+    @Override
     public Activity add(Activity activity) {
         return this.activityRepository.save(activity);
     }

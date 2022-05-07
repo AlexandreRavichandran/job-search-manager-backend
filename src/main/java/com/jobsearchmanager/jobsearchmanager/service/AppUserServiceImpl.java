@@ -15,7 +15,7 @@ import java.util.ArrayList;
 import static java.util.Objects.isNull;
 
 @Service
-public class AppUserServiceImpl implements AppUserService{
+public class AppUserServiceImpl implements AppUserService {
 
     @Autowired
     AppUserRepository appUserRepository;
@@ -28,13 +28,20 @@ public class AppUserServiceImpl implements AppUserService{
     }
 
     @Override
+    public AppUser getAppUserByUsername(String username) throws NoResultException {
+        return this.appUserRepository.findByUsername(username);
+    }
+
+    @Override
     public UserDetails loadUserByUsername(String username) throws UsernameNotFoundException {
         AppUser appUser = this.appUserRepository.findByUsername(username);
 
-        if(isNull(appUser)){
+        if (isNull(appUser)) {
             throw new UsernameNotFoundException("Bad credentials");
         }
 
         return new User(appUser.getUsername(), appUser.getPassword(), new ArrayList<>());
     }
+
+
 }

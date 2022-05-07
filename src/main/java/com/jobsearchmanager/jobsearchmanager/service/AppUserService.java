@@ -8,4 +8,6 @@ import javax.persistence.NoResultException;
 public interface AppUserService extends UserDetailsService {
 
     AppUser edit(AppUser appUserToEdit) throws NoResultException;
+
+    AppUser getAppUserByUsername(String username) throws NoResultException;
 }
