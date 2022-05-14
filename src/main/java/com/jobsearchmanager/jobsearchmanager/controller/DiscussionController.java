@@ -15,7 +15,7 @@ import java.util.stream.Collectors;
 
 @RestController
 @RequestMapping("/api/applications/{applicationId}/discussions")
-public class DiscussionController {
+public class DiscussionController extends AbstractController{
 
     @Autowired
     private DiscussionServiceImpl discussionService;
@@ -56,9 +56,8 @@ public class DiscussionController {
     }
 
     @PostMapping
-    public ResponseEntity<DiscussionDTO> add(@RequestBody DiscussionDTO discussionDTO){
+    public ResponseEntity<DiscussionDTO> add(@PathVariable("applicationId") Long applicationId, @RequestBody DiscussionDTO discussionDTO){
         Discussion discussion = this.modelMapper.map(discussionDTO, Discussion.class);
-
         return new ResponseEntity<>(this.modelMapper.map(this.discussionService.add(discussion),
                 DiscussionDTO.class),
                 HttpStatus.OK

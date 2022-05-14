@@ -5,10 +5,12 @@ import com.jobsearchmanager.jobsearchmanager.domain.Application;
 import com.jobsearchmanager.jobsearchmanager.domain.StatusEnum;
 import com.jobsearchmanager.jobsearchmanager.repository.AppUserRepository;
 import com.jobsearchmanager.jobsearchmanager.repository.ApplicationRepository;
+import com.jobsearchmanager.jobsearchmanager.utils.thirdpartyapi.ThirdpartyAPISelector;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import javax.persistence.NoResultException;
+import java.io.IOException;
 import java.util.Collection;
 
 @Service
@@ -19,6 +21,9 @@ public class ApplicationServiceImpl implements ApplicationService {
 
     @Autowired
     ApplicationRepository applicationRepository;
+
+    @Autowired
+    ThirdpartyAPISelector apiSelector;
 
     @Override
     public Collection<Application> browseByUser(Long userId) throws NoResultException {
@@ -35,8 +40,8 @@ public class ApplicationServiceImpl implements ApplicationService {
     }
 
     @Override
-    public Application importByLink(String link) throws NoResultException {
-        return new Application();
+    public Application importByLink(String link) throws NoResultException, IOException {
+        return this.apiSelector.guessServiceByLink(link);
     }
 
     @Override
@@ -53,7 +58,7 @@ public class ApplicationServiceImpl implements ApplicationService {
     }
 
     @Override
-    public Application add(Application applicationToAdd) throws NoResultException {
+    public Application add(Application applicationToAdd){
 
         return this.applicationRepository.save(applicationToAdd);
     }

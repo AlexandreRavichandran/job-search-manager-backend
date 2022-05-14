@@ -4,6 +4,7 @@ import com.jobsearchmanager.jobsearchmanager.domain.Application;
 import com.jobsearchmanager.jobsearchmanager.domain.StatusEnum;
 
 import javax.persistence.NoResultException;
+import java.io.IOException;
 import java.util.Collection;
 
 public interface ApplicationService {
@@ -14,11 +15,11 @@ public interface ApplicationService {
 
     Application edit(Application editedApplication) throws NoResultException;
 
-    Application add(Application applicationToAdd) throws NoResultException;
+    Application add(Application applicationToAdd);
 
     Application delete(Long applicationId) throws NoResultException;
 
     Collection<Application> browseByStatusAndArchived(Long userId, StatusEnum status, String archived) throws NoResultException;
 
-    Application importByLink(String link) throws NoResultException;
+    Application importByLink(String link) throws NoResultException, IOException;
 }

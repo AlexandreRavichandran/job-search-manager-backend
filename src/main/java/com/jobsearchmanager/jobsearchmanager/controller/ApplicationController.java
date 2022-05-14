@@ -1,5 +1,6 @@
 package com.jobsearchmanager.jobsearchmanager.controller;
 
+import com.jobsearchmanager.jobsearchmanager.converter.ResultStringToEnumConverter;
 import com.jobsearchmanager.jobsearchmanager.converter.StatusStringToEnumConverter;
 import com.jobsearchmanager.jobsearchmanager.domain.AppUser;
 import com.jobsearchmanager.jobsearchmanager.domain.Application;
@@ -28,10 +29,10 @@ public class ApplicationController extends AbstractController{
     ModelMapper modelMapper;
 
     @Autowired
-    ThirdpartyAPISelector apiSelector;
+    StatusStringToEnumConverter statusStringToEnumConverter;
 
     @Autowired
-    StatusStringToEnumConverter stringToEnumConverter;
+    ResultStringToEnumConverter resultStringToEnumConverter;
 
     @Autowired
     AppUserRepository appUserRepository;
@@ -43,7 +44,7 @@ public class ApplicationController extends AbstractController{
         return new ResponseEntity<>(
                 this.applicationService.browseByStatusAndArchived(
                                 currentUser.getId(),
-                                this.stringToEnumConverter.convert(status),
+                                this.statusStringToEnumConverter.convert(status),
                                 archived)
                         .stream()
                         .map(application -> this.modelMapper.map(application, ApplicationDTO.class))
@@ -56,7 +57,7 @@ public class ApplicationController extends AbstractController{
     public ResponseEntity<ApplicationDTO> importByLink(@RequestBody ApplicationImportationDTO applicationImportation) {
         try {
             return new ResponseEntity<>(
-                    this.modelMapper.map(this.apiSelector.guessServiceByLink(applicationImportation.getLink()),
+                    this.modelMapper.map(this.applicationService.importByLink(applicationImportation.getLink()),
                             ApplicationDTO.class),
                     HttpStatus.OK);
         } catch (Exception e) {
@@ -77,6 +78,8 @@ public class ApplicationController extends AbstractController{
     @PutMapping("/{applicationId}")
     public ResponseEntity<ApplicationDTO> edit(@RequestBody ApplicationDTO applicationDTO) {
         Application application = this.modelMapper.map(applicationDTO, Application.class);
+        application.setStatus(this.statusStringToEnumConverter.convert(applicationDTO.getStatus()));
+        application.setResult(this.resultStringToEnumConverter.convert(applicationDTO.getResult()));
         application.setRelatedUser(this.getCurrentLoggedUser());
         return new ResponseEntity<>(this.modelMapper.map(this.applicationService.edit(application),
                 ApplicationDTO.class),
@@ -88,7 +91,7 @@ public class ApplicationController extends AbstractController{
     public ResponseEntity<ApplicationDTO> add(@RequestBody ApplicationDTO applicationDTO) {
         Application application = this.modelMapper.map(applicationDTO, Application.class);
         application.setRelatedUser(this.getCurrentLoggedUser());
-        application.setStatus(this.stringToEnumConverter.convert(applicationDTO.getStatus()));
+        application.setStatus(this.statusStringToEnumConverter.convert(applicationDTO.getStatus()));
         return new ResponseEntity<>(this.modelMapper.map(this.applicationService.add(application),
                 ApplicationDTO.class),
                 HttpStatus.OK
