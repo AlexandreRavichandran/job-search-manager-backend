@@ -33,10 +33,10 @@ public class ApplicationServiceImpl implements ApplicationService {
     }
 
     @Override
-    public Collection<Application> browseByStatusAndArchived(Long userId, StatusEnum status, String archived) throws NoResultException {
+    public Collection<Application> browseByStatusAndArchived(Long userId, StatusEnum status, Boolean archived) throws NoResultException {
         AppUser appUser = this.appUserRepository.findById(userId).orElseThrow(NoResultException::new);
 
-        return this.applicationRepository.findByRelatedUserIdAndStatusAndArchived(appUser.getId(), status, Boolean.getBoolean(archived));
+        return this.applicationRepository.findByRelatedUserIdAndStatusAndArchived(appUser.getId(), status, archived);
     }
 
     @Override

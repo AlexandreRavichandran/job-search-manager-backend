@@ -88,7 +88,7 @@ class ApplicationServiceImplTest {
         Mockito.when(this.appUserRepository.findById(1L)).thenReturn(Optional.of(userExample));
         Mockito.when(this.applicationRepository.findByRelatedUserIdAndStatusAndArchived(1L, StatusEnum.APPLIED, Boolean.FALSE)).thenReturn(applicationList);
 
-        this.applicationService.browseByStatusAndArchived(1L, StatusEnum.APPLIED, "false ");
+        this.applicationService.browseByStatusAndArchived(1L, StatusEnum.APPLIED, Boolean.FALSE);
 
         Mockito.verify(this.applicationRepository).findByRelatedUserIdAndStatusAndArchived(1L, StatusEnum.APPLIED, Boolean.getBoolean("false"));
 

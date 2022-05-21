@@ -19,7 +19,7 @@ public interface ApplicationService {
 
     Application delete(Long applicationId) throws NoResultException;
 
-    Collection<Application> browseByStatusAndArchived(Long userId, StatusEnum status, String archived) throws NoResultException;
+    Collection<Application> browseByStatusAndArchived(Long userId, StatusEnum status, Boolean archived) throws NoResultException;
 
     Application importByLink(String link) throws NoResultException, IOException;
 }

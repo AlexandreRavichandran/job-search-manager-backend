@@ -40,12 +40,12 @@ public class ApplicationController extends AbstractController{
     @GetMapping("/status/{status}/archived/{archived}")
     public ResponseEntity<Collection<ApplicationDTO>> getByStatus(@PathVariable("status") String status,
                                                                   @PathVariable("archived") String archived) {
-        AppUser currentUser = this.getCurrentLoggedUser();
+            AppUser currentUser = this.getCurrentLoggedUser();
         return new ResponseEntity<>(
                 this.applicationService.browseByStatusAndArchived(
                                 currentUser.getId(),
                                 this.statusStringToEnumConverter.convert(status),
-                                archived)
+                                Boolean.parseBoolean(archived))
                         .stream()
                         .map(application -> this.modelMapper.map(application, ApplicationDTO.class))
                         .collect(Collectors.toList()),
