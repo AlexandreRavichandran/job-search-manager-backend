@@ -48,11 +48,11 @@ class NoteServiceImplTest {
         noteList.add(secondNoteExample);
 
         Mockito.when(this.applicationRepository.findById(2L)).thenReturn(Optional.of(applicationExample));
-        Mockito.when(this.noteRepository.findByRelatedApplication(2L)).thenReturn(noteList);
+        Mockito.when(this.noteRepository.findByRelatedApplicationId(2L)).thenReturn(noteList);
 
         this.noteService.browseByApplication(2L);
 
-        Mockito.verify(this.noteRepository).findByRelatedApplication(2L);
+        Mockito.verify(this.noteRepository).findByRelatedApplicationId(2L);
     }
 
     @Test

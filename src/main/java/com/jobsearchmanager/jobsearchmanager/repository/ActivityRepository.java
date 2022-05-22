@@ -10,8 +10,8 @@ import java.util.Collection;
 @Repository
 public interface ActivityRepository extends JpaRepository<Activity, Long> {
 
-    Collection<Activity> findByRelatedApplication(Long applicationId);
+    Collection<Activity> findByRelatedApplicationId(Long applicationId);
 
     @Query(value = "SELECT a from Activity a JOIN a.relatedUser u WHERE u.id = :userId")
-    Collection<Activity> findByRelatedUser(Long userId);
+    Collection<Activity> findByRelatedUserId(Long userId);
 }

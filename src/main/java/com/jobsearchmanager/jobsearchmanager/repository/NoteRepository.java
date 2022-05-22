@@ -9,6 +9,6 @@ import java.util.Collection;
 @Repository
 public interface NoteRepository extends JpaRepository<Note, Long> {
 
-    Collection<Note> findByRelatedApplication(Long applicationId);
+    Collection<Note> findByRelatedApplicationId(Long applicationId);
 
 }

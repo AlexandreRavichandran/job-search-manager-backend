@@ -48,11 +48,11 @@ class DiscussionServiceImplTest extends MockitoExtension {
         discussionList.add(secondDiscussionExample);
 
         Mockito.when(this.applicationRepository.findById(2L)).thenReturn(Optional.of(applicationExample));
-        Mockito.when(this.discussionRepository.findByRelatedApplication(2L)).thenReturn(discussionList);
+        Mockito.when(this.discussionRepository.findByRelatedApplicationId(2L)).thenReturn(discussionList);
 
         this.discussionService.browseByApplication(2L);
 
-        Mockito.verify(this.discussionRepository).findByRelatedApplication(2L);
+        Mockito.verify(this.discussionRepository).findByRelatedApplicationId(2L);
     }
 
     @Test

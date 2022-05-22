@@ -22,14 +22,14 @@ public class ActivityServiceImpl implements ActivityService {
 
     @Override
     public Collection<Activity> browseByUserId(Long userId) {
-        return this.activityRepository.findByRelatedUser(userId);
+        return this.activityRepository.findByRelatedUserId(userId);
     }
 
     @Override
     public Collection<Activity> browseByApplication(Long applicationId) throws NoResultException {
         Application application = this.applicationRepository.findById(applicationId).orElseThrow(NoResultException::new);
 
-        return this.activityRepository.findByRelatedApplication(application.getId());
+        return this.activityRepository.findByRelatedApplicationId(application.getId());
     }
 
     @Override

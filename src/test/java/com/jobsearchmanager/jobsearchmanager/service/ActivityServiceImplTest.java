@@ -57,11 +57,11 @@ class ActivityServiceImplTest {
         activityList.add(firstActivityExample);
         activityList.add(secondActivityExample);
 
-        Mockito.when(this.activityRepository.findByRelatedUser(1L)).thenReturn(activityList);
+        Mockito.when(this.activityRepository.findByRelatedUserId(1L)).thenReturn(activityList);
 
         this.activityService.browseByUserId(1L);
 
-        Mockito.verify(this.activityRepository).findByRelatedUser(1L);
+        Mockito.verify(this.activityRepository).findByRelatedUserId(1L);
     }
 
     @Test
@@ -93,11 +93,11 @@ class ActivityServiceImplTest {
         activityList.add(firstActivityExample);
         activityList.add(secondActivityExample);
         Mockito.when(this.applicationRepository.findById(1L)).thenReturn(Optional.of(application));
-        Mockito.when(this.activityRepository.findByRelatedApplication(1L)).thenReturn(activityList);
+        Mockito.when(this.activityRepository.findByRelatedApplicationId(1L)).thenReturn(activityList);
 
         this.activityService.browseByApplication(1L);
 
-        Mockito.verify(this.activityRepository).findByRelatedApplication(1L);
+        Mockito.verify(this.activityRepository).findByRelatedApplicationId(1L);
     }
 
     @Test
