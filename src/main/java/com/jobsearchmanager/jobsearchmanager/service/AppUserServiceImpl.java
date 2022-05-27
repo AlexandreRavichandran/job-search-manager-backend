@@ -6,6 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.User;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
+import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 
 import javax.persistence.NoResultException;
@@ -20,6 +21,9 @@ public class AppUserServiceImpl implements AppUserService {
     @Autowired
     AppUserRepository appUserRepository;
 
+    @Autowired
+    PasswordEncoder passwordEncoder;
+
     @Override
     public AppUser edit(AppUser appUserToEdit) throws NoResultException {
         this.appUserRepository.findById(appUserToEdit.getId()).orElseThrow(NoResultException::new);
@@ -30,6 +34,12 @@ public class AppUserServiceImpl implements AppUserService {
     @Override
     public AppUser getAppUserByUsername(String username) throws NoResultException {
         return this.appUserRepository.findByUsername(username);
+    }
+
+    @Override
+    public AppUser save(AppUser appUser) {
+        appUser.setPassword(this.passwordEncoder.encode(appUser.getPassword()));
+        return this.appUserRepository.save(appUser);
     }
 
     @Override

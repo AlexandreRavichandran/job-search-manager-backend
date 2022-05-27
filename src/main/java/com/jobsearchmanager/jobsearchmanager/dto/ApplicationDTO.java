@@ -1,9 +1,7 @@
 package com.jobsearchmanager.jobsearchmanager.dto;
 
-import com.jobsearchmanager.jobsearchmanager.domain.*;
 import lombok.Data;
 
-import javax.persistence.OneToMany;
 import java.util.Collection;
 import java.util.Date;
 

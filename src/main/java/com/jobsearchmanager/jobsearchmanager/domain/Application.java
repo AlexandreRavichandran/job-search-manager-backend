@@ -3,6 +3,7 @@ package com.jobsearchmanager.jobsearchmanager.domain;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
+import org.hibernate.annotations.Cascade;
 import org.hibernate.annotations.Type;
 
 import javax.persistence.*;
@@ -47,13 +48,13 @@ public class Application {
 
     private Boolean moved;
 
-    @OneToMany(targetEntity = Activity.class,mappedBy = "relatedApplication")
+    @OneToMany(targetEntity = Activity.class,mappedBy = "relatedApplication",cascade = CascadeType.ALL)
     private Collection<Activity> activities;
 
-    @OneToMany(targetEntity = Note.class,mappedBy = "relatedApplication")
+    @OneToMany(targetEntity = Note.class,mappedBy = "relatedApplication",cascade = CascadeType.ALL)
     private Collection<Note> notes;
 
-    @OneToMany(targetEntity = Discussion.class,mappedBy = "relatedApplication")
+    @OneToMany(targetEntity = Discussion.class,mappedBy = "relatedApplication",cascade = CascadeType.ALL)
     private Collection<Discussion> discussions;
 
     @ManyToOne(targetEntity = AppUser.class)
