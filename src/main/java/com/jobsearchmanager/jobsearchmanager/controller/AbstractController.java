@@ -43,6 +43,8 @@ public abstract class AbstractController {
             case "RESULT_UPDATE":
                 activity.setResult(ResultEnum.valueOf(data));
                 break;
+            default:
+                break;
         }
         this.activityService.add(activity);
         return activity;

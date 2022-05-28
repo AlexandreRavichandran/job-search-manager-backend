@@ -1,6 +1,5 @@
 package com.jobsearchmanager.jobsearchmanager.utils.thirdpartyapi;
 
-import com.jobsearchmanager.jobsearchmanager.utils.thirdpartyapi.ThirdpartyAPIManager;
 import org.springframework.stereotype.Component;
 
 import java.util.HashMap;

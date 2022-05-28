@@ -8,7 +8,6 @@ import com.jobsearchmanager.jobsearchmanager.dto.ApplicationDTO;
 import com.jobsearchmanager.jobsearchmanager.dto.ApplicationImportationDTO;
 import com.jobsearchmanager.jobsearchmanager.repository.AppUserRepository;
 import com.jobsearchmanager.jobsearchmanager.service.ApplicationServiceImpl;
-import com.jobsearchmanager.jobsearchmanager.utils.thirdpartyapi.ThirdpartyAPISelector;
 import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

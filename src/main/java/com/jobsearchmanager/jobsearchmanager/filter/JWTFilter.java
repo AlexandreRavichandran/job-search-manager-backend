@@ -1,6 +1,5 @@
 package com.jobsearchmanager.jobsearchmanager.filter;
 
-import com.github.javafaker.Bool;
 import com.jobsearchmanager.jobsearchmanager.service.AppUserServiceImpl;
 import com.jobsearchmanager.jobsearchmanager.utils.JWTManager;
 import org.springframework.beans.factory.annotation.Autowired;

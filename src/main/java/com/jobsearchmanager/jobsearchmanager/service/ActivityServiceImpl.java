@@ -1,7 +1,6 @@
 package com.jobsearchmanager.jobsearchmanager.service;
 
 import com.jobsearchmanager.jobsearchmanager.domain.Activity;
-import com.jobsearchmanager.jobsearchmanager.domain.AppUser;
 import com.jobsearchmanager.jobsearchmanager.domain.Application;
 import com.jobsearchmanager.jobsearchmanager.repository.ActivityRepository;
 import com.jobsearchmanager.jobsearchmanager.repository.ApplicationRepository;

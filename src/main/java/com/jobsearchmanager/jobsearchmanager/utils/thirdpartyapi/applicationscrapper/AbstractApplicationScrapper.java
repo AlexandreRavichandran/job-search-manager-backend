@@ -3,7 +3,6 @@ package com.jobsearchmanager.jobsearchmanager.utils.thirdpartyapi.applicationscr
 import com.jobsearchmanager.jobsearchmanager.domain.Application;
 import com.jobsearchmanager.jobsearchmanager.domain.ResultEnum;
 import com.jobsearchmanager.jobsearchmanager.domain.StatusEnum;
-import com.jobsearchmanager.jobsearchmanager.utils.thirdpartyapi.ThirdpartyAPIManager;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 
@@ -19,7 +18,7 @@ public abstract class AbstractApplicationScrapper {
         return Jsoup.connect(link).get();
     }
 
-    abstract protected HashMap<String, String> retrieveData(Document document, Application emptyApplication);
+    protected abstract HashMap<String, String> retrieveData(Document document, Application emptyApplication);
 
     private Application generateApplication(HashMap<String, String> datas){
         Application application = new Application();

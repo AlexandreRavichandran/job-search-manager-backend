@@ -3,7 +3,6 @@ package com.jobsearchmanager.jobsearchmanager.utils.thirdpartyapi.applicationscr
 import com.jobsearchmanager.jobsearchmanager.domain.Application;
 import com.jobsearchmanager.jobsearchmanager.utils.thirdpartyapi.ThirdpartyAPIManager;
 import org.jsoup.nodes.Document;
-import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
 
 import java.util.HashMap;

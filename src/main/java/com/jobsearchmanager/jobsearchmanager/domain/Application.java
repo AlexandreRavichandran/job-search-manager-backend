@@ -3,10 +3,12 @@ package com.jobsearchmanager.jobsearchmanager.domain;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import org.hibernate.annotations.Cascade;
-import org.hibernate.annotations.Type;
 
 import javax.persistence.*;
+import javax.validation.Valid;
+import javax.validation.constraints.Email;
+import javax.validation.constraints.NotBlank;
+import javax.validation.constraints.Pattern;
 import java.util.Collection;
 import java.util.Date;
 
@@ -20,18 +22,22 @@ public class Application {
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
 
+    @NotBlank(message = "Application title cannot be null.")
     private String title;
 
     @Column(columnDefinition = "LONGTEXT")
     private String description;
 
     @Enumerated(EnumType.STRING)
+    @Valid
     private StatusEnum status;
 
+    @NotBlank(message = "Application link is required")
     private String link;
 
     private Boolean archived;
 
+    @Valid
     private ResultEnum result;
 
     private Date createdAt;
@@ -40,10 +46,13 @@ public class Application {
 
     private String companyAddress;
 
+    @Pattern(regexp = "[a-zA-Z]+", message = "Contact name can only contain letters")
     private String contactName;
 
+    @Email
     private String contactEmail;
 
+    @Pattern(regexp = "\\d+")
     private String contactPhoneNumber;
 
     private Boolean moved;

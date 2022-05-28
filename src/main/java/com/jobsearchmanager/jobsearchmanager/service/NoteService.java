@@ -1,6 +1,5 @@
 package com.jobsearchmanager.jobsearchmanager.service;
 
-import com.jobsearchmanager.jobsearchmanager.domain.Discussion;
 import com.jobsearchmanager.jobsearchmanager.domain.Note;
 
 import javax.persistence.NoResultException;

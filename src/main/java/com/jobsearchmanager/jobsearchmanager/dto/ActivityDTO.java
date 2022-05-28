@@ -1,7 +1,5 @@
 package com.jobsearchmanager.jobsearchmanager.dto;
 
-import com.jobsearchmanager.jobsearchmanager.domain.ResultEnum;
-import com.jobsearchmanager.jobsearchmanager.domain.StatusEnum;
 import lombok.Data;
 
 import java.util.Date;
