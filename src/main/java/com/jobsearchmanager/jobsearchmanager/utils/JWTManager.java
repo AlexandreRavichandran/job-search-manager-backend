@@ -3,8 +3,8 @@ package com.jobsearchmanager.jobsearchmanager.utils;
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;
+import io.jsonwebtoken.SignatureException;
 import org.springframework.security.core.userdetails.UserDetails;
-import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.stereotype.Component;
 
 import java.io.Serializable;
@@ -19,7 +19,7 @@ public class JWTManager implements Serializable {
 
     private static final long JWT_TOKEN_DURATION = 5 * 60 * 60;
 
-    private final String secretKey = "testSecret";
+    private static final String SECRET_KEY = "testSecret";
 
     public String getUsername(String token){
         return this.getClaimFromToken(token, Claims::getSubject);
@@ -39,7 +39,7 @@ public class JWTManager implements Serializable {
     }
 
     public Claims getAllClaimsFromToken(String token){
-        return Jwts.parser().setSigningKey(this.secretKey.getBytes(StandardCharsets.UTF_8)).parseClaimsJws(token).getBody();
+        return Jwts.parser().setSigningKey(SECRET_KEY.getBytes(StandardCharsets.UTF_8)).parseClaimsJws(token).getBody();
     }
 
     private Boolean isTokenExpired(String token){
@@ -53,7 +53,7 @@ public class JWTManager implements Serializable {
                 .setSubject(subject)
                 .setIssuedAt(new Date(System.currentTimeMillis()))
                 .setExpiration(new Date(System.currentTimeMillis() + JWT_TOKEN_DURATION * 1000))
-                .signWith(SignatureAlgorithm.HS512, this.secretKey.getBytes(StandardCharsets.UTF_8))
+                .signWith(SignatureAlgorithm.HS512, SECRET_KEY.getBytes(StandardCharsets.UTF_8))
                 .compact();
     }
 
@@ -67,4 +67,12 @@ public class JWTManager implements Serializable {
         return (username.equals(userDetails.getUsername())) && !isTokenExpired(token);
     }
 
+    public Boolean checkTokenFormat(String token){
+        try{
+            Jwts.parser().setSigningKey(SECRET_KEY.getBytes(StandardCharsets.UTF_8)).parseClaimsJws(token).getBody();
+            return true;
+        }catch (SignatureException e){
+            return false;
+        }
+    }
 }

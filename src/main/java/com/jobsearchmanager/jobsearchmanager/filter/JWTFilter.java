@@ -36,25 +36,43 @@ public class JWTFilter extends OncePerRequestFilter {
 
         if (nonNull(authorizationHeader) && authorizationHeader.startsWith("Bearer ")) {
             token = authorizationHeader.substring(7);
-            username = this.jwtManager.getUsername(token);
-        }
-
-        if (nonNull(username) && isNull(SecurityContextHolder.getContext().getAuthentication())) {
-            UserDetails userDetails = this.appUserService.loadUserByUsername(username);
-            if (Boolean.TRUE.equals(this.jwtManager.isTokenValid(token, userDetails))) {
-                UsernamePasswordAuthenticationToken usernamePasswordAuthenticationToken =
-                        new UsernamePasswordAuthenticationToken(
-                                userDetails,
-                                null,
-                                userDetails.getAuthorities()
-                        );
-
-                usernamePasswordAuthenticationToken.setDetails(new WebAuthenticationDetailsSource().buildDetails(request));
-
-                SecurityContextHolder.getContext().setAuthentication(usernamePasswordAuthenticationToken);
+            if (Boolean.TRUE.equals(this.jwtManager.checkTokenFormat(token))) {
+                username = this.jwtManager.getUsername(token);
+                if (nonNull(username) && isNull(SecurityContextHolder.getContext().getAuthentication())) {
+                    UserDetails userDetails = this.appUserService.loadUserByUsername(username);
+                    if (Boolean.TRUE.equals(this.jwtManager.isTokenValid(token, userDetails))) {
+                        this.manageAuthenticationSuccessful(userDetails, request);
+                        filterChain.doFilter(request, response);
+                    } else {
+                        this.manageInvalidToken(request, response);
+                    }
+                }
+            } else {
+                this.manageInvalidToken(request, response);
             }
+        } else {
+            filterChain.doFilter(request, response);
         }
 
-        filterChain.doFilter(request, response);
+
     }
+
+    private void manageAuthenticationSuccessful(UserDetails userDetails, HttpServletRequest request) {
+        UsernamePasswordAuthenticationToken usernamePasswordAuthenticationToken =
+                new UsernamePasswordAuthenticationToken(
+                        userDetails,
+                        null,
+                        userDetails.getAuthorities()
+                );
+
+        usernamePasswordAuthenticationToken.setDetails(new WebAuthenticationDetailsSource().buildDetails(request));
+
+        SecurityContextHolder.getContext().setAuthentication(usernamePasswordAuthenticationToken);
+
+    }
+
+    private void manageInvalidToken(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+        request.getRequestDispatcher("/errors/unauthorized").forward(request, response);
+    }
+
 }
