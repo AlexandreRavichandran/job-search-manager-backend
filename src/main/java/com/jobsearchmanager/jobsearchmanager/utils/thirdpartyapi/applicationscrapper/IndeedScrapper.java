@@ -8,10 +8,10 @@ import org.springframework.stereotype.Service;
 import java.util.HashMap;
 
 @Service
-public class IndeedScrapper extends AbstractApplicationScrapper implements ThirdpartyAPIManager{
+public class IndeedScrapper extends AbstractApplicationScrapper implements ThirdpartyAPIManager {
 
     @Override
-    protected HashMap<String, String> retrieveData(Document document, Application emptyApplication) {
+    protected HashMap<String, String> retrieveData(Document document) {
 
         String title = document.selectFirst(".jobsearch-JobInfoHeader-title").text();
         String description = document.selectFirst("#jobDescriptionText").text();
@@ -19,9 +19,9 @@ public class IndeedScrapper extends AbstractApplicationScrapper implements Third
 
         HashMap<String, String> datas = new HashMap<>();
 
-        datas.put("title",title);
-        datas.put("description",description);
-        datas.put("companyName",companyName);
+        datas.put("title", title);
+        datas.put("description", description);
+        datas.put("companyName", companyName);
 
         return datas;
     }

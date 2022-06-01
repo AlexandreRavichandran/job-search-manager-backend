@@ -1,0 +1,1298 @@
+<!doctype html>
+<html lang="fr-FR">
+ <head>
+  <script id="googleJsonJob" type="application/ld+json">{"@context":"http://schema.org","@type":"JobPosting","description":"Société<p>Rejoindre TORANN-FRANCE, c’est faire partie d’une entreprise indépendante, leader sur le marché de la sécurité privée, où plus de 2 500 collaborateurs et collaboratrices experts de leurs domaines, grandissent ensemble pour contribuer au développement de l’entreprise et instaurer une véritable culture sécurité dans leur périmètre d’intervention.</p>Mission<p>Dans le cadre du renforcement de notre service QSE, nous recrutons :</p><ul><li><p>un Chargé de mission Qualité - H/F en <u>contrat d'alternance</u> basé à Courbevoie (92)</p></li></ul><p>Placé sous l'autorité du Responsable QSE qui sera également votre Maître d’Apprentissage, vous aurez pour mission principale d'aider à mettre en place le système de management de la qualité au sein de notre groupe.</p><p>A ce titre, vous:</p><ul><li><p>Contribuez à la formalisation du Manuel Qualité et du SMQ;</p></li><li><p>Rédigez les fiches de processus;</p></li><li><p>Accompagnez les services dans la construction des documents métiers associés;</p></li><li><p>Suivez la réalisation des actions dans le cadre de la mise en place de la démarche;</p></li><li><p>Participez à la préparation et au suivi des audits internes;</p></li><li><p>Mettez à jour les tableaux de suivi des indicateurs.</p></li></ul><p>Des déplacements ponctuels sont à prévoir sur toute la France.</p><p></p>Profil<p>De formation Bac+3 dans le domaine QSE, vous préparez un diplôme de type M1/M2 en alternance dans le domaine de la Qualité.</p><p>Vous avez idéalement réalisé un premier stage ou occupé un premier emploi en alternance dans ce domaine.</p><p>Doté d'un excellent relationnel, votre capacité à travailler en équipe, vos qualités rédactionnelles et votre rigueur seront des atouts majeurs pour réussir dans cette fonction.</p><p>Vous savez exploiter l'ensemble des outils du pack Office MS (Word, Excel, Powerpoint, ...).</p>","url":"https://www.monster.fr/offres-demploi/alternant-chargé-de-mission-qualité-h-f-courbevoie-11--e84ba79c-c7ff-4380-9b06-ae280a9e73d9","datePosted":"2022-05-30T05:24:52.340Z","employmentType":["FULL_TIME"],"hiringOrganization":{"@context":"http://schema.org","@type":"Organization","description":"<p>Connue et reconnue pour notre expertise métier, notre qualité de service, notre loyauté et nos valeurs humaines, TORANN-FRANCE est un acteur majeur de la sécurité des biens et des personnes au service des entreprises françaises depuis plus de 30 ans.</p>\n<p>Nous rejoindre, c’est faire partie d’une entreprise familiale, indépendante, où plus de 2 500 collaborateurs et collaboratrices experts de leurs domaines, grandissent ensemble pour contribuer au développement de l’entreprise et instaurer une véritable culture sécurité dans leur périmètre d’intervention.</p>","sameAs":"https://www.torann-france.fr/","name":"TORANN-FRANCE","foundingDate":"0","numberOfEmployees":{"@context":"http://schema.org","@type":"QuantitativeValue","unitText":"2000 à 2499 salariés"},"logo":"https://securemedia.newjobs.com/clu/xwto/xwtorannfrx/JobLogo.gif"},"identifier":{"@context":"http://schema.org","@type":"PropertyValue","name":"TORANN-FRANCE","value":"7hrkzuhzu4"},"industry":"Other/Not Classified","jobLocation":[{"@context":"http://schema.org","@type":"Place","address":{"@context":"http://schema.org","@type":"PostalAddress","streetAddress":"","addressLocality":"Courbevoie","addressRegion":"IDF","postalCode":"92400","addressCountry":"FR"},"geo":{"@context":"http://schema.org","@type":"GeoCoordinates","latitude":"48.897","longitude":"2.256"}}],"occupationalCategory":"19-4099.01: Quality Control Analysts","title":"ALTERNANT CHARGÉ DE MISSION QUALITÉ - H/F","validThrough":"2022-06-15T15:30:36.303Z","relevantOccupation":{"@context":"https://schema.org/","@type":"Occupation"}}</script>
+  <link rel="preload" href="/assets/jobsui/Fonts/Proxima-Nova-Regular.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+  <link rel="preload" href="/assets/jobsui/Fonts/Proxima-Nova-SemiBold.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+  <link rel="preload" href="/assets/jobsui/Fonts/Proxima-Nova-Bold.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="referrer" content="always">
+  <meta name="affiliate" content="jobs">
+  <meta name="google-site-verification" content="5V_gvf0c4HzDhdYZDpzZw6SiecHsNYfaxXUsrWPjfVY">
+  <meta name="x-forwarded-host" content="monster.fr">
+  <meta name="origin-host" content="monster.fr">
+  <link rel="canonical" href="https://www.monster.fr/offres-demploi/alternant-chargé-de-mission-qualité-h-f-courbevoie-11--e84ba79c-c7ff-4380-9b06-ae280a9e73d9">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, minimum-scale=1.0">
+  <title lang="fr-FR" aria-label="ALTERNANT CHARGÉ DE MISSION QUALITÉ - H/F - TORANN-FRANCE">ALTERNANT CHARGÉ DE MISSION QUALITÉ - H/F - TORANN-FRANCE</title>
+  <meta name="Description" content="Trouvez le job qu'il vous faut sur le site d'emploi Monster. Parcourez des milliers d'offres, publiez votre CV et boostez votre carrière grâce à nos conseils !">
+  <link rel="shortcut icon" href="/assets/jobsui/Favicon/Monster/favicon.ico">
+  <meta name="next-head-count" content="13">
+  <noscript data-n-css=""></noscript>
+  <link rel="preload" href="/assets/jobsui/_next/static/chunks/5675-4fe1ecf173d47ff18085.js" as="script">
+  <link rel="preload" href="/assets/jobsui/_next/static/chunks/3307-0989e5e230e8e50ddaed.js" as="script">
+  <link rel="preload" href="/assets/jobsui/_next/static/chunks/8776-91702018083418be1ace.js" as="script">
+  <link rel="preload" href="/assets/jobsui/_next/static/chunks/1823-55240ee9243eb60390d5.js" as="script">
+  <link rel="preload" href="/assets/jobsui/_next/static/chunks/9834.d0d82d1bd1348f78a229.js" as="script">
+  <link rel="preload" href="/assets/jobsui/_next/static/chunks/framework-1b8b1fe721f9ff7dcbaf.js" as="script">
+  <link rel="preload" href="/assets/jobsui/_next/static/chunks/2416-c1d4841ea9100cb619c8.js" as="script">
+  <link rel="preload" href="/assets/jobsui/_next/static/chunks/8024-49d97bcd2d8ee7e1d544.js" as="script">
+  <link rel="preload" href="/assets/jobsui/_next/static/chunks/45-642924b57233833652da.js" as="script">
+  <link rel="preload" href="/assets/jobsui/_next/static/chunks/1463.74c62d3583f886fd6ac1.js" as="script">
+  <link rel="preload" href="/assets/jobsui/_next/static/chunks/3483.7bddb3d8379ab5d31078.js" as="script">
+  <link rel="preload" href="/assets/jobsui/_next/static/chunks/9962.8cb82360a33cba3582d2.js" as="script">
+  <link rel="preload" href="/assets/jobsui/_next/static/chunks/webpack-06f34638fdf13c4693be.js" as="script">
+  <link rel="preload" href="/assets/jobsui/_next/static/chunks/framework-1b8b1fe721f9ff7dcbaf.js" as="script">
+  <link rel="preload" href="/assets/jobsui/_next/static/chunks/main-8fed3dd72d012da99074.js" as="script">
+  <link rel="preload" href="/assets/jobsui/_next/static/chunks/pages/_app-aee69fa52c7924d56f4e.js" as="script">
+  <link rel="preload" href="/assets/jobsui/_next/static/chunks/pages/%5B...distributor%5D-721bc39d1dc43664a722.js" as="script">
+  <style id="jss-server-side">.MuiSvgIcon-root {
+  fill: currentColor;
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  font-size: 1.5rem;
+  transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  flex-shrink: 0;
+  user-select: none;
+}
+.MuiSvgIcon-colorPrimary {
+  color: #1976d2;
+}
+.MuiSvgIcon-colorSecondary {
+  color: #9c27b0;
+}
+.MuiSvgIcon-colorAction {
+  color: rgba(0, 0, 0, 0.54);
+}
+.MuiSvgIcon-colorError {
+  color: #d32f2f;
+}
+.MuiSvgIcon-colorDisabled {
+  color: rgba(0, 0, 0, 0.26);
+}
+.MuiSvgIcon-fontSizeInherit {
+  font-size: inherit;
+}
+.MuiSvgIcon-fontSizeSmall {
+  font-size: 1.25rem;
+}
+.MuiSvgIcon-fontSizeLarge {
+  font-size: 2.1875rem;
+}
+.MuiBadge-root {
+  display: inline-flex;
+  position: relative;
+  flex-shrink: 0;
+  vertical-align: middle;
+}
+.MuiBadge-badge {
+  height: 20px;
+  display: flex;
+  padding: 0 6px;
+  z-index: 1;
+  position: absolute;
+  flex-wrap: wrap;
+  font-size: 0.75rem;
+  min-width: 20px;
+  box-sizing: border-box;
+  transition: transform 225ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  align-items: center;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 500;
+  line-height: 1;
+  align-content: center;
+  border-radius: 10px;
+  flex-direction: row;
+  justify-content: center;
+}
+.MuiBadge-colorPrimary {
+  color: #fff;
+  background-color: #1976d2;
+}
+.MuiBadge-colorSecondary {
+  color: #fff;
+  background-color: #9c27b0;
+}
+.MuiBadge-colorError {
+  color: #fff;
+  background-color: #d32f2f;
+}
+.MuiBadge-dot {
+  height: 8px;
+  padding: 0;
+  min-width: 8px;
+  border-radius: 4px;
+}
+.MuiBadge-anchorOriginTopRightRectangle {
+  top: 0;
+  right: 0;
+  transform: scale(1) translate(50%, -50%);
+  transform-origin: 100% 0%;
+}
+.MuiBadge-anchorOriginTopRightRectangle.MuiBadge-invisible {
+  transform: scale(0) translate(50%, -50%);
+}
+.MuiBadge-anchorOriginTopRightRectangular {
+  top: 0;
+  right: 0;
+  transform: scale(1) translate(50%, -50%);
+  transform-origin: 100% 0%;
+}
+.MuiBadge-anchorOriginTopRightRectangular.MuiBadge-invisible {
+  transform: scale(0) translate(50%, -50%);
+}
+.MuiBadge-anchorOriginBottomRightRectangle {
+  right: 0;
+  bottom: 0;
+  transform: scale(1) translate(50%, 50%);
+  transform-origin: 100% 100%;
+}
+.MuiBadge-anchorOriginBottomRightRectangle.MuiBadge-invisible {
+  transform: scale(0) translate(50%, 50%);
+}
+.MuiBadge-anchorOriginBottomRightRectangular {
+  right: 0;
+  bottom: 0;
+  transform: scale(1) translate(50%, 50%);
+  transform-origin: 100% 100%;
+}
+.MuiBadge-anchorOriginBottomRightRectangular.MuiBadge-invisible {
+  transform: scale(0) translate(50%, 50%);
+}
+.MuiBadge-anchorOriginTopLeftRectangle {
+  top: 0;
+  left: 0;
+  transform: scale(1) translate(-50%, -50%);
+  transform-origin: 0% 0%;
+}
+.MuiBadge-anchorOriginTopLeftRectangle.MuiBadge-invisible {
+  transform: scale(0) translate(-50%, -50%);
+}
+.MuiBadge-anchorOriginTopLeftRectangular {
+  top: 0;
+  left: 0;
+  transform: scale(1) translate(-50%, -50%);
+  transform-origin: 0% 0%;
+}
+.MuiBadge-anchorOriginTopLeftRectangular.MuiBadge-invisible {
+  transform: scale(0) translate(-50%, -50%);
+}
+.MuiBadge-anchorOriginBottomLeftRectangle {
+  left: 0;
+  bottom: 0;
+  transform: scale(1) translate(-50%, 50%);
+  transform-origin: 0% 100%;
+}
+.MuiBadge-anchorOriginBottomLeftRectangle.MuiBadge-invisible {
+  transform: scale(0) translate(-50%, 50%);
+}
+.MuiBadge-anchorOriginBottomLeftRectangular {
+  left: 0;
+  bottom: 0;
+  transform: scale(1) translate(-50%, 50%);
+  transform-origin: 0% 100%;
+}
+.MuiBadge-anchorOriginBottomLeftRectangular.MuiBadge-invisible {
+  transform: scale(0) translate(-50%, 50%);
+}
+.MuiBadge-anchorOriginTopRightCircle {
+  top: 14%;
+  right: 14%;
+  transform: scale(1) translate(50%, -50%);
+  transform-origin: 100% 0%;
+}
+.MuiBadge-anchorOriginTopRightCircle.MuiBadge-invisible {
+  transform: scale(0) translate(50%, -50%);
+}
+.MuiBadge-anchorOriginTopRightCircular {
+  top: 14%;
+  right: 14%;
+  transform: scale(1) translate(50%, -50%);
+  transform-origin: 100% 0%;
+}
+.MuiBadge-anchorOriginTopRightCircular.MuiBadge-invisible {
+  transform: scale(0) translate(50%, -50%);
+}
+.MuiBadge-anchorOriginBottomRightCircle {
+  right: 14%;
+  bottom: 14%;
+  transform: scale(1) translate(50%, 50%);
+  transform-origin: 100% 100%;
+}
+.MuiBadge-anchorOriginBottomRightCircle.MuiBadge-invisible {
+  transform: scale(0) translate(50%, 50%);
+}
+.MuiBadge-anchorOriginBottomRightCircular {
+  right: 14%;
+  bottom: 14%;
+  transform: scale(1) translate(50%, 50%);
+  transform-origin: 100% 100%;
+}
+.MuiBadge-anchorOriginBottomRightCircular.MuiBadge-invisible {
+  transform: scale(0) translate(50%, 50%);
+}
+.MuiBadge-anchorOriginTopLeftCircle {
+  top: 14%;
+  left: 14%;
+  transform: scale(1) translate(-50%, -50%);
+  transform-origin: 0% 0%;
+}
+.MuiBadge-anchorOriginTopLeftCircle.MuiBadge-invisible {
+  transform: scale(0) translate(-50%, -50%);
+}
+.MuiBadge-anchorOriginTopLeftCircular {
+  top: 14%;
+  left: 14%;
+  transform: scale(1) translate(-50%, -50%);
+  transform-origin: 0% 0%;
+}
+.MuiBadge-anchorOriginTopLeftCircular.MuiBadge-invisible {
+  transform: scale(0) translate(-50%, -50%);
+}
+.MuiBadge-anchorOriginBottomLeftCircle {
+  left: 14%;
+  bottom: 14%;
+  transform: scale(1) translate(-50%, 50%);
+  transform-origin: 0% 100%;
+}
+.MuiBadge-anchorOriginBottomLeftCircle.MuiBadge-invisible {
+  transform: scale(0) translate(-50%, 50%);
+}
+.MuiBadge-anchorOriginBottomLeftCircular {
+  left: 14%;
+  bottom: 14%;
+  transform: scale(1) translate(-50%, 50%);
+  transform-origin: 0% 100%;
+}
+.MuiBadge-anchorOriginBottomLeftCircular.MuiBadge-invisible {
+  transform: scale(0) translate(-50%, 50%);
+}
+.MuiBadge-invisible {
+  transition: transform 195ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}</style>
+  <style data-styled="" data-styled-version="5.3.3">.ifFZUQ,.ifFZUQ:visited{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;padding:7px 16px;border:2px solid #b051aa;border-radius:4px;background-color:#b051aa;font-family:Proxima Nova,Helvetica,Arial,sans-serif;font-weight:600;font-size:14px;color:#ffffff;line-height:18px;text-transform:none;}/*!sc*/
+.ifFZUQ:focus{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;padding:7px 16px;border:2px solid #6b3067;border-radius:4px;background-color:#6b3067;font-family:Proxima Nova,Helvetica,Arial,sans-serif;font-weight:600;font-size:14px;color:#ffffff;line-height:18px;text-transform:none;}/*!sc*/
+.ifFZUQ:hover{cursor:pointer;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;padding:7px 16px;border:2px solid #8e4089;border-radius:4px;background-color:#8e4089;font-family:Proxima Nova,Helvetica,Arial,sans-serif;font-weight:600;font-size:14px;color:#ffffff;line-height:18px;text-transform:none;}/*!sc*/
+.lfpipv,.lfpipv:visited{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-box-flex:1;-webkit-flex-grow:1;-ms-flex-positive:1;flex-grow:1;padding:7px 16px;border:2px solid #6e46ae;border-radius:4px;background-color:transparent;font-family:Proxima Nova,Helvetica,Arial,sans-serif;font-weight:600;font-size:14px;color:#6e46ae;line-height:18px;text-transform:none;}/*!sc*/
+.lfpipv:focus{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-box-flex:1;-webkit-flex-grow:1;-ms-flex-positive:1;flex-grow:1;padding:7px 16px;border:2px solid #57378a;border-radius:4px;background-color:#57378a;font-family:Proxima Nova,Helvetica,Arial,sans-serif;font-weight:600;font-size:14px;color:#ffffff;line-height:18px;text-transform:none;}/*!sc*/
+.lfpipv:hover{cursor:pointer;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-box-flex:1;-webkit-flex-grow:1;-ms-flex-positive:1;flex-grow:1;padding:7px 16px;border:2px solid #6e46ae;border-radius:4px;background-color:#6e46ae;font-family:Proxima Nova,Helvetica,Arial,sans-serif;font-weight:600;font-size:14px;color:#ffffff;line-height:18px;text-transform:none;}/*!sc*/
+.lfpipv,.lfpipv:hover,.lfpipv:visited,.lfpipv:focus{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-text-decoration:none;text-decoration:none;}/*!sc*/
+data-styled.g5[id="sc-eCImPb"]{content:"ifFZUQ,lfpipv,"}/*!sc*/
+html,body,body div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,dfn,em,img,ins,kbd,q,samp,small,strong,sub,sup,var,b,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,figure,footer,header,hgroup,menu,nav,section,time,mark,audio,video{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent;}/*!sc*/
+p.paragraph-sm{font-family:Proxima Nova;font-weight:400;font-size:14px;color:#212121;line-height:21px;}/*!sc*/
+p,p.paragraph-md{font-family:Proxima Nova;font-weight:400;font-size:16px;color:#212121;line-height:24px;}/*!sc*/
+p.paragraph-lg{font-family:Proxima Nova;font-weight:400;font-size:18px;color:#212121;line-height:27px;}/*!sc*/
+a{font-family:Proxima Nova;font-weight:400;font-size:16px;color:#6e46ae;line-height:24px;}/*!sc*/
+a.link-sm{font-family:Proxima Nova;font-weight:400;font-size:14px;color:#6e46ae;line-height:18px;}/*!sc*/
+a.link-md{font-family:Proxima Nova;font-weight:400;font-size:16px;color:#6e46ae;line-height:24px;}/*!sc*/
+a.link-lg{font-family:Proxima Nova;font-weight:400;font-size:18px;color:#6e46ae;line-height:27px;}/*!sc*/
+a:visited{font-family:Proxima Nova;font-weight:400;font-size:16px;color:#6e46ae;line-height:24px;}/*!sc*/
+a:active{font-family:Proxima Nova;font-weight:400;font-size:16px;color:#6e46ae;line-height:24px;}/*!sc*/
+ul li{font-family:Proxima Nova;font-weight:400;font-size:16px;color:#212121;line-height:24px;}/*!sc*/
+ol li{font-family:Proxima Nova;font-weight:400;font-size:16px;color:#212121;line-height:24px;}/*!sc*/
+h1,.h1{font-family:Proxima Nova;font-weight:700;font-size:40px;color:#212121;line-height:50px;}/*!sc*/
+h2,.h2{font-family:Proxima Nova;font-weight:700;font-size:32px;color:#212121;line-height:40px;}/*!sc*/
+h3,.h3{font-family:Proxima Nova;font-weight:700;font-size:25px;color:#212121;line-height:31px;}/*!sc*/
+h4,.h4{font-family:Proxima Nova;font-weight:700;font-size:21px;color:#212121;line-height:26px;}/*!sc*/
+h5,.h5{font-family:Proxima Nova;font-weight:700;font-size:18px;color:#212121;line-height:23px;}/*!sc*/
+h6,.h6{font-family:Proxima Nova;font-weight:700;font-size:16px;color:#212121;line-height:20px;}/*!sc*/
+data-styled.g16[id="sc-global-cgorUy1"]{content:"sc-global-cgorUy1,"}/*!sc*/
+.iJPevh{position:relative;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:start;-webkit-justify-content:flex-start;-ms-flex-pack:start;justify-content:flex-start;cursor:pointer;}/*!sc*/
+data-styled.g99[id="sc-dkYRCH"]{content:"iJPevh,"}/*!sc*/
+.icBlBa{background:none;color:inherit;border:none;padding:0;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;font:inherit;cursor:pointer;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;cursor:pointer;background-color:#ffffff;border-radius:4px;-webkit-transition:border-radius 0.3s;transition:border-radius 0.3s;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-box-pack:start;-webkit-justify-content:flex-start;-ms-flex-pack:start;justify-content:flex-start;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;font-family:Proxima Nova;font-weight:400;font-size:16px;color:#212121;line-height:24px;padding:8px 12px;}/*!sc*/
+data-styled.g100[id="sc-XxNYO"]{content:"icBlBa,"}/*!sc*/
+.eYAsRV{background-color:#ffffff;margin:0;padding:0;border-top:0;overflow:hidden;height:auto;height:auto;max-height:0;-webkit-transition:max-height 0.3s;transition:max-height 0.3s;-webkit-transition-timing-function:cubic-bezier(0,1,0,1);transition-timing-function:cubic-bezier(0,1,0,1);border-radius:0 0 4px 4px;}/*!sc*/
+@media screen and (min-width:768px){.eYAsRV{box-shadow:0 6px 12px rgba(0,0,0,0.175);}}/*!sc*/
+data-styled.g101[id="sc-ilfuhL"]{content:"eYAsRV,"}/*!sc*/
+.iMpNdU{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 0.3s cubic-bezier(0,1,0,1);-webkit-transition:transform 0.3s cubic-bezier(0,1,0,1);transition:transform 0.3s cubic-bezier(0,1,0,1);}/*!sc*/
+data-styled.g102[id="sc-uojGG"]{content:"iMpNdU,"}/*!sc*/
+.hclVXS{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-flex:1;-webkit-flex-grow:1;-ms-flex-positive:1;flex-grow:1;-webkit-box-pack:end;-webkit-justify-content:flex-end;-ms-flex-pack:end;justify-content:flex-end;margin-left:4px;}/*!sc*/
+data-styled.g103[id="sc-bilyIR"]{content:"hclVXS,"}/*!sc*/
+.fsRiiO{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;margin-right:8px;}/*!sc*/
+data-styled.g104[id="sc-eGPXGI"]{content:"fsRiiO,"}/*!sc*/
+.jlTJUW{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;width:100%;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;font-family:Proxima Nova;font-weight:400;font-size:16px;color:#212121;line-height:24px;background-color:#ffffff;list-style-type:none;}/*!sc*/
+.jlTJUW,.jlTJUW a,.jlTJUW a:visited{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:start;-webkit-justify-content:flex-start;-ms-flex-pack:start;justify-content:flex-start;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;color:#212121;-webkit-text-decoration:none;text-decoration:none;}/*!sc*/
+.jlTJUW:hover,.jlTJUW a:hover,.jlTJUW a:visited:hover,.jlTJUW:focus,.jlTJUW a:focus,.jlTJUW a:visited:focus,.jlTJUW:active,.jlTJUW a:active,.jlTJUW a:visited:active{-webkit-text-decoration:none;text-decoration:none;background-color:#f2f2f2;}/*!sc*/
+.jlTJUW a,.jlTJUW a:visited{width:100%;padding:12px;}/*!sc*/
+data-styled.g105[id="sc-hAcGzb"]{content:"jlTJUW,"}/*!sc*/
+.gpHNEw{font-family:Proxima Nova;font-weight:400;font-size:16px;color:#212121;line-height:24px;color:#ffffff;margin:0;padding:0;overflow:hidden;background-color:#230939;}/*!sc*/
+data-styled.g131[id="sc-eWfVMQ"]{content:"gpHNEw,"}/*!sc*/
+.fhHUwt{box-sizing:border-box;margin:0 auto;max-width:1440px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:start;-webkit-justify-content:flex-start;-ms-flex-pack:start;justify-content:flex-start;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-flex-flow:wrap;-ms-flex-flow:wrap;flex-flow:wrap;}/*!sc*/
+@media screen and (min-width:768px){.fhHUwt{padding:16px 32px 64px 40px;}}/*!sc*/
+@media screen and (min-width:1024px){.fhHUwt{padding:56px 48px 96px 120px;}}/*!sc*/
+@media screen and (min-width:1440px){.fhHUwt{padding:96px 48px 96px 120px;-webkit-box-pack:end;-webkit-justify-content:flex-end;-ms-flex-pack:end;justify-content:flex-end;}}/*!sc*/
+data-styled.g132[id="sc-kTLmzF"]{content:"fhHUwt,"}/*!sc*/
+.cFYABJ{box-sizing:border-box;-webkit-flex-basis:100%;-ms-flex-preferred-size:100%;flex-basis:100%;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;text-align:center;}/*!sc*/
+@media screen and (min-width:768px){.cFYABJ{-webkit-flex-basis:35%;-ms-flex-preferred-size:35%;flex-basis:35%;-webkit-box-pack:start;-webkit-justify-content:flex-start;-ms-flex-pack:start;justify-content:flex-start;text-align:left;padding-right:16px;}}/*!sc*/
+data-styled.g133[id="sc-dwsnSq"]{content:"cFYABJ,"}/*!sc*/
+.fzHCZz{min-width:240px;padding-top:48px;}/*!sc*/
+@media screen and (min-width:768px){.fzHCZz{-webkit-flex-basis:33%;-ms-flex-preferred-size:33%;flex-basis:33%;}.fzHCZz,.fzHCZz a{color:#ffffff;padding-bottom:12px;}@media screen and (min-width:1440px){.fzHCZz{-webkit-flex-basis:23%;-ms-flex-preferred-size:23%;flex-basis:23%;}}}/*!sc*/
+data-styled.g134[id="sc-jtXEFf"]{content:"fzHCZz,"}/*!sc*/
+.hMXBs{padding-top:48px;}/*!sc*/
+.hMXBs:empty{padding:0;}/*!sc*/
+@media screen and (min-width:768px){.hMXBs{-webkit-flex-basis:33%;-ms-flex-preferred-size:33%;flex-basis:33%;}}/*!sc*/
+@media screen and (min-width:1440px){.hMXBs{-webkit-flex-basis:47%;-ms-flex-preferred-size:47%;flex-basis:47%;}}/*!sc*/
+data-styled.g135[id="sc-eldieg"]{content:"hMXBs,"}/*!sc*/
+@media screen and (min-width:768px){.bOAJVC{-webkit-flex-basis:66%;-ms-flex-preferred-size:66%;flex-basis:66%;}}/*!sc*/
+data-styled.g136[id="sc-kiIyQV"]{content:"bOAJVC,"}/*!sc*/
+.hUpqnh{list-style-type:none;text-align:left;}/*!sc*/
+@media screen and (max-width:768px){.hUpqnh{margin:48px;}}/*!sc*/
+data-styled.g137[id="sc-cLpAjG"]{content:"hUpqnh,"}/*!sc*/
+.cisYnp{font-family:Proxima Nova;font-weight:400;font-size:16px;color:#212121;line-height:24px;color:#ffffff;margin:0;padding:0;}/*!sc*/
+data-styled.g138[id="sc-iIUQWv"]{content:"cisYnp,"}/*!sc*/
+.cEyaYq{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-basis:100%;-ms-flex-preferred-size:100%;flex-basis:100%;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;border-top:1px solid;}/*!sc*/
+@media screen and (min-width:768px){.cEyaYq{-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;border:0;}}/*!sc*/
+@media screen and (min-width:1440px){.cEyaYq{-webkit-flex-basis:70%;-ms-flex-preferred-size:70%;flex-basis:70%;}}/*!sc*/
+data-styled.g139[id="sc-gslxeA"]{content:"cEyaYq,"}/*!sc*/
+.ihRmlL{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-align-items:flex-start;-webkit-box-align:flex-start;-ms-flex-align:flex-start;align-items:flex-start;-webkit-flex-flow:wrap;-ms-flex-flow:wrap;flex-flow:wrap;padding:40px 24px;}/*!sc*/
+@media screen and (min-width:768px){.ihRmlL{-webkit-flex-basis:100%;-ms-flex-preferred-size:100%;flex-basis:100%;-webkit-box-pack:start;-webkit-justify-content:flex-start;-ms-flex-pack:start;justify-content:flex-start;padding:40px 0;}}/*!sc*/
+@media screen and (min-width:1440px){.ihRmlL{-webkit-flex-basis:30%;-ms-flex-preferred-size:30%;flex-basis:30%;padding:0;}}/*!sc*/
+data-styled.g140[id="sc-avest"]{content:"ihRmlL,"}/*!sc*/
+.ewnnYn{max-width:300px;}/*!sc*/
+@media screen and (min-width:768px){.ewnnYn{width:75%;}}/*!sc*/
+@media screen and (min-width:1024px){.ewnnYn{width:70%;}}/*!sc*/
+.ewnnYn svg{height:15px;max-height:100%;}/*!sc*/
+data-styled.g141[id="sc-kmQMED"]{content:"ewnnYn,"}/*!sc*/
+.jwA-dck{padding:24px 0 48px;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;}/*!sc*/
+.jwA-dck:empty{padding:0;}/*!sc*/
+@media screen and (min-width:768px){.jwA-dck{padding:32px 0 0;-webkit-flex-basis:66%;-ms-flex-preferred-size:66%;flex-basis:66%;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;}}/*!sc*/
+@media screen and (min-width:1440px){.jwA-dck{-webkit-flex-basis:70%;-ms-flex-preferred-size:70%;flex-basis:70%;}}/*!sc*/
+data-styled.g143[id="sc-djWRfJ"]{content:"jwA-dck,"}/*!sc*/
+.iPmJZh{min-width:280px;box-sizing:border-box;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-flex-basis:50%;-ms-flex-preferred-size:50%;flex-basis:50%;}/*!sc*/
+.iPmJZh:empty{padding:0;}/*!sc*/
+@media screen and (min-width:768px){.iPmJZh{-webkit-flex-basis:100%;-ms-flex-preferred-size:100%;flex-basis:100%;}}/*!sc*/
+@media screen and (min-width:1440px){.iPmJZh{-webkit-flex-basis:33%;-ms-flex-preferred-size:33%;flex-basis:33%;}}/*!sc*/
+data-styled.g144[id="sc-gIBqdA"]{content:"iPmJZh,"}/*!sc*/
+.NFSem{padding-bottom:12px;}/*!sc*/
+data-styled.g145[id="sc-fyrocj"]{content:"NFSem,"}/*!sc*/
+.liXKDD{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-flex-basis:100%;-ms-flex-preferred-size:100%;flex-basis:100%;padding-top:48px;}/*!sc*/
+@media screen and (min-width:768px){.liXKDD{-webkit-box-pack:start;-webkit-justify-content:flex-start;-ms-flex-pack:start;justify-content:flex-start;padding-top:0;}}/*!sc*/
+@media screen and (min-width:1440px){.liXKDD{-webkit-flex-basis:66%;-ms-flex-preferred-size:66%;flex-basis:66%;}}/*!sc*/
+.liXKDD img{border:none;height:40px;width:auto;}/*!sc*/
+data-styled.g147[id="sc-jKTccl"]{content:"liXKDD,"}/*!sc*/
+.ioqNZM{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;}/*!sc*/
+data-styled.g148[id="sc-bUbRBg"]{content:"ioqNZM,"}/*!sc*/
+.bFIHKR{box-sizing:border-box;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-flex-basis:100%;-ms-flex-preferred-size:100%;flex-basis:100%;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;}/*!sc*/
+@media screen and (min-width:768px){.bFIHKR{-webkit-box-pack:start;-webkit-justify-content:flex-start;-ms-flex-pack:start;justify-content:flex-start;padding:12px 0;-webkit-flex-wrap:nowrap;-ms-flex-wrap:nowrap;flex-wrap:nowrap;}}/*!sc*/
+.bFIHKR a{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;padding:0 12px;margin-bottom:6px;}/*!sc*/
+@media screen and (min-width:768px){.bFIHKR a{padding:0 12px 0 0;}}/*!sc*/
+data-styled.g149[id="sc-tAExr"]{content:"bFIHKR,"}/*!sc*/
+.bdNZKs{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-flow:wrap;-ms-flex-flow:wrap;flex-flow:wrap;padding:12px 0;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;}/*!sc*/
+@media screen and (min-width:768px){.bdNZKs{-webkit-box-pack:start;-webkit-justify-content:flex-start;-ms-flex-pack:start;justify-content:flex-start;}}/*!sc*/
+.bdNZKs .facebook,.bdNZKs .twitter,.bdNZKs .instagram,.bdNZKs .linkedin,.bdNZKs .youtube,.bdNZKs .social-util{color:#ffffff;width:32px;height:32px;box-sizing:border-box;border-radius:50%;border:none;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;margin-right:12px;}/*!sc*/
+.bdNZKs .facebook svg,.bdNZKs .twitter svg,.bdNZKs .instagram svg,.bdNZKs .linkedin svg,.bdNZKs .youtube svg,.bdNZKs .social-util svg{width:21px;height:21px;}/*!sc*/
+.bdNZKs .facebook{background-color:#3c63a7;}/*!sc*/
+.bdNZKs .twitter{background-color:#32b3e0;}/*!sc*/
+.bdNZKs .instagram{background-color:#f01f74;}/*!sc*/
+.bdNZKs .youtube{background-color:#fa2300;}/*!sc*/
+.bdNZKs .linkedin{background-color:#0a66c2;}/*!sc*/
+.bdNZKs .social-util{background-color:#f2f2f2;}/*!sc*/
+.bdNZKs .social-util:active{background-color:#f9f9f9;}/*!sc*/
+.bdNZKs .pinterest{color:#e61f22;background:#ffffff;border-radius:50%;height:31px;width:31px;margin-right:12px;}/*!sc*/
+.bdNZKs .pinterest svg{width:39px;height:39px;margin:-4px 0 0 -4px;}/*!sc*/
+.bdNZKs .socialIcon{font-size:28px;}/*!sc*/
+.bdNZKs .pinterestIcon{font-size:32px;}/*!sc*/
+data-styled.g150[id="sc-dSfdvi"]{content:"bdNZKs,"}/*!sc*/
+.dYOuMI{position:relative;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;width:100%;max-width:220px;height:40px;overflow:hidden;}/*!sc*/
+@media screen and (min-width:768px){.dYOuMI{-webkit-box-pack:start;-webkit-justify-content:flex-start;-ms-flex-pack:start;justify-content:flex-start;}}/*!sc*/
+data-styled.g151[id="sc-hZpJaK"]{content:"dYOuMI,"}/*!sc*/
+.jJilpq{position:absolute;z-index:1;}/*!sc*/
+.jJilpq::before{display:none;}/*!sc*/
+data-styled.g152[id="sc-cHzqoD"]{content:"jJilpq,"}/*!sc*/
+.broYnB{text-align:center;font-family:Proxima Nova;font-weight:400;font-size:16px;color:#212121;line-height:24px;color:#ffffff;margin:0;padding:0;font-family:'Proxima Nova Bold',Helvetica,Arial,Sans-Serif;font-size:16px;color:#f2b127;position:relative;padding:24px;}/*!sc*/
+@media screen and (min-width:768px){.broYnB{font-size:inherit;padding:0;text-align:left;}}/*!sc*/
+data-styled.g154[id="sc-gGPzkF"]{content:"broYnB,"}/*!sc*/
+.iQNGRk{background:none;color:inherit;border:none;padding:0;font:inherit;cursor:pointer;}/*!sc*/
+@media screen and (min-width:768px){.iQNGRk{cursor:auto;}}/*!sc*/
+data-styled.g155[id="sc-dkQkyq"]{content:"iQNGRk,"}/*!sc*/
+.bNHDDY{background-color:#230939;-webkit-flex-basis:100%;-ms-flex-preferred-size:100%;flex-basis:100%;border-bottom:1px solid #6e46ae;}/*!sc*/
+.bNHDDY:first-of-type{border-top:1px solid #6e46ae;}/*!sc*/
+@media screen and (min-width:768px){.bNHDDY{-webkit-flex-basis:33.33%;-ms-flex-preferred-size:33.33%;flex-basis:33.33%;border:0;}.bNHDDY:first-of-type{border:0;}}/*!sc*/
+@media screen and (max-width:768px){.bNHDDY{min-width:16em;}}/*!sc*/
+data-styled.g156[id="sc-jivBlf"]{content:"bNHDDY,"}/*!sc*/
+.gftgNv{font-family:Proxima Nova;font-weight:400;font-size:16px;color:#212121;line-height:24px;color:#ffffff;margin:0;padding:0;overflow:hidden;list-style-type:none;text-align:center;padding:0;height:auto;max-height:0;-webkit-transition:max-height 0.3s;transition:max-height 0.3s;-webkit-transition-timing-function:cubic-bezier(0,1,0,1);transition-timing-function:cubic-bezier(0,1,0,1);}/*!sc*/
+.gftgNv.open{max-height:100vh;-webkit-transition-timing-function:cubic-bezier(1,0,1,0);transition-timing-function:cubic-bezier(1,0,1,0);}/*!sc*/
+@media screen and (min-width:768px){.gftgNv{text-align:left;max-height:100vh;padding-bottom:48px;margin-top:12px;}}/*!sc*/
+data-styled.g157[id="sc-hkgtus"]{content:"gftgNv,"}/*!sc*/
+.enwGuw{cursor:pointer;border:none;font-family:Proxima Nova;font-weight:400;font-size:16px;color:#212121;line-height:24px;color:#ffffff;margin:0;padding:0;-webkit-text-decoration:none;text-decoration:none;background-color:inherit;}/*!sc*/
+.enwGuw:hover,.enwGuw:focus,.enwGuw:active,.enwGuw:visited{-webkit-text-decoration:underline;text-decoration:underline;color:#ffffff;}/*!sc*/
+data-styled.g158[id="sc-bSqaIl"]{content:"enwGuw,"}/*!sc*/
+.hUjwDm{padding-bottom:12px;}/*!sc*/
+data-styled.g159[id="sc-jvvksu"]{content:"hUjwDm,"}/*!sc*/
+.frWvdG{position:absolute;top:50%;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%);right:32px;width:16px;height:16px;}/*!sc*/
+@media screen and (min-width:768px){.frWvdG{display:none;}}/*!sc*/
+.frWvdG::before,.frWvdG::after{position:absolute;content:'';width:16px;height:2px;background-color:#b051aa;top:calc(50% - 1px);left:0;}/*!sc*/
+.frWvdG::after{-webkit-transform:rotate(90deg);-ms-transform:rotate(90deg);transform:rotate(90deg);-webkit-transition:-webkit-transform 0.3s;-webkit-transition:transform 0.3s;transition:transform 0.3s;}/*!sc*/
+.frWvdG.open::after{-webkit-transform:rotate(0deg);-ms-transform:rotate(0deg);transform:rotate(0deg);}/*!sc*/
+data-styled.g160[id="sc-edERGn"]{content:"frWvdG,"}/*!sc*/
+.dSzrQj{display:block;}/*!sc*/
+@media screen and (min-width:768px){.dSzrQj{display:none;}}/*!sc*/
+data-styled.g161[id="sc-jlsrNB"]{content:"dSzrQj,"}/*!sc*/
+.hLIJvd{display:none;}/*!sc*/
+@media screen and (min-width:768px){.hLIJvd{display:block;}}/*!sc*/
+data-styled.g162[id="sc-iWBNLc"]{content:"hLIJvd,"}/*!sc*/
+.hVBwBb{width:100%;-webkit-transition:background-color .2s ease-in-out;transition:background-color .2s ease-in-out;position:relative;z-index:100;background-color:#ffffff;}/*!sc*/
+data-styled.g163[id="sc-hYQoXb"]{content:"hVBwBb,"}/*!sc*/
+.frlZpc{font-family:Proxima Nova;font-weight:400;font-size:16px;color:#212121;line-height:24px;position:relative;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-flex-flow:wrap;-ms-flex-flow:wrap;flex-flow:wrap;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;box-shadow:0 0 4px 0 rgba(189,189,189,0.1);-webkit-transition:.2s ease-in-out;transition:.2s ease-in-out;-webkit-transition-property:background-color;transition-property:background-color;background-color:#230939;}/*!sc*/
+@media screen and (min-width:768px){.frlZpc{-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;background-color:#230939;}}/*!sc*/
+@media screen and (min-width:calc(1440px + 24px)){.frlZpc{-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;}}/*!sc*/
+data-styled.g164[id="sc-hJZKUC"]{content:"frlZpc,"}/*!sc*/
+.fcVep{box-sizing:border-box;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;width:100%;min-height:80px;padding:0px 24px;}/*!sc*/
+@media screen and (max-width:768px){.fcVep{min-height:72px;}}/*!sc*/
+@media screen and (min-width:768px){.fcVep{-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;margin:0 auto;}}/*!sc*/
+@media screen and (min-width:1024px){.fcVep{padding:0 32px;}}/*!sc*/
+@media screen and (min-width:1440px){.fcVep{padding:0 40px;}}/*!sc*/
+@media screen and (min-width:calc(1440px + 24px)){.fcVep{max-width:1520px;}}/*!sc*/
+data-styled.g165[id="sc-ewSTlh"]{content:"fcVep,"}/*!sc*/
+.fLxRSm{z-index:3;}/*!sc*/
+.fLxRSm a,.fLxRSm svg{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;}/*!sc*/
+data-styled.g166[id="sc-eicpiI"]{content:"fLxRSm,"}/*!sc*/
+.gVPWHR,.gVPWHR.gVPWHR{width:40px;height:100%;}/*!sc*/
+data-styled.g168[id="sc-cVAmsi"]{content:"gVPWHR,"}/*!sc*/
+@media screen and (min-width:768px){.esCrvJ{margin:0 8px;}}/*!sc*/
+@media screen and (min-width:1024px){.esCrvJ{margin:0;width:100vw;max-width:600px;}}/*!sc*/
+@media screen and (min-width:1280px){.esCrvJ{max-width:750px;}}/*!sc*/
+@media screen and (min-width:1440px){.esCrvJ{max-width:900px;}}/*!sc*/
+data-styled.g172[id="sc-bGaVxB"]{content:"esCrvJ,"}/*!sc*/
+.jWgGA{position:absolute;top:0;right:0;bottom:0;left:0;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-basis:auto;-ms-flex-preferred-size:auto;flex-basis:auto;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;}/*!sc*/
+@media screen and (min-width:768px){.jWgGA{box-sizing:border-box;position:relative;background-color:#230939;top:auto;-webkit-flex-basis:100%;-ms-flex-preferred-size:100%;flex-basis:100%;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-flex:1;-ms-flex:1;flex:1;width:100%;padding:0 24px;}}/*!sc*/
+@media screen and (min-width:1024px){.jWgGA{padding:0 32px;}}/*!sc*/
+@media screen and (min-width:1440px){.jWgGA{padding:0 40px;}}/*!sc*/
+data-styled.g173[id="sc-fydGpi"]{content:"jWgGA,"}/*!sc*/
+.liINog{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;}/*!sc*/
+.liINog > div{margin:0 24px;}/*!sc*/
+.liINog > div:last-of-type{margin:0 0 0 24px;}/*!sc*/
+data-styled.g174[id="sc-gnnDb"]{content:"liINog,"}/*!sc*/
+.hIjmFT{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;border-bottom:1px solid #57378a;}/*!sc*/
+.hIjmFT,.hIjmFT a,.hIjmFT a:visited{color:#ffffff;font-weight:inherit;-webkit-text-decoration:none;text-decoration:none;border-top:2px solid transparent;border-bottom:2px solid transparent;-webkit-transition:.2s ease-in-out;transition:.2s ease-in-out;-webkit-transition-property:color,border-bottom;transition-property:color,border-bottom;}/*!sc*/
+.hIjmFT a{padding:12px 0;}/*!sc*/
+.hIjmFT:hover,.hIjmFT:focus,.hIjmFT:active{border-bottom:2px solid #ffffff;}/*!sc*/
+.hIjmFT:hover,.hIjmFT:focus,.hIjmFT:active,.hIjmFT:hover a,.hIjmFT:focus a,.hIjmFT:active a{color:#ffffff;background-color:inherit;-webkit-text-decoration:none;text-decoration:none;}/*!sc*/
+data-styled.g175[id="sc-cjrPHo"]{content:"hIjmFT,"}/*!sc*/
+.fnbmNd{margin-left:8px;}/*!sc*/
+.fnbmNd,.fnbmNd.fnbmNd{width:18px;height:100%;max-height:18px;}/*!sc*/
+data-styled.g176[id="sc-igXgud"]{content:"fnbmNd,"}/*!sc*/
+.fuAiyT{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-transition:600ms ease-in-out;transition:600ms ease-in-out;-webkit-transition-property:opacity;transition-property:opacity;}/*!sc*/
+.fuAiyT:hover .sc-igXgud,.fuAiyT:focus .sc-igXgud{opacity:0.8;}/*!sc*/
+@media screen and (min-width:768px){.fuAiyT,.fuAiyT:hover,.fuAiyT:focus{font-size:14px;}}/*!sc*/
+@media screen and (min-width:1024px){.fuAiyT,.fuAiyT:hover,.fuAiyT:focus{font-size:inherit;}}/*!sc*/
+.fuAiyT .sc-igXgud{color:#e9e7f7;}/*!sc*/
+data-styled.g177[id="sc-JEhMO"]{content:"fuAiyT,"}/*!sc*/
+.iDjEgz{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;position:absolute;margin-top:-9px;top:8px;right:0;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%);width:20px;height:20px;cursor:pointer;background-color:transparent;padding:0;box-sizing:content-box;border:6px solid transparent;}/*!sc*/
+data-styled.g180[id="sc-dcgwPl"]{content:"iDjEgz,"}/*!sc*/
+.DPrOl{display:block;top:2px;margin-top:-2px;}/*!sc*/
+.DPrOl,.DPrOl::before,.DPrOl::after{position:absolute;width:20px;height:3px;background-color:#ffffff;border-radius:3px;-webkit-transition:.2s ease-in-out;transition:.2s ease-in-out;-webkit-transition-property:-webkit-transform,background-color,opacity;-webkit-transition-property:transform,background-color,opacity;transition-property:transform,background-color,opacity;}/*!sc*/
+.DPrOl::before,.DPrOl::after{content:'';display:block;}/*!sc*/
+.DPrOl::before{top:-7px;-webkit-transition-property:-webkit-transform,opacity;-webkit-transition-property:transform,opacity;transition-property:transform,opacity;-webkit-transition-timing-function:ease;transition-timing-function:ease;-webkit-transition-duration:.2s;transition-duration:.2s;}/*!sc*/
+.DPrOl::after{top:7px;}/*!sc*/
+data-styled.g181[id="sc-ehIJor"]{content:"DPrOl,"}/*!sc*/
+.fUTCoO{position:relative;width:32px;z-index:3;}/*!sc*/
+data-styled.g183[id="sc-iukxot"]{content:"fUTCoO,"}/*!sc*/
+.casbZZ .MuiBadge-badge{background-color:#d80000;}/*!sc*/
+data-styled.g184[id="sc-DtmNo"]{content:"casbZZ,"}/*!sc*/
+.dOSMsu{-webkit-clip:rect(1px,1px,1px,1px);clip:rect(1px,1px,1px,1px);height:1px;overflow:hidden;position:absolute;top:0;white-space:nowrap;width:1px;font-weight:700;-webkit-text-decoration:none;text-decoration:none;-webkit-transition:transition,color 0.4s ease;transition:transition,color 0.4s ease;}/*!sc*/
+.dOSMsu:hover,.dOSMsu:active,.dOSMsu:focus{background-color:#230939;-webkit-clip:auto;clip:auto;color:#e6e7e8;display:block;font-size:1rem;font-weight:500;height:auto;left:5px;line-height:normal;padding:0.5rem;-webkit-text-decoration:none;text-decoration:none;top:5px;width:auto;z-index:100000;}/*!sc*/
+data-styled.g185[id="sc-dwFVFH"]{content:"dOSMsu,"}/*!sc*/
+.hPEuMR{box-sizing:border-box;position:relative;z-index:2;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;}/*!sc*/
+@media screen and (min-width:768px){.hPEuMR{-webkit-box-pack:end;-webkit-justify-content:flex-end;-ms-flex-pack:end;justify-content:flex-end;padding:0;}}/*!sc*/
+data-styled.g188[id="sc-lhMiDA"]{content:"hPEuMR,"}/*!sc*/
+.cYybpF{position:relative;z-index:4;min-width:32px;}/*!sc*/
+@media screen and (min-width:768px){.cYybpF{min-width:inherit;}}/*!sc*/
+data-styled.g189[id="sc-cvlWTT"]{content:"cYybpF,"}/*!sc*/
+.kKnOoZ{margin-right:8px;}/*!sc*/
+@media screen and (min-width:768px){.kKnOoZ,.kKnOoZ:hover,.kKnOoZ:focus,.kKnOoZ:active,.kKnOoZ:visited{padding:7px;}}/*!sc*/
+@media screen and (min-width:1024px){.kKnOoZ,.kKnOoZ:hover,.kKnOoZ:focus,.kKnOoZ:active,.kKnOoZ:visited{padding:7px 16px;margin-right:16px;}}/*!sc*/
+data-styled.g191[id="sc-bUhFKy"]{content:"kKnOoZ,"}/*!sc*/
+.lohNQe,.lohNQe:hover,.lohNQe:focus,.lohNQe:active,.lohNQe:visited{background-color:transparent;}/*!sc*/
+@media screen and (min-width:768px){.lohNQe,.lohNQe:hover,.lohNQe:focus,.lohNQe:active,.lohNQe:visited{padding:7px;}}/*!sc*/
+@media screen and (min-width:1024px){.lohNQe,.lohNQe:hover,.lohNQe:focus,.lohNQe:active,.lohNQe:visited{padding:7px 16px;}}/*!sc*/
+.lohNQe,.lohNQe:visited{color:#ffffff;border-color:#d9dbe9;}/*!sc*/
+.lohNQe:hover,.lohNQe:focus,.lohNQe:active{color:#6e46ae;border-color:#e9e7f7;background-color:#e9e7f7;}/*!sc*/
+data-styled.g192[id="sc-hRMWxn"]{content:"lohNQe,"}/*!sc*/
+.xvmkC{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;position:relative;z-index:1;background-color:transparent;border:0;padding:0;cursor:pointer;}/*!sc*/
+data-styled.g193[id="sc-fTxOGA"]{content:"xvmkC,"}/*!sc*/
+.eMhRlG.eMhRlG{fill:#ffffff;color:#ffffff;font-size:21px;height:24px;}/*!sc*/
+data-styled.g194[id="sc-BHvUt"]{content:"eMhRlG,"}/*!sc*/
+.cBRsrh{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-basis:100%;-ms-flex-preferred-size:100%;flex-basis:100%;width:100%;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;height:100vh;margin-top:72px;-webkit-transition:.3s ease-in-out;transition:.3s ease-in-out;-webkit-transition-property:max-height,clip-path;transition-property:max-height,clip-path;-webkit-clip-path:inset(0);clip-path:inset(0);max-height:0;}/*!sc*/
+@media screen and (min-width:768px){.cBRsrh{overflow:auto;height:auto;max-height:none;background-color:inherit;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;max-width:1440px;margin:0 auto;}}/*!sc*/
+data-styled.g200[id="sc-gfqkcP"]{content:"cBRsrh,"}/*!sc*/
+.cgWVvx{list-style-type:none;padding:0;margin:0;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;width:100vw;height:100vh;-webkit-transition:max-height .3s ease-in-out;transition:max-height .3s ease-in-out;background-color:#402965;overflow:hidden;max-height:0;}/*!sc*/
+@media screen and (min-width:768px){.cgWVvx{width:100%;background-color:inherit;width:auto;height:auto;max-height:100%;text-align:center;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;}}/*!sc*/
+data-styled.g201[id="sc-ckRZPU"]{content:"cgWVvx,"}/*!sc*/
+.erdUmV{border-bottom:1px solid #57378a;background-color:inherit;}/*!sc*/
+.erdUmV,.erdUmV a,.erdUmV a:visited{color:#ffffff;-webkit-text-decoration:none;text-decoration:none;}/*!sc*/
+.erdUmV a{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;padding:16px 24px 16px 24px;}/*!sc*/
+.erdUmV:hover,.erdUmV:focus,.erdUmV:active,.erdUmV:hover a,.erdUmV:focus a,.erdUmV:active a{background-color:#57378a;}/*!sc*/
+@media screen and (min-width:768px){.erdUmV{margin:0 12px;padding-bottom:0;}.erdUmV,.erdUmV a,.erdUmV a:visited{color:#ffffff;font-size:14px;font-weight:inherit;-webkit-text-decoration:none;text-decoration:none;border-top:2px solid transparent;border-bottom:2px solid transparent;-webkit-transition:.3s ease-in-out;transition:.3s ease-in-out;-webkit-transition-property:color,border-bottom;transition-property:color,border-bottom;}.erdUmV a{padding:12px 0;}.erdUmV:hover,.erdUmV:focus,.erdUmV:active{padding-bottom:0;border-bottom:2px solid #ffffff;}.erdUmV:hover,.erdUmV:focus,.erdUmV:active,.erdUmV:hover a,.erdUmV:focus a,.erdUmV:active a{color:#ffffff;background-color:inherit;-webkit-text-decoration:none;text-decoration:none;}.erdUmV:first-of-type{margin-left:48px - 2px;}}/*!sc*/
+@media screen and (min-width:1024px){.erdUmV{margin:0 16px;}.erdUmV,.erdUmV a,.erdUmV a:visited{font-size:inherit;}}/*!sc*/
+@media screen and (min-width:992px){.erdUmV{margin:0 24px;}.erdUmV:first-of-type{margin-left:48px;}}/*!sc*/
+@media screen and (min-width:1280px){.erdUmV{margin:0 32px;}}/*!sc*/
+@media screen and (min-width:768px){.erdUmV:first-of-type{margin-left:0;}}/*!sc*/
+data-styled.g202[id="sc-kJpAUB"]{content:"erdUmV,"}/*!sc*/
+*,*:before,*:after{box-sizing:inherit;}/*!sc*/
+html{box-sizing:border-box;}/*!sc*/
+html,body{font-family:'Proxima Nova',Helvetica,Arial,Sans-Serif;}/*!sc*/
+body{background-color:#f2f2f2;}/*!sc*/
+body > div::-webkit-scrollbar{width:8px;background:transparent;}/*!sc*/
+#onetrust-banner-sdk{font-family:'Proxima Nova',Helvetica,Arial,Sans-Serif;}/*!sc*/
+data-styled.g347[id="sc-global-ksojkp1"]{content:"sc-global-ksojkp1,"}/*!sc*/
+.bAlkTK{min-height:calc(100vh - 72px);background:#f2f2f2;}/*!sc*/
+@media screen and (min-width:768px){.bAlkTK{min-height:calc(100vh - 136px);}}/*!sc*/
+.bAlkTK .MuiContainer-root:not(main){margin:0 auto;max-width:1440px;padding:0 8px;}/*!sc*/
+data-styled.g348[id="main-layoutstyles__Layout-sc-1w7iv1n-0"]{content:"bAlkTK,"}/*!sc*/
+.jaGgQW{width:100%;}/*!sc*/
+data-styled.g422[id="detailsstyles__DetailsTable-sc-1deoovj-0"]{content:"jaGgQW,"}/*!sc*/
+.hyuoaY{display:none;font-family:Proxima Nova;font-weight:600;font-size:18px;color:#212121;line-height:23px;}/*!sc*/
+@media screen and (min-width:1024px){.hyuoaY{display:block;padding:0 0 24px 0;width:100%;max-height:225px;margin-top:40px;}}/*!sc*/
+data-styled.g423[id="detailsstyles__DetailsTableHeader-sc-1deoovj-1"]{content:"hyuoaY,"}/*!sc*/
+.fvvDpq{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;width:100%;}/*!sc*/
+data-styled.g424[id="detailsstyles__DetailsTableRow-sc-1deoovj-2"]{content:"fvvDpq,"}/*!sc*/
+.cPsSMe{font-family:Proxima Nova;font-weight:600;font-size:14px;color:#212121;line-height:18px;color:#00788c;font-family:'Proxima Nova SemiBold',Helvetica,Arial,Sans-Serif;}/*!sc*/
+data-styled.g425[id="detailsstyles__CompanyUrl-sc-1deoovj-3"]{content:"cPsSMe,"}/*!sc*/
+.ieqBQQ{font-family:Proxima Nova;font-weight:600;font-size:12px;color:#212121;line-height:18px;color:#3d2462;margin-right:16px;}/*!sc*/
+data-styled.g426[id="detailsstyles__DetailsTableDetailHeader-sc-1deoovj-4"]{content:"ieqBQQ,"}/*!sc*/
+.hDKBZO{font-family:Proxima Nova;font-weight:400;font-size:16px;color:#212121;line-height:24px;color:#737373;text-align:right;text-transform:capitalize;}/*!sc*/
+data-styled.g427[id="detailsstyles__DetailsTableDetailBody-sc-1deoovj-5"]{content:"hDKBZO,"}/*!sc*/
+.hNMAls{font-family:Proxima Nova;font-weight:400;font-size:16px;color:#212121;line-height:24px;color:#737373;text-align:right;}/*!sc*/
+data-styled.g428[id="detailsstyles__DetailsTableDetailPostedBody-sc-1deoovj-6"]{content:"hNMAls,"}/*!sc*/
+.YZZMI{border-bottom:1px solid #e9e7f7;margin:12px 0;}/*!sc*/
+data-styled.g429[id="detailsstyles__DetailsTableRowBreak-sc-1deoovj-7"]{content:"YZZMI,"}/*!sc*/
+.bOxUQy{width:100%;}/*!sc*/
+@media screen and (min-width:1024px){.bOxUQy{margin-right:40px;}}/*!sc*/
+@media screen and (min-width:1220px){.bOxUQy{margin-right:96px;}}/*!sc*/
+data-styled.g430[id="descriptionstyles__DescriptionContainer-sc-13ve12b-0"]{content:"bOxUQy,"}/*!sc*/
+.ilDrbq{font-family:Proxima Nova;font-weight:600;font-size:21px;color:#212121;line-height:26px;color:#212121;padding-bottom:16px;}/*!sc*/
+data-styled.g431[id="descriptionstyles__DescriptionHeader-sc-13ve12b-1"]{content:"ilDrbq,"}/*!sc*/
+.eRgULn{overflow-wrap:break-word;font-family:Proxima Nova;font-weight:400;font-size:16px;color:#212121;line-height:24px;color:#212121;}/*!sc*/
+.eRgULn h1,.eRgULn h2,.eRgULn h3,.eRgULn h4,.eRgULn h5,.eRgULn h6{font-family:Proxima Nova;font-weight:600;font-size:16px;color:#212121;line-height:24px;font-family:'Proxima Nova SemiBold',Helvetica,Arial,Sans-Serif;margin-bottom:16px;}/*!sc*/
+.eRgULn p{font-family:Proxima Nova;font-weight:400;font-size:16px;color:#212121;line-height:24px;color:#212121;margin-bottom:24px;}/*!sc*/
+.eRgULn b,.eRgULn strong{font-family:'Proxima Nova SemiBold',Helvetica,Arial,Sans-Serif;}/*!sc*/
+.eRgULn ul,.eRgULn ol{list-style-position:outside;margin:16px 0 24px 32px;}/*!sc*/
+.eRgULn ul li,.eRgULn ol li{margin-bottom:12px;}/*!sc*/
+.eRgULn ul li ul,.eRgULn ol li ul{margin:0;}/*!sc*/
+.eRgULn ul li ul li,.eRgULn ol li ul li{list-style:disc;}/*!sc*/
+.eRgULn img{max-width:100%;}/*!sc*/
+.eRgULn a,.eRgULn a:active,.eRgULn a:hover,.eRgULn a:visited{color:currentColor;display:inline-block;pointer-events:none;-webkit-text-decoration:none;text-decoration:none;}/*!sc*/
+data-styled.g434[id="descriptionstyles__DescriptionBody-sc-13ve12b-4"]{content:"eRgULn,"}/*!sc*/
+.crFatx{font-family:Proxima Nova;font-weight:700;font-size:18px;color:#212121;line-height:23px;margin-left:16px;}/*!sc*/
+data-styled.g435[id="descriptionstyles__CompanyName-sc-13ve12b-5"]{content:"crFatx,"}/*!sc*/
+.gBrnwO{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;margin-bottom:16px;}/*!sc*/
+data-styled.g436[id="descriptionstyles__CompanyNameContainer-sc-13ve12b-6"]{content:"gBrnwO,"}/*!sc*/
+.bZVFkX{height:80px;width:80px;position:relative;height:40px;width:40px;}/*!sc*/
+@media screen and (min-width:768px){.bZVFkX{font-size:54px;height:80px;width:80px;}}/*!sc*/
+@media screen and (min-width:1024px){.bZVFkX{font-size:62px;height:96px;width:96px;}}/*!sc*/
+.iGwFUQ{height:48px;width:48px;position:relative;height:48px;width:48px;}/*!sc*/
+data-styled.g441[id="company-logostyles__LogoContainer-sc-11vzkdn-1"]{content:"bZVFkX,iGwFUQ,"}/*!sc*/
+.wHRKy{background-color:#ffffff;width:100%;max-width:1440px;margin:0 auto;position:relative;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;min-height:calc(100vh - 72px);}/*!sc*/
+@media screen and (min-width:768px){.wHRKy{min-height:calc(100vh - 136px);}}/*!sc*/
+data-styled.g455[id="jobview-containerstyles__JobViewWrapper-sc-16af7k7-1"]{content:"wHRKy,"}/*!sc*/
+@media screen and (min-width:1024px){}/*!sc*/
+data-styled.g456[id="jobview-containerstyles__JobViewContainer-sc-16af7k7-2"]{content:"eOHmlq,"}/*!sc*/
+.ijHERe{max-width:1200px;margin:0 auto;padding:24px;}/*!sc*/
+@media screen and (min-width:768px){.ijHERe{padding:32px;}}/*!sc*/
+@media screen and (min-width:1440px){.ijHERe{padding:32px 0;}}/*!sc*/
+data-styled.g457[id="jobview-containerstyles__JobViewContent-sc-16af7k7-3"]{content:"ijHERe,"}/*!sc*/
+.impbxn{border-bottom:1px solid #e6e7e8;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;padding-bottom:32px;width:100%;}/*!sc*/
+@media screen and (min-width:1024px){.impbxn{-webkit-flex-direction:row-reverse;-ms-flex-direction:row-reverse;flex-direction:row-reverse;}}/*!sc*/
+data-styled.g458[id="jobview-containerstyles__JobInformation-sc-16af7k7-4"]{content:"impbxn,"}/*!sc*/
+.dlGNnY{width:100%;}/*!sc*/
+@media screen and (min-width:1024px){.dlGNnY{padding-top:40px;max-width:352px;}}/*!sc*/
+@media screen and (min-width:1440px){.dlGNnY{max-width:400px;}}/*!sc*/
+data-styled.g459[id="jobview-containerstyles__DetailsTable-sc-16af7k7-5"]{content:"dlGNnY,"}/*!sc*/
+.iLcRjw{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;padding-top:32px;width:100%;}/*!sc*/
+@media screen and (min-width:1024px){.iLcRjw{-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;padding-top:40px;}}/*!sc*/
+data-styled.g460[id="jobview-containerstyles__CompanyInformation-sc-16af7k7-6"]{content:"iLcRjw,"}/*!sc*/
+.QMbmP{background-color:#ffffff;box-shadow:0px 4px 9px rgba(33,33,33,0.1);margin:0 auto;width:100%;position:-webkit-sticky;position:sticky;top:0;z-index:2;}/*!sc*/
+data-styled.g462[id="headerstyle__JobViewHeaderContainer-sc-1ijq9nh-0"]{content:"QMbmP,"}/*!sc*/
+.BZXiR{display:grid;grid-template-columns:auto auto;-webkit-align-items:end;-webkit-box-align:end;-ms-flex-align:end;align-items:end;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;padding:16px;-webkit-text-decoration:none;text-decoration:none;margin:0 auto;max-width:1200px;}/*!sc*/
+@media screen and (min-width:768px){.BZXiR{padding:24px 32px 32px;}}/*!sc*/
+@media screen and (min-width:1024px){.BZXiR{padding:24px 32px 32px;}}/*!sc*/
+@media screen and (min-width:1440px){.BZXiR{padding:24px 0 32px;}}/*!sc*/
+data-styled.g464[id="headerstyle__JobViewHeaderInner-sc-1ijq9nh-2"]{content:"BZXiR,"}/*!sc*/
+.iGoBie{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;}/*!sc*/
+@media screen and (min-width:768px){.iGoBie{padding-right:16px;}}/*!sc*/
+data-styled.g465[id="headerstyle__JobViewHeaderLeft-sc-1ijq9nh-3"]{content:"iGoBie,"}/*!sc*/
+.ccwCAN{font-family:Proxima Nova;font-weight:400;font-size:14px;color:#212121;line-height:21px;color:#737373;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;font-family:'Proxima Nova',Helvetica,Arial,Sans-Serif;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;text-transform:capitalize;}/*!sc*/
+@media screen and (min-width:768px){.ccwCAN{font-family:Proxima Nova;font-weight:400;font-size:16px;color:#212121;line-height:24px;color:#737373;font-family:'Proxima Nova',Helvetica,Arial,Sans-Serif;}}/*!sc*/
+@media screen and (min-width:1024px){.ccwCAN{font-family:Proxima Nova;font-weight:400;font-size:18px;color:#212121;line-height:27px;color:#737373;font-family:'Proxima Nova',Helvetica,Arial,Sans-Serif;}}/*!sc*/
+data-styled.g466[id="headerstyle__JobViewHeaderLocation-sc-1ijq9nh-4"]{content:"ccwCAN,"}/*!sc*/
+.jSWmz{font-family:Proxima Nova;font-weight:700;font-size:18px;color:#212121;line-height:23px;color:#3d2462;font-family:'Proxima Nova SemiBold',Helvetica,Arial,Sans-Serif;}/*!sc*/
+@media screen and (min-width:768px){.jSWmz{font-family:Proxima Nova;font-weight:700;font-size:21px;color:#212121;line-height:26px;color:#3d2462;font-family:'Proxima Nova SemiBold',Helvetica,Arial,Sans-Serif;}}/*!sc*/
+@media screen and (min-width:1024px){.jSWmz{font-family:Proxima Nova;font-weight:700;font-size:25px;color:#212121;line-height:31px;color:#3d2462;font-family:'Proxima Nova SemiBold',Helvetica,Arial,Sans-Serif;}}/*!sc*/
+@media screen and (min-width:1440px){.jSWmz{font-family:Proxima Nova;font-weight:700;font-size:25px;color:#212121;line-height:31px;color:#3d2462;font-family:'Proxima Nova SemiBold',Helvetica,Arial,Sans-Serif;}}/*!sc*/
+data-styled.g467[id="headerstyle__JobViewHeaderTitle-sc-1ijq9nh-5"]{content:"jSWmz,"}/*!sc*/
+.vYQlO{font-family:Proxima Nova;font-weight:700;font-size:16px;color:#212121;line-height:20px;color:#6e46ae;font-family:'Proxima Nova SemiBold',Helvetica,Arial,Sans-Serif;}/*!sc*/
+@media screen and (min-width:768px){.vYQlO{font-family:Proxima Nova;font-weight:700;font-size:18px;color:#212121;line-height:23px;color:#6e46ae;font-family:'Proxima Nova SemiBold',Helvetica,Arial,Sans-Serif;}}/*!sc*/
+@media screen and (min-width:1024px){.vYQlO{font-family:Proxima Nova;font-weight:700;font-size:21px;color:#212121;line-height:26px;color:#6e46ae;font-family:'Proxima Nova SemiBold',Helvetica,Arial,Sans-Serif;}}/*!sc*/
+data-styled.g468[id="headerstyle__JobViewHeaderCompany-sc-1ijq9nh-6"]{content:"vYQlO,"}/*!sc*/
+.jerIfP{margin-right:16px;}/*!sc*/
+data-styled.g469[id="headerstyle__JobViewHeaderLogo-sc-1ijq9nh-7"]{content:"jerIfP,"}/*!sc*/
+.cjczkH{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;}/*!sc*/
+data-styled.g470[id="headerstyle__JobViewHeaderContent-sc-1ijq9nh-8"]{content:"cjczkH,"}/*!sc*/
+.UGSUO{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;}/*!sc*/
+data-styled.g471[id="headerstyle__JobViewButtonsContainer-sc-1ijq9nh-9"]{content:"UGSUO,"}/*!sc*/
+.gnqTKi{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;width:32px;height:32px;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;border-radius:4px;}/*!sc*/
+.gnqTKi:hover{cursor:pointer;}/*!sc*/
+@media screen and (min-width:1024px){.gnqTKi{height:48px;width:48px;}}/*!sc*/
+data-styled.g477[id="favorite-iconstyle__FavoriteIconWrapper-sc-mqgw15-0"]{content:"gnqTKi,"}/*!sc*/
+.lbPdcw{height:24px;width:24px;background-size:cover;background-repeat:no-repeat;bacground-position:center;background-image:url("data:image/svg+xml,%3Csvg viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath  d='M19.6602 3.98992C17.0202 2.18992 13.7602 3.02992 12.0002 5.08992C10.2402 3.02992 6.98021 2.17992 4.34021 3.98992C2.94021 4.94992 2.06021 6.56992 2.00021 8.27992C1.86021 12.1599 5.30021 15.2699 10.5502 20.0399L10.6502 20.1299C11.4102 20.8199 12.5802 20.8199 13.3402 20.1199L13.4502 20.0199C18.7002 15.2599 22.1302 12.1499 22.0002 8.26992C21.9402 6.56992 21.0602 4.94992 19.6602 3.98992V3.98992ZM12.1002 18.5499L12.0002 18.6499L11.9002 18.5499C7.14021 14.2399 4.00021 11.3899 4.00021 8.49992C4.00021 6.49992 5.50021 4.99992 7.50021 4.99992C9.04021 4.99992 10.5402 5.98992 11.0702 7.35992H12.9402C13.4602 5.98992 14.9602 4.99992 16.5002 4.99992C18.5002 4.99992 20.0002 6.49992 20.0002 8.49992C20.0002 11.3899 16.8602 14.2399 12.1002 18.5499Z'  fill='%23737373'/%3E%3C/svg%3E");-webkit-transition:ease-in-out 0.3s;transition:ease-in-out 0.3s;}/*!sc*/
+.lbPdcw:hover{background-image:url("data:image/svg+xml,%3Csvg viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath  d='M13.3502 20.1299C12.5902 20.8199 11.4202 20.8199 10.6602 20.1199L10.5502 20.0199C5.30015 15.2699 1.87015 12.1599 2.00015 8.27992C2.06015 6.57992 2.93015 4.94992 4.34015 3.98992C6.98015 2.18992 10.2402 3.02992 12.0002 5.08992C13.7602 3.02992 17.0202 2.17992 19.6602 3.98992C21.0702 4.94992 21.9402 6.57992 22.0002 8.27992C22.1402 12.1599 18.7002 15.2699 13.4502 20.0399L13.3502 20.1299Z'  fill='%23B051AA'/%3E%3C/svg%3E");-webkit-transition:ease-in-out 0.3s;transition:ease-in-out 0.3s;}/*!sc*/
+@media screen and (min-width:1024px){.lbPdcw:hover{height:32px;width:32px;}}/*!sc*/
+@media screen and (min-width:1024px){.lbPdcw{height:32px;width:32px;}}/*!sc*/
+data-styled.g478[id="favorite-iconstyle__FavoriteIcon-sc-mqgw15-1"]{content:"lbPdcw,"}/*!sc*/
+.fQwmYL{cursor:pointer;-webkit-text-decoration:none;text-decoration:none;}/*!sc*/
+data-styled.g479[id="company-name-linkstyles__CompanyLink-sc-1vclm3l-0"]{content:"fQwmYL,"}/*!sc*/
+.clYihH{position:relative;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;background-color:#f2f2f2;overflow:hidden;}/*!sc*/
+.clYihH:before{position:absolute;content:'';box-shadow:inset 0px 4px 9px rgba(33,33,33,0.1);width:100vw;height:100%;z-index:1;}/*!sc*/
+data-styled.g497[id="bannerstyles__BannerContainer-sc-cemdxb-0"]{content:"clYihH,"}/*!sc*/
+.fsSHok{width:100%;height:100%;max-height:248px;}/*!sc*/
+@media screen and (min-width:1440px){.fsSHok{width:auto;max-width:1440px;}}/*!sc*/
+data-styled.g498[id="bannerstyles__BannerImage-sc-cemdxb-1"]{content:"fsSHok,"}/*!sc*/
+.kBBXIU{background-color:#f2b12733;border-radius:4px;margin-top:16px;padding:6px 12px 6px 8px;width:100%;max-width:-webkit-max-content;max-width:-moz-max-content;max-width:max-content;display:grid;grid-template-columns:24px 1fr;-webkit-align-items:start;-webkit-box-align:start;-ms-flex-align:start;align-items:start;}/*!sc*/
+data-styled.g501[id="promoted-tabstyles__PromotedTab-sc-1823gkz-0"]{content:"kBBXIU,"}/*!sc*/
+.bQxWUO{font-family:Proxima Nova;font-weight:400;font-size:14px;color:#212121;line-height:18px;color:#737373;margin:4px 0 0 8px;}/*!sc*/
+data-styled.g502[id="promoted-tabstyles__PromotedTabText-sc-1823gkz-1"]{content:"bQxWUO,"}/*!sc*/
+.fVUhem{grid-template-columns:repeat(3,1fr);display:grid;grid-auto-rows:110px;grid-auto-cols:110px;-webkit-column-gap:8px;column-gap:8px;row-gap:1em;margin-bottom:50px;}/*!sc*/
+@media (max-width:1023px){.fVUhem{grid-template-columns:repeat(6,1fr);}}/*!sc*/
+@media (max-width:768px){.fVUhem{grid-template-columns:repeat(3,1fr);}}/*!sc*/
+@media (max-width:320px){.fVUhem{grid-template-columns:repeat(1,1fr);}}/*!sc*/
+data-styled.g568[id="photosstyle__PhotosWrapper-sc-18w4ot5-0"]{content:"fVUhem,"}/*!sc*/
+</style>
+ </head>
+ <body>
+  <div id="__next">
+   <style>@font-face {
+    font-family: &#x27;Proxima Nova&#x27;;
+    src: url(&#x27;/assets/jobsui/Fonts/Proxima-Nova-Regular.woff2&#x27;);
+    font-display: swap;
+  }<!-- -->@font-face {
+    font-family: &#x27;Proxima Nova SemiBold&#x27;;
+    src: url(&#x27;/assets/jobsui/Fonts/Proxima-Nova-SemiBold.woff2&#x27;);
+    font-display: swap;
+  }<!-- -->@font-face {
+    font-family: &#x27;Proxima Nova Bold&#x27;;
+    src: url(&#x27;/assets/jobsui/Fonts/Proxima-Nova-Bold.woff2&#x27;);
+    font-display: swap;
+  }</style><a class="sc-dwFVFH dOSMsu skip-link screen-reader-text" href="#skipNav">Skip to content</a>
+   <div class="sc-hYQoXb hVBwBb  ds-header">
+    <div id="modal-root"></div>
+    <div tabindex="0" data-test="sentinelStart"></div>
+    <header tabindex="0" class="sc-hJZKUC frlZpc">
+     <div class="sc-ewSTlh fcVep">
+      <div class="sc-jlsrNB dSzrQj">
+       <div class="sc-cvlWTT cYybpF">
+        <button aria-label="Search" class="sc-fTxOGA xvmkC">
+         <svg class="MuiSvgIcon-root sc-BHvUt eMhRlG" focusable="false" viewbox="0 0 24 24" aria-hidden="true">
+          <path d="M15.5 14h-.79l-.28-.27c1.2-1.4 1.82-3.31 1.48-5.34-.47-2.78-2.79-5-5.59-5.34-4.23-.52-7.79 3.04-7.27 7.27.34 2.8 2.56 5.12 5.34 5.59 2.03.34 3.94-.28 5.34-1.48l.27.28v.79l4.25 4.25c.41.41 1.08.41 1.49 0 .41-.41.41-1.08 0-1.49L15.5 14zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"></path>
+         </svg></button>
+       </div>
+      </div>
+      <div class="sc-eicpiI fLxRSm">
+       <a href="https://www.monster.fr/" title="Monster" aria-label="Monster" tabindex="0">
+        <svg width="48px" height="100%" viewbox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" class="sc-cVAmsi gVPWHR" xmlns:xlink="http://www.w3.org/1999/xlink" aria-label="Monster" role="img">
+         <title>Monster</title><g fill="none" fill-rule="evenodd">
+          <circle cx="24" cy="24" r="24" fill="#6e46ae"></circle>
+          <path fill="#FFF" d="M34 14L24.001 23.355 14 14 14 34 18.516 34 18.516 24.323 24 29.161 29.484 24.323 29.484 34 34 34z"></path>
+         </g>
+        </svg></a>
+      </div>
+      <div class="sc-iWBNLc hLIJvd">
+       <div class="sc-bGaVxB esCrvJ"></div>
+      </div>
+      <div class="sc-iWBNLc hLIJvd">
+       <div class="sc-lhMiDA hPEuMR">
+        <button aria-pressed="false" class="sc-eCImPb ifFZUQ sc-bUhFKy kKnOoZ ds-button" role="button" type="button" shape="rectangle">Inscription</button><a class="sc-eCImPb lfpipv sc-hRMWxn lohNQe ds-button" href="/profile/valid-profile-continue?redirectUri=/&amp;mode=Login" shape="rectangle">Se connecter</a>
+       </div>
+      </div>
+      <div class="sc-jlsrNB dSzrQj">
+       <div class="sc-iukxot fUTCoO">
+        <button aria-label="Ouvrir le menu" aria-haspopup="true" aria-expanded="false" class="sc-dcgwPl iDjEgz"><span class="MuiBadge-root sc-DtmNo casbZZ">
+          <div class="sc-ehIJor DPrOl"></div><span class="MuiBadge-badge MuiBadge-anchorOriginTopLeftCircular MuiBadge-invisible MuiBadge-dot"></span></span></button>
+       </div>
+      </div>
+     </div>
+     <nav aria-label="Menu principal" tabindex="0" class="sc-fydGpi jWgGA">
+      <div class="sc-gfqkcP cBRsrh">
+       <div class="sc-jlsrNB dSzrQj">
+        <ul class="sc-ckRZPU cgWVvx">
+         <li class="sc-kJpAUB erdUmV"><a data-name="header_label_0" href="https://www.monster.fr/" aria-label="Offres d’emploi ">Offres d’emploi </a></li>
+         <li class="sc-kJpAUB erdUmV"><a data-name="header_label_1" href="https://www.monster.fr/conseil-carriere/" aria-label="Conseils Carrière">Conseils Carrière</a></li>
+         <li class="sc-kJpAUB erdUmV"><a data-name="header_label_2" href="https://www.monster.fr/partagez-votre-cv/" aria-label="Dépôt de CV">Dépôt de CV</a></li>
+         <li class="sc-kJpAUB erdUmV"><a data-name="header_label_3" href="https://www.monster.fr/recruter/?intcid=skr_swoop_TopNav_Employer&amp;ch=FRFR" aria-label="Accès Recruteurs">Accès Recruteurs</a></li>
+        </ul>
+       </div>
+       <div class="sc-iWBNLc hLIJvd">
+        <ul class="sc-ckRZPU cgWVvx">
+         <li class="sc-kJpAUB erdUmV"><a data-name="header_label_0" href="https://www.monster.fr/" aria-label="Offres d’emploi ">Offres d’emploi </a></li>
+         <li class="sc-kJpAUB erdUmV"><a data-name="header_label_1" href="https://www.monster.fr/conseil-carriere/" aria-label="Conseils Carrière">Conseils Carrière</a></li>
+         <li class="sc-kJpAUB erdUmV"><a data-name="header_label_2" href="https://www.monster.fr/partagez-votre-cv/" aria-label="Dépôt de CV">Dépôt de CV</a></li>
+        </ul>
+       </div>
+       <div class="sc-gnnDb liINog">
+        <div class="sc-iWBNLc hLIJvd">
+         <div class="sc-cjrPHo hIjmFT">
+          <a href="https://www.monster.fr/recruter/?intcid=skr_swoop_TopNav_Employer&amp;ch=FRFR" class="sc-JEhMO fuAiyT">Accès Recruteurs
+           <svg class="MuiSvgIcon-root sc-igXgud fnbmNd" focusable="false" viewbox="0 0 24 24" aria-hidden="true">
+            <path d="M5 13h11.17l-4.88 4.88c-.39.39-.39 1.03 0 1.42.39.39 1.02.39 1.41 0l6.59-6.59c.39-.39.39-1.02 0-1.41l-6.58-6.6a.9959.9959 0 00-1.41 0c-.39.39-.39 1.02 0 1.41L16.17 11H5c-.55 0-1 .45-1 1s.45 1 1 1z"></path>
+           </svg></a>
+         </div>
+        </div>
+       </div>
+      </div>
+     </nav>
+    </header>
+    <div tabindex="0" data-test="sentinelEnd"></div>
+   </div>
+   <div id="skipNav"></div>
+   <div class="main-layoutstyles__Layout-sc-1w7iv1n-0 bAlkTK">
+    <div></div>
+    <div class="jobview-containerstyles__JobViewWrapper-sc-16af7k7-1 wHRKy">
+     <div aria-label="detailed job description for ALTERNANT CHARGÉ DE MISSION QUALITÉ - H/F" id="BigJobCardId" tabindex="0" class="jobview-containerstyles__JobViewCardWrapper-sc-16af7k7-0 leWqZd">
+      <div></div>
+      <div class="headerstyle__JobViewHeaderContainer-sc-1ijq9nh-0 QMbmP">
+       <div class="headerstyle__JobViewHeaderInner-sc-1ijq9nh-2 BZXiR">
+        <div class="headerstyle__JobViewHeaderLeft-sc-1ijq9nh-3 iGoBie">
+         <div class="headerstyle__JobViewHeaderLogo-sc-1ijq9nh-7 jerIfP">
+          <a target="_blank" href="/emploi/recherche?cn=TORANN-FRANCE" class="company-name-linkstyles__CompanyLink-sc-1vclm3l-0 fQwmYL">
+           <div height="80px" width="80px" class="company-logostyles__LogoContainer-sc-11vzkdn-1 bZVFkX">
+            <div style="display:block;overflow:hidden;position:relative;box-sizing:border-box;margin:0">
+             <div style="display:block;box-sizing:border-box;padding-top:100%"></div>
+             <noscript>
+              <img data-test-id="svx-job-logo" data-testid="svx-job-logo" alt="TORANN-FRANCE logo" srcset="https://securemedia.newjobs.com/clu/xwto/xwtorannfrx/JobLogo.gif?w=640 640w, https://securemedia.newjobs.com/clu/xwto/xwtorannfrx/JobLogo.gif?w=750 750w, https://securemedia.newjobs.com/clu/xwto/xwtorannfrx/JobLogo.gif?w=828 828w, https://securemedia.newjobs.com/clu/xwto/xwtorannfrx/JobLogo.gif?w=1080 1080w, https://securemedia.newjobs.com/clu/xwto/xwtorannfrx/JobLogo.gif?w=1200 1200w, https://securemedia.newjobs.com/clu/xwto/xwtorannfrx/JobLogo.gif?w=1920 1920w, https://securemedia.newjobs.com/clu/xwto/xwtorannfrx/JobLogo.gif?w=2048 2048w, https://securemedia.newjobs.com/clu/xwto/xwtorannfrx/JobLogo.gif?w=3840 3840w" src="https://securemedia.newjobs.com/clu/xwto/xwtorannfrx/JobLogo.gif" decoding="async" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:contain;object-position:left">
+             </noscript>
+             <img data-test-id="svx-job-logo" data-testid="svx-job-logo" alt="TORANN-FRANCE logo" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:contain;object-position:left">
+            </div>
+           </div></a>
+         </div>
+         <div class="headerstyle__JobViewHeaderContent-sc-1ijq9nh-8 cjczkH">
+          <h1 class="headerstyle__JobViewHeaderTitle-sc-1ijq9nh-5 jSWmz JobViewTitle">ALTERNANT CHARGÉ DE MISSION QUALITÉ - H/F</h1><a target="_blank" href="/emploi/recherche?cn=TORANN-FRANCE" class="company-name-linkstyles__CompanyLink-sc-1vclm3l-0 fQwmYL"><h2 aria-label="Company Name Link" class="headerstyle__JobViewHeaderCompany-sc-1ijq9nh-6 vYQlO">TORANN-FRANCE</h2></a>
+          <h3 class="headerstyle__JobViewHeaderLocation-sc-1ijq9nh-4 ccwCAN">Courbevoie, IDF</h3>
+         </div>
+        </div>
+        <div class="headerstyle__JobViewButtonsContainer-sc-1ijq9nh-9 UGSUO">
+         <div class="favorite-iconstyle__FavoriteIconWrapper-sc-mqgw15-0 gnqTKi">
+          <div data-testid="favorite-icon" class="favorite-iconstyle__FavoriteIcon-sc-mqgw15-1 lbPdcw"></div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div tabindex="0" id="jobview-container" class="jobview-containerstyles__JobViewContainer-sc-16af7k7-2 eOHmlq">
+       <div class="bannerstyles__BannerContainer-sc-cemdxb-0 clYihH">
+        <img src="https://media.newjobs.com/clu/xwto/xwtorannfrx/branding/178659/Torann-France-banner-637607193010788986.png" alt="TORANN-FRANCE" class="bannerstyles__BannerImage-sc-cemdxb-1 fsSHok">
+       </div>
+       <div class="jobview-containerstyles__JobViewContent-sc-16af7k7-3 ijHERe">
+        <div class="jobview-containerstyles__JobInformation-sc-16af7k7-4 impbxn">
+         <div class="jobview-containerstyles__DetailsTable-sc-16af7k7-5 dlGNnY">
+          <div id="details-table" data-testid="svx_jobview_detailsTable" class="detailsstyles__DetailsTable-sc-1deoovj-0 jaGgQW">
+           <div data-test-id="svx-jobview-details-header" data-testid="svx_jobview_detailsTable_header" class="detailsstyles__DetailsTableHeader-sc-1deoovj-1 hyuoaY">
+            DÉTAILS DU POSTE
+           </div>
+           <div data-test-id="svx-jobview-employmenttype-or-hq-div" data-testid="svx_jobview_detailsTable_companyHqRow" class="detailsstyles__DetailsTableRow-sc-1deoovj-2 fvvDpq">
+            <div data-test-id="svx-jobview-employmenttype-or-hq-header" class="detailsstyles__DetailsTableDetailHeader-sc-1deoovj-4 ieqBQQ">
+             TYPE DE CONTRAT
+            </div>
+            <div data-test-id="svx-jobview-employmenttype" class="detailsstyles__DetailsTableDetailBody-sc-1deoovj-5 hDKBZO">
+             Temps plein
+            </div>
+           </div>
+           <div class="detailsstyles__DetailsTableRowBreak-sc-1deoovj-7 YZZMI"></div>
+           <div data-test-id="svx-jobview-location-div" data-testid="svx_jobview_detailsTable_locationRow" class="detailsstyles__DetailsTableRow-sc-1deoovj-2 fvvDpq">
+            <div data-test-id="svx-jobview-location-header" class="detailsstyles__DetailsTableDetailHeader-sc-1deoovj-4 ieqBQQ">
+             ADRESSE
+            </div>
+            <div data-test-id="svx-jobview-location" class="detailsstyles__DetailsTableDetailBody-sc-1deoovj-5 hDKBZO">
+             <span>Courbevoie, IDF</span>
+            </div>
+           </div>
+           <div class="detailsstyles__DetailsTableRowBreak-sc-1deoovj-7 YZZMI"></div>
+           <div data-test-id="svx-jobview-posted-or-website-div" data-testid="svx_jobview_detailsTable_postedRow" class="detailsstyles__DetailsTableRow-sc-1deoovj-2 fvvDpq">
+            <div data-test-id="svx-jobview-posted-or-website-header" class="detailsstyles__DetailsTableDetailHeader-sc-1deoovj-4 ieqBQQ">
+             DATE DE PUBLICATION
+            </div>
+            <div data-test-id="svx-jobview-posted" class="detailsstyles__DetailsTableDetailPostedBody-sc-1deoovj-6 hNMAls">
+             Il y a 2 jours
+            </div>
+           </div>
+           <div class="detailsstyles__DetailsTableRowBreak-sc-1deoovj-7 YZZMI"></div>
+          </div>
+          <div class="promoted-tabstyles__PromotedTab-sc-1823gkz-0 kBBXIU">
+           <svg width="24" height="24" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M18 12C18 12.55 18.45 13 19 13H21C21.55 13 22 12.55 22 12C22 11.45 21.55 11 21 11H19C18.45 11 18 11.45 18 12Z" fill="#737373"></path><path d="M16.59 16.82C16.26 17.26 16.35 17.87 16.79 18.19C17.32 18.58 17.88 19 18.41 19.4C18.85 19.73 19.47 19.64 19.79 19.2C19.79 19.19 19.8 19.19 19.8 19.18C20.13 18.74 20.04 18.12 19.6 17.8C19.07 17.4 18.51 16.98 17.99 16.59C17.55 16.26 16.93 16.36 16.6 16.8C16.6 16.81 16.59 16.82 16.59 16.82Z" fill="#737373"></path><path d="M19.81 4.81004C19.81 4.80004 19.8 4.80004 19.8 4.79004C19.47 4.35004 18.85 4.26005 18.42 4.59005C17.89 4.99005 17.32 5.41004 16.8 5.81004C16.36 6.14004 16.28 6.76005 16.61 7.19005C16.61 7.20005 16.62 7.20005 16.62 7.21005C16.95 7.65005 17.56 7.74004 18 7.41004C18.53 7.02004 19.09 6.59004 19.62 6.19004C20.05 5.87004 20.13 5.25004 19.81 4.81004Z" fill="#737373"></path><path d="M8 9H4C2.9 9 2 9.9 2 11V13C2 14.1 2.9 15 4 15H5V18C5 18.55 5.45 19 6 19C6.55 19 7 18.55 7 18V15H8L13 18V6L8 9Z" fill="#737373"></path><path d="M15.5 12C15.5 10.67 14.92 9.47002 14 8.65002V15.34C14.92 14.53 15.5 13.33 15.5 12Z" fill="#737373"></path>
+           </svg><span class="promoted-tabstyles__PromotedTabText-sc-1823gkz-1 bQxWUO">Promu par TORANN-FRANCE</span>
+          </div>
+         </div>
+         <div class="descriptionstyles__DescriptionContainer-sc-13ve12b-0 bOxUQy">
+          <h2 class="descriptionstyles__DescriptionHeader-sc-13ve12b-1 ilDrbq">Description</h2>
+          <div class="descriptionstyles__DescriptionBody-sc-13ve12b-4 eRgULn">
+           <h3>Société</h3>
+           <p style="text-align:left">Rejoindre TORANN-FRANCE, c’est faire partie d’une entreprise indépendante, leader sur le marché de la sécurité privée, où plus de 2 500 collaborateurs et collaboratrices experts de leurs domaines, grandissent ensemble pour contribuer au développement de l’entreprise et instaurer une véritable culture sécurité dans leur périmètre d’intervention.</p>
+           <h3>Mission</h3>
+           <p style="text-align:left">Dans le cadre du renforcement de notre service QSE, nous recrutons :</p>
+           <ul>
+            <li><p style="text-align:left">un Chargé de mission Qualité - H/F en <u>contrat d'alternance</u> basé à Courbevoie (92)</p></li>
+           </ul>
+           <p style="text-align:left">Placé sous l'autorité du Responsable QSE qui sera également votre Maître d’Apprentissage, vous aurez pour mission principale d'aider à mettre en place le système de management de la qualité au sein de notre groupe.</p>
+           <p style="text-align:left">A ce titre, vous:</p>
+           <ul>
+            <li><p style="text-align:left">Contribuez à la formalisation du Manuel Qualité et du SMQ;</p></li>
+            <li><p style="text-align:left">Rédigez les fiches de processus;</p></li>
+            <li><p style="text-align:left">Accompagnez les services dans la construction des documents métiers associés;</p></li>
+            <li><p style="text-align:left">Suivez la réalisation des actions dans le cadre de la mise en place de la démarche;</p></li>
+            <li><p style="text-align:left">Participez à la préparation et au suivi des audits internes;</p></li>
+            <li><p style="text-align:left">Mettez à jour les tableaux de suivi des indicateurs.</p></li>
+           </ul>
+           <p style="text-align:left">Des déplacements ponctuels sont à prévoir sur toute la France.</p>
+           <p style="text-align:left"></p>
+           <h3>Profil</h3>
+           <p style="text-align:left">De formation Bac+3 dans le domaine QSE, vous préparez un diplôme de type M1/M2 en alternance dans le domaine de la Qualité.</p>
+           <p style="text-align:left">Vous avez idéalement réalisé un premier stage ou occupé un premier emploi en alternance dans ce domaine.</p>
+           <p style="text-align:left">Doté d'un excellent relationnel, votre capacité à travailler en équipe, vos qualités rédactionnelles et votre rigueur seront des atouts majeurs pour réussir dans cette fonction.</p>
+           <p style="text-align:left">Vous savez exploiter l'ensemble des outils du pack Office MS (Word, Excel, Powerpoint, ...).</p>
+          </div>
+         </div>
+        </div>
+        <div class="jobview-containerstyles__CompanyInformation-sc-16af7k7-6 iLcRjw">
+         <div class="descriptionstyles__DescriptionContainer-sc-13ve12b-0 bOxUQy">
+          <h2 class="descriptionstyles__DescriptionHeader-sc-13ve12b-1 ilDrbq">À propos de la société</h2>
+          <div class="descriptionstyles__CompanyNameContainer-sc-13ve12b-6 gBrnwO">
+           <div height="48px" width="48px" class="company-logostyles__LogoContainer-sc-11vzkdn-1 iGwFUQ">
+            <div style="display:block;overflow:hidden;position:relative;box-sizing:border-box;margin:0">
+             <div style="display:block;box-sizing:border-box;padding-top:100%"></div>
+             <noscript>
+              <img data-test-id="svx-job-logo" data-testid="svx-job-logo" alt="TORANN-FRANCE logo" srcset="https://securemedia.newjobs.com/clu/xwto/xwtorannfrx/JobLogo.gif?w=640 640w, https://securemedia.newjobs.com/clu/xwto/xwtorannfrx/JobLogo.gif?w=750 750w, https://securemedia.newjobs.com/clu/xwto/xwtorannfrx/JobLogo.gif?w=828 828w, https://securemedia.newjobs.com/clu/xwto/xwtorannfrx/JobLogo.gif?w=1080 1080w, https://securemedia.newjobs.com/clu/xwto/xwtorannfrx/JobLogo.gif?w=1200 1200w, https://securemedia.newjobs.com/clu/xwto/xwtorannfrx/JobLogo.gif?w=1920 1920w, https://securemedia.newjobs.com/clu/xwto/xwtorannfrx/JobLogo.gif?w=2048 2048w, https://securemedia.newjobs.com/clu/xwto/xwtorannfrx/JobLogo.gif?w=3840 3840w" src="https://securemedia.newjobs.com/clu/xwto/xwtorannfrx/JobLogo.gif" decoding="async" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:contain;object-position:left">
+             </noscript>
+             <img data-test-id="svx-job-logo" data-testid="svx-job-logo" alt="TORANN-FRANCE logo" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%;object-fit:contain;object-position:left">
+            </div>
+           </div>
+           <h3 class="descriptionstyles__CompanyName-sc-13ve12b-5 crFatx">TORANN-FRANCE</h3>
+          </div>
+          <div class="descriptionstyles__DescriptionBody-sc-13ve12b-4 eRgULn">
+           <p>Connue et reconnue pour notre expertise métier, notre qualité de service, notre loyauté et nos valeurs humaines, TORANN-FRANCE est un acteur majeur de la sécurité des biens et des personnes au service des entreprises françaises depuis plus de 30 ans.</p>
+           <p>Nous rejoindre, c’est faire partie d’une entreprise familiale, indépendante, où plus de 2 500 collaborateurs et collaboratrices experts de leurs domaines, grandissent ensemble pour contribuer au développement de l’entreprise et instaurer une véritable culture sécurité dans leur périmètre d’intervention.</p>
+          </div>
+         </div>
+         <div class="jobview-containerstyles__DetailsTable-sc-16af7k7-5 dlGNnY">
+          <div id="details-table" data-testid="svx_jobview_detailsTable" class="detailsstyles__DetailsTable-sc-1deoovj-0 jaGgQW">
+           <div data-test-id="svx-jobview-details-header" data-testid="svx_jobview_detailsTable_header" class="detailsstyles__DetailsTableHeader-sc-1deoovj-1 hyuoaY"></div>
+           <div class="photosstyle__PhotosWrapper-sc-18w4ot5-0 fVUhem"></div>
+           <div data-test-id="svx-jobview-companysize-div" data-testid="svx_jobview_detailsTable_salaryRow" class="detailsstyles__DetailsTableRow-sc-1deoovj-2 fvvDpq">
+            <div data-test-id="svx-jobview-companysize-header" class="detailsstyles__DetailsTableDetailHeader-sc-1deoovj-4 ieqBQQ">
+             TAILLE DE LA SOCIÉTÉ
+            </div>2000 à 2499 salariés
+           </div>
+           <div class="detailsstyles__DetailsTableRowBreak-sc-1deoovj-7 YZZMI"></div>
+           <div data-test-id="svx-jobview-industry-div" data-testid="svx_jobview_detailsTable_industryRow" class="detailsstyles__DetailsTableRow-sc-1deoovj-2 fvvDpq">
+            <div data-test-id="svx-jobview-industry-header" class="detailsstyles__DetailsTableDetailHeader-sc-1deoovj-4 ieqBQQ">
+             SECTEUR
+            </div>
+            <div data-test-id="svx-jobview-industry" class="detailsstyles__DetailsTableDetailBody-sc-1deoovj-5 hDKBZO">
+             Other/Not Classified
+            </div>
+           </div>
+           <div class="detailsstyles__DetailsTableRowBreak-sc-1deoovj-7 YZZMI"></div>
+           <div data-test-id="svx-jobview-posted-or-website-div" data-testid="svx_jobview_detailsTable_postedRow" class="detailsstyles__DetailsTableRow-sc-1deoovj-2 fvvDpq">
+            <div data-test-id="svx-jobview-posted-or-website-header" class="detailsstyles__DetailsTableDetailHeader-sc-1deoovj-4 ieqBQQ">
+             SITE WEB
+            </div>
+            <div data-test-id="svx-jobview-website" class="detailsstyles__CompanyUrl-sc-1deoovj-3 cPsSMe">
+             https://www.torann-france.fr/
+            </div>
+           </div>
+           <div class="detailsstyles__DetailsTableRowBreak-sc-1deoovj-7 YZZMI"></div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div data-testid="toastModal_container"></div>
+   </div>
+   <footer class="sc-eWfVMQ gpHNEw  ds-footer">
+    <div class="sc-kTLmzF fhHUwt">
+     <section class="sc-dwsnSq sc-avest cFYABJ ihRmlL">
+      <div class="sc-dkYRCH iJPevh sc-kmQMED ewnnYn ds-drop-down">
+       <button tabindex="0" aria-labelledby="lang-label lang-button" aria-haspopup="listbox" id="lang-button" aria-label="France (Français)" class="sc-XxNYO icBlBa">
+        <div class="sc-eGPXGI fsRiiO">
+         <svg width="20" height="100%" viewbox="0 0 640 480" xmlns="http://www.w3.org/2000/svg" class="" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true">
+          <title>fr</title><g fill-rule="evenodd" stroke-width="1pt">
+           <path fill="#fff" d="M0 0h640v480H0z"></path>
+           <path fill="#00267f" d="M0 0h213.3v480H0z"></path>
+           <path fill="#f31830" d="M426.7 0H640v480H426.7z"></path>
+          </g>
+         </svg>
+        </div>France (Français)
+        <div class="sc-bilyIR hclVXS">
+         <svg class="MuiSvgIcon-root sc-uojGG iMpNdU" focusable="false" viewbox="0 0 24 24" aria-hidden="true">
+          <path d="M15.88 9.29L12 13.17 8.12 9.29a.9959.9959 0 00-1.41 0c-.39.39-.39 1.02 0 1.41l4.59 4.59c.39.39 1.02.39 1.41 0l4.59-4.59c.39-.39.39-1.02 0-1.41-.39-.38-1.03-.39-1.42 0z"></path>
+         </svg>
+        </div></button>
+       <ul name="dropdown-ul" role="list" aria-label="lang-ul" aria-labelledby="lang-ul lang-button" aria-expanded="false" tabindex="-1" class="sc-ilfuhL eYAsRV">
+        <li tabindex="-1" role="listitem" name="dropdown-item-belgium (english)" class="sc-hAcGzb jlTJUW"><a href="https://www.monster.be/en/" tabindex="-1" data-name="dropdown-item-belgium (english)">
+          <div class="sc-eGPXGI fsRiiO">
+           <svg width="20" height="100%" viewbox="0 0 640 480" xmlns="http://www.w3.org/2000/svg" class="" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true">
+            <title>be</title><g fill-rule="evenodd" stroke-width="1pt">
+             <path d="M0 0h213.3v480H0z"></path>
+             <path fill="#ffd90c" d="M213.3 0h213.4v480H213.3z"></path>
+             <path fill="#f31830" d="M426.7 0H640v480H426.7z"></path>
+            </g>
+           </svg>
+          </div>Belgium (English)</a></li>
+        <li tabindex="-1" role="listitem" name="dropdown-item-belgique (français)" class="sc-hAcGzb jlTJUW"><a href="https://www.monster.be/fr/" tabindex="-1" data-name="dropdown-item-belgique (français)">
+          <div class="sc-eGPXGI fsRiiO">
+           <svg width="20" height="100%" viewbox="0 0 640 480" xmlns="http://www.w3.org/2000/svg" class="" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true">
+            <title>be</title><g fill-rule="evenodd" stroke-width="1pt">
+             <path d="M0 0h213.3v480H0z"></path>
+             <path fill="#ffd90c" d="M213.3 0h213.4v480H213.3z"></path>
+             <path fill="#f31830" d="M426.7 0H640v480H426.7z"></path>
+            </g>
+           </svg>
+          </div>Belgique (Français)</a></li>
+        <li tabindex="-1" role="listitem" name="dropdown-item-belgië (nederlands)" class="sc-hAcGzb jlTJUW"><a href="https://www.monster.be/nl/" tabindex="-1" data-name="dropdown-item-belgië (nederlands)">
+          <div class="sc-eGPXGI fsRiiO">
+           <svg width="20" height="100%" viewbox="0 0 640 480" xmlns="http://www.w3.org/2000/svg" class="" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true">
+            <title>be</title><g fill-rule="evenodd" stroke-width="1pt">
+             <path d="M0 0h213.3v480H0z"></path>
+             <path fill="#ffd90c" d="M213.3 0h213.4v480H213.3z"></path>
+             <path fill="#f31830" d="M426.7 0H640v480H426.7z"></path>
+            </g>
+           </svg>
+          </div>België (Nederlands)</a></li>
+        <li tabindex="-1" role="listitem" name="dropdown-item-canada (english)" class="sc-hAcGzb jlTJUW"><a href="https://www.monster.ca/" tabindex="-1" data-name="dropdown-item-canada (english)">
+          <div class="sc-eGPXGI fsRiiO">
+           <svg width="20" height="100%" viewbox="0 0 640 480" xmlns="http://www.w3.org/2000/svg" class="" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true">
+            <title>ca</title><path fill="#fff" d="M81.1 0h362.3v512H81.1z" transform="translate(74.1) scale(.9375)"></path><path fill="#d52b1e" d="M-100 0H81.1v512H-100zm543.4 0h181.1v512h-181zm-308 247.4l-14.2 4.8 65.5 57.5c5 14.7-1.7 19-6 26.8l71-9L250 399l14.8-.4-3.3-71 71.2 8.5c-4.4-9.3-8.3-14.2-4.3-29l65.4-54.5-11.4-4.2c-9.4-7.2 4-34.7 6-52.1 0 0-38.1 13.1-40.6 6.2l-9.8-18.7-34.7 38.2c-3.8.9-5.4-.6-6.3-3.8l16-79.8-25.4 14.3c-2.1 1-4.2.2-5.6-2.3l-24.5-49-25.2 50.9c-1.9 1.8-3.8 2-5.4.8l-24.2-13.6 14.6 79.1c-1.2 3.2-4 4-7.2 2.3l-33.3-37.7c-4.3 7-7.2 18.3-13 20.9-5.7 2.4-25-4.8-37.9-7.6 4.4 15.9 18.2 42.3 9.5 51z" transform="translate(74.1) scale(.9375)"></path>
+           </svg>
+          </div>Canada (English)</a></li>
+        <li tabindex="-1" role="listitem" name="dropdown-item-canada (français)" class="sc-hAcGzb jlTJUW"><a href="https://www.monster.ca/fr/" tabindex="-1" data-name="dropdown-item-canada (français)">
+          <div class="sc-eGPXGI fsRiiO">
+           <svg width="20" height="100%" viewbox="0 0 640 480" xmlns="http://www.w3.org/2000/svg" class="" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true">
+            <title>ca</title><path fill="#fff" d="M81.1 0h362.3v512H81.1z" transform="translate(74.1) scale(.9375)"></path><path fill="#d52b1e" d="M-100 0H81.1v512H-100zm543.4 0h181.1v512h-181zm-308 247.4l-14.2 4.8 65.5 57.5c5 14.7-1.7 19-6 26.8l71-9L250 399l14.8-.4-3.3-71 71.2 8.5c-4.4-9.3-8.3-14.2-4.3-29l65.4-54.5-11.4-4.2c-9.4-7.2 4-34.7 6-52.1 0 0-38.1 13.1-40.6 6.2l-9.8-18.7-34.7 38.2c-3.8.9-5.4-.6-6.3-3.8l16-79.8-25.4 14.3c-2.1 1-4.2.2-5.6-2.3l-24.5-49-25.2 50.9c-1.9 1.8-3.8 2-5.4.8l-24.2-13.6 14.6 79.1c-1.2 3.2-4 4-7.2 2.3l-33.3-37.7c-4.3 7-7.2 18.3-13 20.9-5.7 2.4-25-4.8-37.9-7.6 4.4 15.9 18.2 42.3 9.5 51z" transform="translate(74.1) scale(.9375)"></path>
+           </svg>
+          </div>Canada (Français)</a></li>
+        <li tabindex="-1" role="listitem" name="dropdown-item-deutschland (deutsch)" class="sc-hAcGzb jlTJUW"><a href="https://www.monster.de/" tabindex="-1" data-name="dropdown-item-deutschland (deutsch)">
+          <div class="sc-eGPXGI fsRiiO">
+           <svg width="20" height="100%" viewbox="0 0 640 480" xmlns="http://www.w3.org/2000/svg" class="" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true">
+            <title>de</title><path fill="#ffce00" d="M0 320h640v160H0z"></path><path d="M0 0h640v160H0z"></path><path fill="#d00" d="M0 160h640v160H0z"></path>
+           </svg>
+          </div>Deutschland (Deutsch)</a></li>
+        <li tabindex="-1" role="listitem" name="dropdown-item-españa (español)" class="sc-hAcGzb jlTJUW"><a href="https://www.monster.es/" tabindex="-1" data-name="dropdown-item-españa (español)">
+          <div class="sc-eGPXGI fsRiiO">
+           <svg width="20" height="100%" viewbox="0 0 640 480" xmlns="http://www.w3.org/2000/svg" class="" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true">
+            <title>es</title><path fill="#c60b1e" d="M0 0h640v480H0z"></path><path fill="#ffc400" d="M0 120h640v240H0z"></path>
+           </svg>
+          </div>España (Español)</a></li>
+        <li tabindex="-1" role="listitem" name="dropdown-item-ireland (english)" class="sc-hAcGzb jlTJUW"><a href="https://www.monster.ie/" tabindex="-1" data-name="dropdown-item-ireland (english)">
+          <div class="sc-eGPXGI fsRiiO">
+           <svg width="20" height="100%" viewbox="0 0 640 480" xmlns="http://www.w3.org/2000/svg" class="" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true">
+            <title>ie</title><g fill-rule="evenodd" stroke-width="1pt">
+             <path fill="#fff" d="M0 0h640v480H0z"></path>
+             <path fill="#009A49" d="M0 0h213.3v480H0z"></path>
+             <path fill="#FF7900" d="M426.7 0H640v480H426.7z"></path>
+            </g>
+           </svg>
+          </div>Ireland (English)</a></li>
+        <li tabindex="-1" role="listitem" name="dropdown-item-italia (italiano)" class="sc-hAcGzb jlTJUW"><a href="https://www.monster.it/" tabindex="-1" data-name="dropdown-item-italia (italiano)">
+          <div class="sc-eGPXGI fsRiiO">
+           <svg width="20" height="100%" viewbox="0 0 640 480" xmlns="http://www.w3.org/2000/svg" class="" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true">
+            <title>it</title><g fill-rule="evenodd" stroke-width="1pt">
+             <path fill="#fff" d="M0 0h640v480H0z"></path>
+             <path fill="#009246" d="M0 0h213.3v480H0z"></path>
+             <path fill="#ce2b37" d="M426.7 0H640v480H426.7z"></path>
+            </g>
+           </svg>
+          </div>Italia (Italiano)</a></li>
+        <li tabindex="-1" role="listitem" name="dropdown-item-luxemburg (deutsch)" class="sc-hAcGzb jlTJUW"><a href="https://www.monster.lu/de/" tabindex="-1" data-name="dropdown-item-luxemburg (deutsch)">
+          <div class="sc-eGPXGI fsRiiO">
+           <svg width="20" height="100%" viewbox="0 0 640 480" xmlns="http://www.w3.org/2000/svg" class="" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true">
+            <title>lu</title><path fill="#00a1de" d="M0 240h640v240H0z"></path><path fill="#ed2939" d="M0 0h640v240H0z"></path><path fill="#fff" d="M0 160h640v160H0z"></path>
+           </svg>
+          </div>Luxemburg (Deutsch)</a></li>
+        <li tabindex="-1" role="listitem" name="dropdown-item-luxembourg (english)" class="sc-hAcGzb jlTJUW"><a href="https://www.monster.lu/en/" tabindex="-1" data-name="dropdown-item-luxembourg (english)">
+          <div class="sc-eGPXGI fsRiiO">
+           <svg width="20" height="100%" viewbox="0 0 640 480" xmlns="http://www.w3.org/2000/svg" class="" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true">
+            <title>lu</title><path fill="#00a1de" d="M0 240h640v240H0z"></path><path fill="#ed2939" d="M0 0h640v240H0z"></path><path fill="#fff" d="M0 160h640v160H0z"></path>
+           </svg>
+          </div>Luxembourg (English)</a></li>
+        <li tabindex="-1" role="listitem" name="dropdown-item-luxembourg (français)" class="sc-hAcGzb jlTJUW"><a href="https://www.monster.lu/fr/" tabindex="-1" data-name="dropdown-item-luxembourg (français)">
+          <div class="sc-eGPXGI fsRiiO">
+           <svg width="20" height="100%" viewbox="0 0 640 480" xmlns="http://www.w3.org/2000/svg" class="" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true">
+            <title>lu</title><path fill="#00a1de" d="M0 240h640v240H0z"></path><path fill="#ed2939" d="M0 0h640v240H0z"></path><path fill="#fff" d="M0 160h640v160H0z"></path>
+           </svg>
+          </div>Luxembourg (Français)</a></li>
+        <li tabindex="-1" role="listitem" name="dropdown-item-nederland (nederlands)" class="sc-hAcGzb jlTJUW"><a href="https://www.monsterboard.nl/" tabindex="-1" data-name="dropdown-item-nederland (nederlands)">
+          <div class="sc-eGPXGI fsRiiO">
+           <svg width="20" height="100%" viewbox="0 0 640 480" xmlns="http://www.w3.org/2000/svg" class="" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true">
+            <title>nl</title><path fill="#21468b" d="M0 0h640v480H0z"></path><path fill="#fff" d="M0 0h640v320H0z"></path><path fill="#ae1c28" d="M0 0h640v160H0z"></path>
+           </svg>
+          </div>Nederland (Nederlands)</a></li>
+        <li tabindex="-1" role="listitem" name="dropdown-item-österreich (deutsch)" class="sc-hAcGzb jlTJUW"><a href="https://www.monster.at/" tabindex="-1" data-name="dropdown-item-österreich (deutsch)">
+          <div class="sc-eGPXGI fsRiiO">
+           <svg width="20" height="100%" viewbox="0 0 640 480" xmlns="http://www.w3.org/2000/svg" class="" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true">
+            <title>at</title><g fill-rule="evenodd">
+             <path fill="#fff" d="M640 480H0V0h640z"></path>
+             <path fill="#ed2939" d="M640 480H0V320h640zm0-319.9H0V.1h640z"></path>
+            </g>
+           </svg>
+          </div>Österreich (Deutsch)</a></li>
+        <li tabindex="-1" role="listitem" name="dropdown-item-schweiz (deutsch)" class="sc-hAcGzb jlTJUW"><a href="https://www.monster.ch/de/" tabindex="-1" data-name="dropdown-item-schweiz (deutsch)">
+          <div class="sc-eGPXGI fsRiiO">
+           <svg width="20" height="100%" viewbox="0 0 640 480" xmlns="http://www.w3.org/2000/svg" class="" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true">
+            <title>ch</title><g fill-rule="evenodd" stroke-width="1pt">
+             <path fill="#d52b1e" d="M0 0h640v480H0z"></path>
+             <g fill="#fff">
+              <path d="M170 195h300v90H170z"></path>
+              <path d="M275 90h90v300h-90z"></path>
+             </g>
+            </g>
+           </svg>
+          </div>Schweiz (Deutsch)</a></li>
+        <li tabindex="-1" role="listitem" name="dropdown-item-suisse (français)" class="sc-hAcGzb jlTJUW"><a href="https://www.monster.ch/fr/" tabindex="-1" data-name="dropdown-item-suisse (français)">
+          <div class="sc-eGPXGI fsRiiO">
+           <svg width="20" height="100%" viewbox="0 0 640 480" xmlns="http://www.w3.org/2000/svg" class="" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true">
+            <title>ch</title><g fill-rule="evenodd" stroke-width="1pt">
+             <path fill="#d52b1e" d="M0 0h640v480H0z"></path>
+             <g fill="#fff">
+              <path d="M170 195h300v90H170z"></path>
+              <path d="M275 90h90v300h-90z"></path>
+             </g>
+            </g>
+           </svg>
+          </div>Suisse (Français)</a></li>
+        <li tabindex="-1" role="listitem" name="dropdown-item-sverige (svenska)" class="sc-hAcGzb jlTJUW"><a href="https://www.monster.se/" tabindex="-1" data-name="dropdown-item-sverige (svenska)">
+          <div class="sc-eGPXGI fsRiiO">
+           <svg width="20" height="100%" viewbox="0 0 640 480" xmlns="http://www.w3.org/2000/svg" class="" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true">
+            <title>se</title><defs>
+             <clippath id="sweden">
+              <path fill-opacity=".7" d="M-53.4 0h682.6v512H-53.4z"></path>
+             </clippath>
+            </defs><g clip-path="url(#sweden)" transform="translate(50) scale(.9375)">
+             <g fill-rule="evenodd" stroke-width="1pt">
+              <path fill="#006aa7" d="M-121.1.3h256v204.8h-256zm0 306.9h256V512h-256z"></path>
+              <path fill="#fecc00" d="M-121.1 205h256v102.4h-256z"></path>
+              <path fill="#fecc00" d="M133.8 0h102.4v512H133.8z"></path>
+              <path fill="#fecc00" d="M233 205h460.8v102.4H233z"></path>
+              <path fill="#006aa7" d="M236.2 307.2H697V512H236.2zm0-306.9H697v204.8H236.2z"></path>
+             </g>
+            </g>
+           </svg>
+          </div>Sverige (Svenska)</a></li>
+        <li tabindex="-1" role="listitem" name="dropdown-item-united kingdom (english)" class="sc-hAcGzb jlTJUW"><a href="https://www.monster.co.uk/" tabindex="-1" data-name="dropdown-item-united kingdom (english)">
+          <div class="sc-eGPXGI fsRiiO">
+           <svg width="20" height="100%" viewbox="0 0 640 480" xmlns="http://www.w3.org/2000/svg" class="" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true">
+            <title>uk</title><path fill="#012169" d="M0 0h640v480H0z"></path><path fill="#FFF" d="M75 0l244 181L562 0h78v62L400 241l240 178v61h-80L320 301 81 480H0v-60l239-178L0 64V0h75z"></path><path fill="#C8102E" d="M424 281l216 159v40L369 281h55zm-184 20l6 35L54 480H0l240-179zM640 0v3L391 191l2-44L590 0h50zM0 0l239 176h-60L0 42V0z"></path><path fill="#FFF" d="M241 0v480h160V0H241zM0 160v160h640V160H0z"></path><path fill="#C8102E" d="M0 193v96h640v-96H0zM273 0v480h96V0h-96z"></path>
+           </svg>
+          </div>United Kingdom (English)</a></li>
+        <li tabindex="-1" role="listitem" name="dropdown-item-united states (english)" class="sc-hAcGzb jlTJUW"><a href="https://www.monster.com/" tabindex="-1" data-name="dropdown-item-united states (english)">
+          <div class="sc-eGPXGI fsRiiO">
+           <svg width="20" height="100%" viewbox="0 0 640 480" xmlns="http://www.w3.org/2000/svg" class="" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true">
+            <title>us</title><g fill-rule="evenodd">
+             <g stroke-width="1pt">
+              <path fill="#bd3d44" d="M0 0h972.8v39.4H0zm0 78.8h972.8v39.4H0zm0 78.7h972.8V197H0zm0 78.8h972.8v39.4H0zm0 78.8h972.8v39.4H0zm0 78.7h972.8v39.4H0zm0 78.8h972.8V512H0z" transform="scale(.9375)"></path>
+              <path fill="#fff" d="M0 39.4h972.8v39.4H0zm0 78.8h972.8v39.3H0zm0 78.7h972.8v39.4H0zm0 78.8h972.8v39.4H0zm0 78.8h972.8v39.4H0zm0 78.7h972.8v39.4H0z" transform="scale(.9375)"></path>
+             </g>
+             <path fill="#192f5d" d="M0 0h389.1v275.7H0z" transform="scale(.9375)"></path>
+             <path fill="#fff" d="M32.4 11.8L36 22.7h11.4l-9.2 6.7 3.5 11-9.3-6.8-9.2 6.7 3.5-10.9-9.3-6.7H29zm64.9 0l3.5 10.9h11.5l-9.3 6.7 3.5 11-9.2-6.8-9.3 6.7 3.5-10.9-9.2-6.7h11.4zm64.8 0l3.6 10.9H177l-9.2 6.7 3.5 11-9.3-6.8-9.2 6.7 3.5-10.9-9.3-6.7h11.5zm64.9 0l3.5 10.9H242l-9.3 6.7 3.6 11-9.3-6.8-9.3 6.7 3.6-10.9-9.3-6.7h11.4zm64.8 0l3.6 10.9h11.4l-9.2 6.7 3.5 11-9.3-6.8-9.2 6.7 3.5-10.9-9.2-6.7h11.4zm64.9 0l3.5 10.9h11.5l-9.3 6.7 3.6 11-9.3-6.8-9.3 6.7 3.6-10.9-9.3-6.7h11.5zM64.9 39.4l3.5 10.9h11.5L70.6 57 74 67.9l-9-6.7-9.3 6.7L59 57l-9-6.7h11.4zm64.8 0l3.6 10.9h11.4l-9.3 6.7 3.6 10.9-9.3-6.7-9.3 6.7L124 57l-9.3-6.7h11.5zm64.9 0l3.5 10.9h11.5l-9.3 6.7 3.5 10.9-9.2-6.7-9.3 6.7 3.5-10.9-9.2-6.7H191zm64.8 0l3.6 10.9h11.4l-9.3 6.7 3.6 10.9-9.3-6.7-9.2 6.7 3.5-10.9-9.3-6.7H256zm64.9 0l3.5 10.9h11.5L330 57l3.5 10.9-9.2-6.7-9.3 6.7 3.5-10.9-9.2-6.7h11.4zM32.4 66.9L36 78h11.4l-9.2 6.7 3.5 10.9-9.3-6.8-9.2 6.8 3.5-11-9.3-6.7H29zm64.9 0l3.5 11h11.5l-9.3 6.7 3.5 10.9-9.2-6.8-9.3 6.8 3.5-11-9.2-6.7h11.4zm64.8 0l3.6 11H177l-9.2 6.7 3.5 10.9-9.3-6.8-9.2 6.8 3.5-11-9.3-6.7h11.5zm64.9 0l3.5 11H242l-9.3 6.7 3.6 10.9-9.3-6.8-9.3 6.8 3.6-11-9.3-6.7h11.4zm64.8 0l3.6 11h11.4l-9.2 6.7 3.5 10.9-9.3-6.8-9.2 6.8 3.5-11-9.2-6.7h11.4zm64.9 0l3.5 11h11.5l-9.3 6.7 3.6 10.9-9.3-6.8-9.3 6.8 3.6-11-9.3-6.7h11.5zM64.9 94.5l3.5 10.9h11.5l-9.3 6.7 3.5 11-9.2-6.8-9.3 6.7 3.5-10.9-9.2-6.7h11.4zm64.8 0l3.6 10.9h11.4l-9.3 6.7 3.6 11-9.3-6.8-9.3 6.7 3.6-10.9-9.3-6.7h11.5zm64.9 0l3.5 10.9h11.5l-9.3 6.7 3.5 11-9.2-6.8-9.3 6.7 3.5-10.9-9.2-6.7H191zm64.8 0l3.6 10.9h11.4l-9.2 6.7 3.5 11-9.3-6.8-9.2 6.7 3.5-10.9-9.3-6.7H256zm64.9 0l3.5 10.9h11.5l-9.3 6.7 3.5 11-9.2-6.8-9.3 6.7 3.5-10.9-9.2-6.7h11.4zM32.4 122.1L36 133h11.4l-9.2 6.7 3.5 11-9.3-6.8-9.2 6.7 3.5-10.9-9.3-6.7H29zm64.9 0l3.5 10.9h11.5l-9.3 6.7 3.5 10.9-9.2-6.7-9.3 6.7 3.5-10.9-9.2-6.7h11.4zm64.8 0l3.6 10.9H177l-9.2 6.7 3.5 11-9.3-6.8-9.2 6.7 3.5-10.9-9.3-6.7h11.5zm64.9 0l3.5 10.9H242l-9.3 6.7 3.6 11-9.3-6.8-9.3 6.7 3.6-10.9-9.3-6.7h11.4zm64.8 0l3.6 10.9h11.4l-9.2 6.7 3.5 11-9.3-6.8-9.2 6.7 3.5-10.9-9.2-6.7h11.4zm64.9 0l3.5 10.9h11.5l-9.3 6.7 3.6 11-9.3-6.8-9.3 6.7 3.6-10.9-9.3-6.7h11.5zM64.9 149.7l3.5 10.9h11.5l-9.3 6.7 3.5 10.9-9.2-6.8-9.3 6.8 3.5-11-9.2-6.7h11.4zm64.8 0l3.6 10.9h11.4l-9.3 6.7 3.6 10.9-9.3-6.8-9.3 6.8 3.6-11-9.3-6.7h11.5zm64.9 0l3.5 10.9h11.5l-9.3 6.7 3.5 10.9-9.2-6.8-9.3 6.8 3.5-11-9.2-6.7H191zm64.8 0l3.6 10.9h11.4l-9.2 6.7 3.5 10.9-9.3-6.8-9.2 6.8 3.5-11-9.3-6.7H256zm64.9 0l3.5 10.9h11.5l-9.3 6.7 3.5 10.9-9.2-6.8-9.3 6.8 3.5-11-9.2-6.7h11.4zM32.4 177.2l3.6 11h11.4l-9.2 6.7 3.5 10.8-9.3-6.7-9.2 6.7 3.5-10.9-9.3-6.7H29zm64.9 0l3.5 11h11.5l-9.3 6.7 3.6 10.8-9.3-6.7-9.3 6.7 3.6-10.9-9.3-6.7h11.4zm64.8 0l3.6 11H177l-9.2 6.7 3.5 10.8-9.3-6.7-9.2 6.7 3.5-10.9-9.3-6.7h11.5zm64.9 0l3.5 11H242l-9.3 6.7 3.6 10.8-9.3-6.7-9.3 6.7 3.6-10.9-9.3-6.7h11.4zm64.8 0l3.6 11h11.4l-9.2 6.7 3.5 10.8-9.3-6.7-9.2 6.7 3.5-10.9-9.2-6.7h11.4zm64.9 0l3.5 11h11.5l-9.3 6.7 3.6 10.8-9.3-6.7-9.3 6.7 3.6-10.9-9.3-6.7h11.5zM64.9 204.8l3.5 10.9h11.5l-9.3 6.7 3.5 11-9.2-6.8-9.3 6.7 3.5-10.9-9.2-6.7h11.4zm64.8 0l3.6 10.9h11.4l-9.3 6.7 3.6 11-9.3-6.8-9.3 6.7 3.6-10.9-9.3-6.7h11.5zm64.9 0l3.5 10.9h11.5l-9.3 6.7 3.5 11-9.2-6.8-9.3 6.7 3.5-10.9-9.2-6.7H191zm64.8 0l3.6 10.9h11.4l-9.2 6.7 3.5 11-9.3-6.8-9.2 6.7 3.5-10.9-9.3-6.7H256zm64.9 0l3.5 10.9h11.5l-9.3 6.7 3.5 11-9.2-6.8-9.3 6.7 3.5-10.9-9.2-6.7h11.4zM32.4 232.4l3.6 10.9h11.4l-9.2 6.7 3.5 10.9-9.3-6.7-9.2 6.7 3.5-11-9.3-6.7H29zm64.9 0l3.5 10.9h11.5L103 250l3.6 10.9-9.3-6.7-9.3 6.7 3.6-11-9.3-6.7h11.4zm64.8 0l3.6 10.9H177l-9 6.7 3.5 10.9-9.3-6.7-9.2 6.7 3.5-11-9.3-6.7h11.5zm64.9 0l3.5 10.9H242l-9.3 6.7 3.6 10.9-9.3-6.7-9.3 6.7 3.6-11-9.3-6.7h11.4zm64.8 0l3.6 10.9h11.4l-9.2 6.7 3.5 10.9-9.3-6.7-9.2 6.7 3.5-11-9.2-6.7h11.4zm64.9 0l3.5 10.9h11.5l-9.3 6.7 3.6 10.9-9.3-6.7-9.3 6.7 3.6-11-9.3-6.7h11.5z" transform="scale(.9375)"></path>
+            </g>
+           </svg>
+          </div>United States (English)</a></li>
+       </ul>
+      </div>
+     </section>
+     <section class="sc-gslxeA cEyaYq">
+      <section class="sc-jivBlf bNHDDY">
+       <h3 class="sc-gGPzkF broYnB"><button aria-expanded="false" aria-controls="panel10" id="accordion0" aria-label="Espace candidats" tabindex="0" class="sc-dkQkyq iQNGRk">Espace candidats
+         <div class="sc-edERGn frWvdG"></div></button></h3>
+       <div id="panel0" role="region" aria-labelledby="accordion0">
+        <ul class="sc-hkgtus gftgNv">
+         <li class="sc-jvvksu hUjwDm"><a href="https://www.monster.fr/emploi/" data-name="footer_label_0_0" tabindex="-1" class="sc-bSqaIl enwGuw">Toutes les offres</a></li>
+         <li class="sc-jvvksu hUjwDm"><a href="https://www.monster.fr/conseil-carriere/" data-name="footer_label_0_1" tabindex="-1" class="sc-bSqaIl enwGuw">Conseils Carrière</a></li>
+         <li class="sc-jvvksu hUjwDm"><a href="https://www.monster.fr/profils" data-name="footer_label_0_2" tabindex="-1" class="sc-bSqaIl enwGuw">Profils d'entreprises</a></li>
+         <li class="sc-jvvksu hUjwDm"><a href="https://aidecandidat.monster.fr/s/?language=fr&amp;brandtag=seeker_frfr" data-name="footer_label_0_3" tabindex="-1" class="sc-bSqaIl enwGuw">Aide</a></li>
+        </ul>
+       </div>
+      </section>
+      <section class="sc-jivBlf bNHDDY">
+       <h3 class="sc-gGPzkF broYnB"><button aria-expanded="false" aria-controls="panel11" id="accordion1" aria-label="Espace recruteurs" tabindex="0" class="sc-dkQkyq iQNGRk">Espace recruteurs
+         <div class="sc-edERGn frWvdG"></div></button></h3>
+       <div id="panel1" role="region" aria-labelledby="accordion1">
+        <ul class="sc-hkgtus gftgNv">
+         <li class="sc-jvvksu hUjwDm"><a href="https://www.monster.fr/recruter/produits/" data-name="footer_label_1_0" tabindex="-1" class="sc-bSqaIl enwGuw">Nos produits</a></li>
+         <li class="sc-jvvksu hUjwDm"><a href="https://www.monster.fr/recruter/solutions/" data-name="footer_label_1_1" tabindex="-1" class="sc-bSqaIl enwGuw">Sur mesure</a></li>
+         <li class="sc-jvvksu hUjwDm"><a href="https://www.monster.fr/recruter/tarifs-monster/" data-name="footer_label_1_2" tabindex="-1" class="sc-bSqaIl enwGuw">Nos Tarifs</a></li>
+         <li class="sc-jvvksu hUjwDm"><a href="https://www.monster.fr/recruter/ressources-rh/" data-name="footer_label_1_3" tabindex="-1" class="sc-bSqaIl enwGuw">Infos RH</a></li>
+         <li class="sc-jvvksu hUjwDm"><a href="https://mymforce.force.com/customerhelp/s/?language=fr" data-name="footer_label_1_4" tabindex="-1" class="sc-bSqaIl enwGuw">Aide</a></li>
+        </ul>
+       </div>
+      </section>
+      <section class="sc-jivBlf bNHDDY">
+       <h3 class="sc-gGPzkF broYnB"><button aria-expanded="false" aria-controls="panel12" id="accordion2" aria-label="Liens utiles" tabindex="0" class="sc-dkQkyq iQNGRk">Liens utiles
+         <div class="sc-edERGn frWvdG"></div></button></h3>
+       <div id="panel2" role="region" aria-labelledby="accordion2">
+        <ul class="sc-hkgtus gftgNv">
+         <li class="sc-jvvksu hUjwDm"><a href="https://www.monster.fr/a-propos/#mentionslegales" data-name="footer_label_2_0" tabindex="-1" class="sc-bSqaIl enwGuw">Mentions légales</a></li>
+         <li class="sc-jvvksu hUjwDm"><a href="https://www.monster.fr/donnees/conditions-utilisation" data-name="footer_label_2_1" tabindex="-1" class="sc-bSqaIl enwGuw">Conditions d’utilisation</a></li>
+         <li class="sc-jvvksu hUjwDm"><a href="https://www.monster.fr/donnees/charte/inside2.aspx" data-name="footer_label_2_2" tabindex="-1" class="sc-bSqaIl enwGuw">Données personnelles</a></li>
+         <li class="sc-jvvksu hUjwDm"><a href="https://www.monster.fr/donnees/security-center/home.aspx" data-name="footer_label_2_3" tabindex="-1" class="sc-bSqaIl enwGuw">Centre de sécurité</a></li>
+         <li class="sc-jvvksu hUjwDm"><a href="https://www.monster.fr/donnees/accessibilite" data-name="footer_label_2_4" tabindex="-1" class="sc-bSqaIl enwGuw">Accessibilité</a></li>
+         <li class="sc-jvvksu hUjwDm"><a id="cookie link" data-name="footer_label_2_5" tabindex="-1" class="sc-bSqaIl enwGuw">Paramètres des cookies</a></li>
+         <li class="sc-jvvksu hUjwDm"><a href="https://preferences-mgr.truste.com" data-name="footer_label_2_6" tabindex="-1" class="sc-bSqaIl enwGuw">Choisir sa pub </a></li>
+        </ul>
+       </div>
+      </section>
+     </section>
+     <section class="sc-dwsnSq sc-jtXEFf cFYABJ fzHCZz">
+      Retrouvez-nous sur les réseaux sociaux
+      <div class="sc-dSfdvi bdNZKs">
+       <div class="sc-dSfdvi bdNZKs">
+        <a aria-label="Monster Facebook" href="https://www.facebook.com/Monster.fr" target="_blank" data-name="monster-facebook" rel="noreferrer noopener">
+         <div class="facebook">
+          <svg class="MuiSvgIcon-root socialIcon" focusable="false" viewbox="0 0 24 24" aria-hidden="true">
+           <path d="M5 3h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2m13 2h-2.5A3.5 3.5 0 0 0 12 8.5V11h-2v3h2v7h3v-7h3v-3h-3V9a1 1 0 0 1 1-1h2V5z"></path>
+          </svg>
+         </div></a><a aria-label="Monster Twitter" href="https://twitter.com/MonsterFrance" target="_blank" data-name="monster-twitter" rel="noreferrer noopener">
+         <div class="twitter">
+          <svg class="MuiSvgIcon-root socialIcon" focusable="false" viewbox="0 0 24 24" aria-hidden="true">
+           <path d="M22.46 6c-.77.35-1.6.58-2.46.69.88-.53 1.56-1.37 1.88-2.38-.83.5-1.75.85-2.72 1.05C18.37 4.5 17.26 4 16 4c-2.35 0-4.27 1.92-4.27 4.29 0 .34.04.67.11.98C8.28 9.09 5.11 7.38 3 4.79c-.37.63-.58 1.37-.58 2.15 0 1.49.75 2.81 1.91 3.56-.71 0-1.37-.2-1.95-.5v.03c0 2.08 1.48 3.82 3.44 4.21a4.22 4.22 0 0 1-1.93.07 4.28 4.28 0 0 0 4 2.98 8.521 8.521 0 0 1-5.33 1.84c-.34 0-.68-.02-1.02-.06C3.44 20.29 5.7 21 8.12 21 16 21 20.33 14.46 20.33 8.79c0-.19 0-.37-.01-.56.84-.6 1.56-1.36 2.14-2.23z"></path>
+          </svg>
+         </div></a><a aria-label="Monster Instagram" href="https://www.instagram.com/monster.recrutement.france/" target="_blank" data-name="monster-instagram" rel="noreferrer noopener">
+         <div class="instagram">
+          <svg class="MuiSvgIcon-root socialIcon" focusable="false" viewbox="0 0 24 24" aria-hidden="true">
+           <path d="M7.8 2h8.4C19.4 2 22 4.6 22 7.8v8.4a5.8 5.8 0 0 1-5.8 5.8H7.8C4.6 22 2 19.4 2 16.2V7.8A5.8 5.8 0 0 1 7.8 2m-.2 2A3.6 3.6 0 0 0 4 7.6v8.8C4 18.39 5.61 20 7.6 20h8.8a3.6 3.6 0 0 0 3.6-3.6V7.6C20 5.61 18.39 4 16.4 4H7.6m9.65 1.5a1.25 1.25 0 0 1 1.25 1.25A1.25 1.25 0 0 1 17.25 8 1.25 1.25 0 0 1 16 6.75a1.25 1.25 0 0 1 1.25-1.25M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3z"></path>
+          </svg>
+         </div></a><a aria-label="Monster YouTube" href="https://www.youtube.com/user/FranceMonster" target="_blank" data-name="monster-youtube" rel="noreferrer noopener">
+         <div class="youtube">
+          <svg class="MuiSvgIcon-root socialIcon" focusable="false" viewbox="0 0 24 24" aria-hidden="true">
+           <path d="M10 15l5.19-3L10 9v6m11.56-7.83c.13.47.22 1.1.28 1.9.07.8.1 1.49.1 2.09L22 12c0 2.19-.16 3.8-.44 4.83-.25.9-.83 1.48-1.73 1.73-.47.13-1.33.22-2.65.28-1.3.07-2.49.1-3.59.1L12 19c-4.19 0-6.8-.16-7.83-.44-.9-.25-1.48-.83-1.73-1.73-.13-.47-.22-1.1-.28-1.9-.07-.8-.1-1.49-.1-2.09L2 12c0-2.19.16-3.8.44-4.83.25-.9.83-1.48 1.73-1.73.47-.13 1.33-.22 2.65-.28 1.3-.07 2.49-.1 3.59-.1L12 5c4.19 0 6.8.16 7.83.44.9.25 1.48.83 1.73 1.73z"></path>
+          </svg>
+         </div></a>
+       </div>
+      </div>
+     </section>
+     <section class="sc-dwsnSq sc-eldieg cFYABJ hMXBs">
+      Téléchargez l'appli Monster
+      <div class="sc-bUbRBg ioqNZM">
+       <div class="sc-tAExr bFIHKR">
+        <a href="https://itunes.apple.com/fr/app/monster-offres-demploi/id870221491?mt=8" target="_blank" rel="nofollow noreferrer noopener" data-name="appstore-apple">
+         <svg xmlns="http://www.w3.org/2000/svg" width="127" height="40" viewbox="0 0 127 40">
+          <title>Monster App – App Store</title><g fill="none" fill-rule="evenodd">
+           <g fill-rule="nonzero">
+            <g>
+             <g>
+              <g>
+               <path fill="#A6A6A6" d="M116.978 0H9.535c-.367 0-.73 0-1.095.002-.306.002-.61.008-.919.013C6.85.023 6.18.082 5.517.19c-.661.113-1.302.324-1.9.627-.599.306-1.145.704-1.62 1.18-.477.473-.875 1.02-1.178 1.62-.304.6-.514 1.24-.625 1.903-.111.662-.17 1.332-.179 2.002-.01.307-.01.615-.015.921V31.56c.005.31.006.61.015.921.008.671.068 1.34.18 2.002.11.663.32 1.306.624 1.905.303.598.701 1.143 1.179 1.614.473.477 1.02.875 1.618 1.179.599.304 1.24.517 1.901.63.663.11 1.333.168 2.004.177.31.007.613.011.919.011.366.002.728.002 1.095.002h107.443c.36 0 .725 0 1.084-.002.305 0 .617-.004.922-.01.67-.01 1.339-.068 2-.178.664-.114 1.307-.327 1.908-.63.599-.304 1.145-.702 1.618-1.179.476-.473.874-1.018 1.181-1.614.302-.6.51-1.242.62-1.905.11-.661.173-1.33.185-2.002.004-.31.004-.61.004-.921.008-.364.008-.725.008-1.094V9.536c0-.366 0-.73-.008-1.092 0-.306 0-.614-.004-.92-.012-.672-.074-1.34-.186-2.003-.108-.662-.317-1.303-.619-1.903-.617-1.203-1.596-2.182-2.799-2.8-.601-.302-1.244-.514-1.908-.627-.661-.11-1.33-.169-2-.176-.305-.005-.617-.011-.922-.013-.36-.002-.724-.002-1.084-.002z" transform="translate(-40 -721) translate(40 226) translate(0 495)"></path>
+               <path fill="#000" d="M8.445 39.125c-.305 0-.602-.004-.904-.01-.627-.009-1.251-.063-1.87-.164-.576-.1-1.134-.284-1.656-.548-.517-.261-.99-.605-1.397-1.016-.414-.407-.76-.879-1.02-1.397-.265-.521-.449-1.08-.544-1.657-.103-.62-.158-1.247-.166-1.875-.007-.21-.015-.913-.015-.913v-23.1s.009-.692.015-.895c.007-.628.063-1.253.165-1.872.096-.579.279-1.14.544-1.662.26-.518.603-.99 1.015-1.398.41-.412.884-.757 1.402-1.023.52-.263 1.078-.446 1.653-.544C6.287.95 6.915.895 7.543.887l.902-.012h109.612l.913.013c.623.007 1.244.061 1.859.162.58.099 1.144.284 1.67.548 1.039.535 1.883 1.381 2.416 2.42.26.52.44 1.076.535 1.649.104.624.162 1.255.174 1.887.003.283.003.588.003.89.008.375.008.732.008 1.092v20.929c0 .363 0 .718-.008 1.075 0 .325 0 .623-.004.93-.012.62-.07 1.24-.171 1.853-.093.581-.276 1.145-.54 1.67-.264.513-.607.98-1.016 1.386-.408.414-.88.759-1.4 1.022-.524.266-1.087.452-1.667.55-.618.101-1.243.156-1.87.163-.292.007-.599.011-.897.011l-1.084.002-108.533-.002z" transform="translate(-40 -721) translate(40 226) translate(0 495)"></path>
+              </g>
+              <g fill="#FFF">
+               <g>
+                <path d="M15.772 12.3c.022-1.696.911-3.263 2.356-4.151-.916-1.308-2.395-2.108-3.99-2.158-1.68-.176-3.308 1.005-4.164 1.005-.872 0-2.19-.988-3.608-.958-1.867.06-3.565 1.096-4.473 2.727-1.934 3.349-.492 8.27 1.361 10.977.927 1.325 2.01 2.805 3.428 2.753 1.387-.058 1.905-.885 3.58-.885 1.658 0 2.144.885 3.59.852 1.488-.025 2.426-1.332 3.32-2.67.667-.944 1.179-1.988 1.519-3.092-1.768-.748-2.917-2.48-2.92-4.4zM13.04 4.21c.812-.973 1.212-2.225 1.115-3.49-1.24.13-2.385.723-3.208 1.66-.812.924-1.224 2.133-1.144 3.361 1.257.013 2.45-.55 3.237-1.53z" transform="translate(-40 -721) translate(40 226) translate(0 495) translate(9 8)"></path>
+               </g>
+               <g>
+                <path d="M2.655 6.702L2.655 1.578.778 1.578.778.735 5.455.735 5.455 1.578 3.582 1.578 3.582 6.702zM9.765 5.486c-.25.85-1.071 1.398-1.952 1.303-.6.015-1.177-.233-1.578-.681-.4-.448-.584-1.049-.502-1.644-.08-.596.103-1.198.502-1.65.398-.451.973-.707 1.575-.702 1.253 0 2.008.856 2.008 2.27v.31h-3.18v.05c-.027.334.087.664.315.91s.55.383.885.38c.435.052.858-.164 1.071-.546h.856zM6.639 4.035h2.274c.023-.306-.085-.607-.296-.829-.21-.222-.506-.345-.812-.338-.31-.004-.61.118-.83.338-.219.22-.34.518-.336.829zm.636-2.59L8.313.024h1.042L8.193 1.446h-.918zM11.053.441L11.941.441 11.941 6.702 11.053 6.702zM17.208 5.486c-.25.85-1.071 1.398-1.951 1.303-.6.015-1.178-.233-1.578-.681-.4-.448-.584-1.049-.502-1.644-.08-.596.103-1.198.501-1.65.398-.451.973-.707 1.575-.702 1.253 0 2.009.856 2.009 2.27v.31h-3.18v.05c-.028.334.086.664.314.91.229.246.55.383.885.38.435.052.858-.164 1.072-.546h.855zm-3.126-1.451h2.274c.023-.306-.084-.607-.295-.829-.212-.222-.507-.345-.813-.338-.31-.004-.61.118-.829.338-.22.22-.341.518-.337.829zm.637-2.59L15.757.024h1.042l-1.162 1.423h-.918zM21.403 3.67c-.117-.482-.568-.807-1.063-.764-.744 0-1.2.57-1.2 1.53 0 .976.46 1.559 1.2 1.559.49.056.946-.26 1.063-.74h.865c-.12.948-.972 1.628-1.923 1.534-.61.019-1.197-.232-1.604-.686-.407-.453-.594-1.064-.51-1.667-.08-.6.109-1.204.515-1.652.406-.448.99-.694 1.594-.672.959-.088 1.813.603 1.928 1.558h-.865zM23.447.44h.881v2.482h.07c.242-.53.792-.853 1.373-.806.442-.024.87.15 1.17.474.3.325.44.766.381 1.204v2.908h-.89V4.014c0-.72-.334-1.084-.962-1.084-.31-.025-.614.087-.833.307-.218.22-.329.526-.301.835v2.63h-.889V.44zM28.44 5.428c0-.81.603-1.278 1.674-1.344l1.22-.07v-.389c0-.476-.314-.744-.922-.744-.496 0-.84.182-.938.5h-.86c.09-.773.818-1.27 1.84-1.27 1.128 0 1.764.563 1.764 1.514v3.077h-.855v-.633h-.07c-.29.462-.807.732-1.353.707-.382.04-.763-.084-1.049-.34-.286-.258-.45-.623-.452-1.008zm2.894-.385v-.376l-1.1.07c-.62.042-.901.253-.901.65 0 .405.352.64.835.64.286.03.572-.059.792-.244.22-.186.355-.453.374-.74zM33.61 2.199h.855v.69h.067c.196-.492.687-.8 1.216-.765.133-.002.266.01.396.037v.877c-.163-.035-.33-.053-.496-.054-.296-.026-.59.074-.81.275-.218.202-.342.486-.34.784v2.659h-.888V2.199zM36.961 7.152h.91c.075.327.45.538 1.05.538.74 0 1.18-.352 1.18-.947V5.88h-.067c-.285.493-.821.785-1.39.756-1.15 0-1.86-.888-1.86-2.237 0-1.373.718-2.274 1.869-2.274.583-.02 1.128.286 1.414.794h.07v-.72h.852v4.54c0 1.03-.807 1.684-2.08 1.684-1.125 0-1.853-.505-1.948-1.27zm3.156-2.758c0-.897-.464-1.472-1.221-1.472-.765 0-1.194.575-1.194 1.472s.43 1.472 1.194 1.472c.762 0 1.22-.57 1.22-1.472zM46.212 5.486c-.249.85-1.07 1.398-1.95 1.303-.601.015-1.178-.233-1.579-.681-.4-.448-.584-1.049-.502-1.644-.08-.596.103-1.198.501-1.65.399-.451.973-.707 1.575-.702 1.253 0 2.01.856 2.01 2.27v.31h-3.18v.05c-.029.334.085.664.314.91.228.246.55.383.885.38.434.052.858-.164 1.07-.546h.856zm-3.126-1.451h2.275c.022-.306-.085-.607-.296-.829-.211-.222-.506-.345-.813-.338-.31-.004-.609.118-.829.338-.22.22-.34.518-.337.829zM47.46 2.199h.855v.69h.066c.197-.492.688-.8 1.216-.765.133-.002.266.01.397.037v.877c-.163-.035-.33-.053-.496-.054-.297-.026-.59.074-.81.275-.218.202-.342.486-.34.784v2.659h-.889V2.199zM53.196 4.448c0-1.423.731-2.324 1.869-2.324.574-.026 1.112.281 1.38.79h.067V.441h.889V6.7h-.852v-.71h-.07c-.289.504-.833.806-1.414.785-1.146 0-1.87-.901-1.87-2.328zm.918 0c0 .955.45 1.53 1.203 1.53.749 0 1.212-.583 1.212-1.526 0-.938-.468-1.53-1.212-1.53-.748 0-1.203.579-1.203 1.526zM58.602 5.428c0-.81.604-1.278 1.675-1.344l1.22-.07v-.389c0-.476-.315-.744-.922-.744-.496 0-.84.182-.939.5h-.86c.09-.773.818-1.27 1.84-1.27 1.129 0 1.765.563 1.765 1.514v3.077h-.855v-.633h-.07c-.291.462-.808.732-1.353.707-.382.04-.763-.084-1.05-.34-.285-.258-.45-.623-.45-1.008zm2.895-.385v-.376l-1.1.07c-.62.042-.901.253-.901.65 0 .405.351.64.835.64.286.03.571-.059.791-.244.22-.186.355-.453.375-.74zM63.773 2.199h.855v.715h.067c.23-.527.77-.849 1.344-.802.443-.034.878.137 1.182.463.303.325.441.771.376 1.212v2.915h-.888V4.01c0-.724-.315-1.084-.972-1.084-.301-.014-.593.104-.8.324-.207.22-.307.518-.275.817v2.635h-.889V2.199zM70.618 2.112c1.012 0 1.674.471 1.761 1.265h-.852c-.082-.33-.405-.542-.91-.542-.495 0-.872.236-.872.587 0 .27.227.439.716.55l.748.174c.856.199 1.257.567 1.257 1.229 0 .847-.79 1.414-1.865 1.414-1.071 0-1.77-.484-1.849-1.282h.89c.158.39.563.623.98.562.553 0 .947-.248.947-.608 0-.269-.211-.442-.662-.55l-.785-.182c-.857-.203-1.253-.587-1.253-1.257 0-.798.731-1.36 1.749-1.36z" transform="translate(-40 -721) translate(40 226) translate(0 495) translate(9 8) translate(24)"></path>
+               </g>
+              </g>
+              <g fill="#FFF">
+               <path d="M.198 1.067L2.058 1.067 2.058 13.485.198 13.485zM4.298 5.611L5.313 1.067 7.12 1.067 5.89 5.611zM14.146 10.129H9.413l-1.137 3.356H6.271l4.484-12.418h2.083l4.483 12.418h-2.039l-1.136-3.356zM9.903 8.58h3.752l-1.85-5.448h-.051L9.904 8.58zM27.003 8.959c0 2.813-1.506 4.621-3.778 4.621-1.175.062-2.281-.554-2.849-1.584h-.043v4.484h-1.858V4.431h1.798v1.506h.035c.592-1.024 1.7-1.639 2.882-1.6 2.298 0 3.813 1.816 3.813 4.622zm-1.91 0c0-1.833-.947-3.039-2.393-3.039-1.42 0-2.375 1.23-2.375 3.039 0 1.824.955 3.046 2.375 3.046 1.446 0 2.393-1.196 2.393-3.046zM36.967 8.959c0 2.813-1.506 4.621-3.778 4.621-1.175.062-2.281-.554-2.849-1.584h-.043v4.484H28.44V4.431h1.799v1.506h.034c.593-1.024 1.7-1.639 2.883-1.6 2.298 0 3.812 1.816 3.812 4.622zm-1.91 0c0-1.833-.947-3.039-2.392-3.039-1.42 0-2.375 1.23-2.375 3.039 0 1.824.955 3.046 2.375 3.046 1.445 0 2.392-1.196 2.392-3.046zM43.553 10.025c.138 1.232 1.334 2.04 2.969 2.04 1.566 0 2.693-.808 2.693-1.919 0-.963-.68-1.54-2.289-1.936l-1.61-.388c-2.28-.551-3.338-1.617-3.338-3.348 0-2.142 1.867-3.614 4.519-3.614 2.624 0 4.422 1.472 4.483 3.614h-1.876c-.112-1.24-1.137-1.987-2.634-1.987-1.497 0-2.521.757-2.521 1.858 0 .878.654 1.395 2.255 1.79l1.368.336c2.548.603 3.606 1.627 3.606 3.443 0 2.323-1.85 3.778-4.794 3.778-2.754 0-4.613-1.42-4.733-3.667h1.902zM55.19 2.289V4.43h1.722v1.472H55.19v4.992c0 .775.345 1.136 1.102 1.136.204-.003.408-.018.61-.043v1.463c-.34.064-.685.093-1.031.086-1.833 0-2.548-.688-2.548-2.444v-5.19h-1.317V4.43h1.317V2.29h1.867zM57.908 8.959c0-2.85 1.677-4.64 4.294-4.64 2.625 0 4.295 1.79 4.295 4.64 0 2.856-1.662 4.639-4.295 4.639s-4.294-1.783-4.294-4.639zm6.695 0c0-1.955-.895-3.108-2.401-3.108-1.506 0-2.4 1.162-2.4 3.108 0 1.962.894 3.106 2.4 3.106 1.506 0 2.401-1.144 2.401-3.106zM68.029 4.431H69.8v1.541h.043c.247-.992 1.156-1.675 2.178-1.636.214 0 .428.023.637.07v1.738c-.27-.083-.553-.12-.835-.112-.547-.022-1.076.195-1.448.596-.372.4-.55.944-.489 1.487v5.37H68.03V4.431zM81.226 10.826c-.25 1.644-1.85 2.772-3.898 2.772-2.634 0-4.269-1.765-4.269-4.596 0-2.84 1.644-4.682 4.19-4.682 2.505 0 4.08 1.72 4.08 4.466v.637h-6.394v.112c-.06.674.173 1.341.64 1.832.465.49 1.12.757 1.796.733.901.084 1.752-.434 2.09-1.274h1.765zm-6.282-2.702h4.526c.034-.606-.186-1.198-.608-1.634-.421-.437-1.006-.677-1.612-.664-.612-.004-1.2.237-1.632.668-.433.432-.676 1.019-.674 1.63z" transform="translate(-40 -721) translate(40 226) translate(0 495) translate(35 17)"></path>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </svg></a><a href="https://play.google.com/store/apps/details?id=com.jobrapp.jobr&amp;hl=fr" target="_blank" rel="nofollow noreferrer noopener" data-name="appstore-google">
+         <svg xmlns="http://www.w3.org/2000/svg" width="135" height="40" viewbox="0 0 135 40">
+          <title>Monster App – Google Play</title><defs>
+           <lineargradient id="5081130f3a" x1="61.027%" x2="26.5%" y1="4.947%" y2="71.916%">
+            <stop offset="0%" stop-color="#00A0FF"></stop>
+            <stop offset=".657%" stop-color="#00A1FF"></stop>
+            <stop offset="26.01%" stop-color="#00BEFF"></stop>
+            <stop offset="51.22%" stop-color="#00D2FF"></stop>
+            <stop offset="76.04%" stop-color="#00DFFF"></stop>
+            <stop offset="100%" stop-color="#00E3FF"></stop>
+           </lineargradient>
+           <lineargradient id="jy7k8fpcdb" x1="107.622%" x2="-130.536%" y1="50.016%" y2="50.016%">
+            <stop offset="0%" stop-color="#FFE000"></stop>
+            <stop offset="40.87%" stop-color="#FFBD00"></stop>
+            <stop offset="77.54%" stop-color="orange"></stop>
+            <stop offset="100%" stop-color="#FF9C00"></stop>
+           </lineargradient>
+           <lineargradient id="22543n79ic" x1="86.253%" x2="-50.188%" y1="30.897%" y2="136.081%">
+            <stop offset="0%" stop-color="#FF3A44"></stop>
+            <stop offset="100%" stop-color="#C31162"></stop>
+           </lineargradient>
+           <lineargradient id="0n9dpg0ryd" x1="-18.77%" x2="42.12%" y1="-11.832%" y2="35.081%">
+            <stop offset="0%" stop-color="#32A071"></stop>
+            <stop offset="6.85%" stop-color="#2DA771"></stop>
+            <stop offset="47.62%" stop-color="#15CF74"></stop>
+            <stop offset="80.09%" stop-color="#06E775"></stop>
+            <stop offset="100%" stop-color="#00F076"></stop>
+           </lineargradient>
+          </defs><g fill="none" fill-rule="evenodd">
+           <g fill-rule="nonzero">
+            <g>
+             <g>
+              <g>
+               <path fill="#000" d="M130 40H5c-2.75 0-5-2.25-5-5V5c0-2.75 2.25-5 5-5h125c2.75 0 5 2.25 5 5v30c0 2.75-2.25 5-5 5z" transform="translate(-263 -721) translate(263 226) translate(0 495)"></path>
+               <path fill="#A6A6A6" d="M130 .8c2.32 0 4.2 1.88 4.2 4.2v30c0 2.32-1.88 4.2-4.2 4.2H5C2.68 39.2.8 37.32.8 35V5C.8 2.68 2.68.8 5 .8h125m0-.8H5C2.25 0 0 2.25 0 5v30c0 2.75 2.25 5 5 5h125c2.75 0 5-2.25 5-5V5c0-2.75-2.25-5-5-5z" transform="translate(-263 -721) translate(263 226) translate(0 495)"></path>
+               <path fill="#FFF" d="M68.14 21.75c-2.35 0-4.27 1.79-4.27 4.25 0 2.45 1.92 4.25 4.27 4.25 2.35 0 4.27-1.8 4.27-4.25 0-2.46-1.92-4.25-4.27-4.25zm0 6.83c-1.29 0-2.4-1.06-2.4-2.58 0-1.53 1.11-2.58 2.4-2.58 1.29 0 2.4 1.05 2.4 2.58 0 1.52-1.12 2.58-2.4 2.58zm-9.32-6.83c-2.35 0-4.27 1.79-4.27 4.25 0 2.45 1.92 4.25 4.27 4.25 2.35 0 4.27-1.8 4.27-4.25 0-2.46-1.92-4.25-4.27-4.25zm0 6.83c-1.29 0-2.4-1.06-2.4-2.58 0-1.53 1.11-2.58 2.4-2.58 1.29 0 2.4 1.05 2.4 2.58 0 1.52-1.11 2.58-2.4 2.58zm-11.08-5.52v1.8h4.32c-.13 1.01-.47 1.76-.98 2.27-.63.63-1.61 1.32-3.33 1.32-2.66 0-4.74-2.14-4.74-4.8 0-2.66 2.08-4.8 4.74-4.8 1.43 0 2.48.56 3.25 1.29l1.27-1.27c-1.08-1.03-2.51-1.82-4.53-1.82-3.64 0-6.7 2.96-6.7 6.61 0 3.64 3.06 6.61 6.7 6.61 1.97 0 3.45-.64 4.61-1.85 1.19-1.19 1.56-2.87 1.56-4.22 0-.42-.03-.81-.1-1.13h-6.07v-.01zm45.31 1.4c-.35-.95-1.43-2.71-3.64-2.71-2.19 0-4.01 1.72-4.01 4.25 0 2.38 1.8 4.25 4.22 4.25 1.95 0 3.08-1.19 3.54-1.88l-1.45-.97c-.48.71-1.14 1.18-2.09 1.18s-1.63-.44-2.06-1.29l5.69-2.35-.2-.48zm-5.8 1.42c-.05-1.64 1.27-2.48 2.22-2.48.74 0 1.37.37 1.58.9l-3.8 1.58zM82.63 30h1.87V17.5h-1.87V30zm-3.06-7.3h-.07c-.42-.5-1.22-.95-2.24-.95-2.13 0-4.08 1.87-4.08 4.27 0 2.38 1.95 4.24 4.08 4.24 1.01 0 1.82-.45 2.24-.97h.06v.61c0 1.63-.87 2.5-2.27 2.5-1.14 0-1.85-.82-2.14-1.51l-1.63.68c.47 1.13 1.71 2.51 3.77 2.51 2.19 0 4.04-1.29 4.04-4.43v-7.64h-1.77v.69h.01zm-2.15 5.88c-1.29 0-2.37-1.08-2.37-2.56 0-1.5 1.08-2.59 2.37-2.59 1.27 0 2.27 1.1 2.27 2.59.01 1.48-.99 2.56-2.27 2.56zm24.39-11.08h-4.47V30h1.87v-4.74h2.61c2.07 0 4.1-1.5 4.1-3.88s-2.05-3.88-4.11-3.88zm.04 6.02H99.2v-4.29h2.65c1.4 0 2.19 1.16 2.19 2.14 0 .98-.79 2.15-2.19 2.15zm11.54-1.79c-1.35 0-2.75.6-3.33 1.91l1.66.69c.35-.69 1.01-.92 1.7-.92.96 0 1.95.58 1.96 1.61v.13c-.34-.19-1.06-.48-1.95-.48-1.79 0-3.6.98-3.6 2.81 0 1.67 1.46 2.75 3.1 2.75 1.25 0 1.95-.56 2.38-1.22h.06v.97h1.8v-4.79c.01-2.22-1.65-3.46-3.78-3.46zm-.23 6.85c-.61 0-1.46-.31-1.46-1.06 0-.96 1.06-1.33 1.98-1.33.82 0 1.21.18 1.7.42-.14 1.15-1.14 1.97-2.22 1.97zM123.74 22l-2.14 5.42h-.06L119.32 22h-2.01l3.33 7.58-1.9 4.21h1.95L125.82 22h-2.08zm-16.8 8h1.87V17.5h-1.87V30z" transform="translate(-263 -721) translate(263 226) translate(0 495)"></path>
+               <g>
+                <path fill="url(#5081130f3a)" d="M1.44.54c-.29.31-.46.79-.46 1.4v22.12c0 .62.17 1.1.46 1.4l.07.07L13.9 13.15v-.3L1.51.47l-.07.07z" transform="translate(-263 -721) translate(263 226) translate(0 495) translate(9 7)"></path>
+                <path fill="url(#jy7k8fpcdb)" d="M18.03 17.28l-4.13-4.13v-.3l4.13-4.13.09.05 4.89 2.78c1.4.79 1.4 2.09 0 2.89l-4.89 2.78-.09.06z" transform="translate(-263 -721) translate(263 226) translate(0 495) translate(9 7)"></path>
+                <path fill="url(#22543n79ic)" d="M18.12 17.22L13.9 13 1.44 25.46c.46.49 1.22.55 2.08.06l14.6-8.3" transform="translate(-263 -721) translate(263 226) translate(0 495) translate(9 7)"></path>
+                <path fill="url(#0n9dpg0ryd)" d="M18.12 8.78L3.51.48C2.65-.01 1.89.05 1.43.54L13.9 13l4.22-4.22z" transform="translate(-263 -721) translate(263 226) translate(0 495) translate(9 7)"></path>
+                <g fill="#000">
+                 <path d="M18.03.13L3.51 8.38c-.81.46-1.54.43-2 .01l-.07.07.07.07c.47.42 1.19.45 2-.01L18.12.22l-.09-.09z" opacity=".2" transform="translate(-263 -721) translate(263 226) translate(0 495) translate(9 7) translate(0 17)"></path>
+                 <path d="M1.44 8.32c-.29-.31-.46-.79-.46-1.4v.15c0 .62.17 1.1.46 1.4l.07-.07-.07-.08z" opacity=".12" transform="translate(-263 -721) translate(263 226) translate(0 495) translate(9 7) translate(0 17)"></path>
+                </g>
+                <path fill="#000" d="M23.01 14.3l-4.99 2.83.09.09L23 14.44c.7-.4 1.05-.92 1.05-1.44-.05.47-.4.94-1.04 1.3z" opacity=".12" transform="translate(-263 -721) translate(263 226) translate(0 495) translate(9 7)"></path>
+                <path fill="#FFF" d="M3.51.62l19.5 11.08c.63.36.99.82 1.05 1.3 0-.52-.35-1.05-1.05-1.44L3.51.48C2.11-.31.97.35.97 1.95v.15C.97.49 2.12-.17 3.51.62z" opacity=".25" transform="translate(-263 -721) translate(263 226) translate(0 495) translate(9 7)"></path>
+               </g>
+              </g>
+              <g fill="#FFF" stroke="#FFF" stroke-width=".2">
+               <path d="M.28 7V1h1.83c.92 0 1.66.28 2.21.83.55.56.83 1.28.83 2.17 0 .89-.28 1.61-.83 2.17-.55.55-1.28.83-2.21.83H.28zm.77-.74h1.06c.69 0 1.24-.2 1.65-.6.41-.4.61-.95.61-1.67 0-.71-.2-1.26-.61-1.66-.41-.4-.95-.6-1.65-.6H1.05v4.53zM6.24 7L6.24 1 7.01 1 7.01 7zM10.07 7.13c-.44 0-.86-.14-1.28-.43-.42-.29-.69-.68-.82-1.2l.7-.28c.08.33.25.61.51.83.26.23.55.34.88.34.33 0 .62-.09.86-.26.24-.18.36-.41.36-.72 0-.33-.12-.59-.36-.77-.24-.18-.61-.35-1.13-.51-.53-.17-.93-.38-1.21-.65-.27-.27-.41-.6-.41-1.02 0-.43.17-.8.51-1.12.34-.32.79-.48 1.33-.48.51 0 .92.13 1.24.38.32.25.53.53.62.83l-.7.29c-.05-.19-.17-.37-.37-.53-.2-.16-.45-.24-.77-.24-.3 0-.55.08-.76.25-.21.17-.31.37-.31.62 0 .22.1.41.29.57.19.15.48.29.85.41.3.1.54.19.74.28.2.09.4.21.6.36.2.15.36.33.46.55.1.22.16.48.16.77 0 .29-.06.55-.18.78-.12.23-.28.41-.48.54-.2.13-.41.24-.64.31-.21.07-.45.1-.69.1zM13.95 7h-.77V1h2.04c.51 0 .95.17 1.32.51.37.34.56.76.56 1.28 0 .51-.19.94-.56 1.28-.37.34-.81.51-1.32.51h-1.27V7h0zm0-3.17h1.29c.32 0 .58-.11.78-.33.2-.22.29-.46.29-.72 0-.26-.1-.5-.29-.72-.2-.22-.46-.33-.78-.33h-1.29v2.1zM22.98 6.22c-.59.61-1.32.91-2.2.91-.88 0-1.61-.3-2.2-.91-.59-.61-.88-1.35-.88-2.22 0-.87.29-1.62.88-2.22.59-.61 1.32-.91 2.2-.91.87 0 1.6.3 2.2.91.59.61.89 1.35.89 2.22 0 .88-.3 1.62-.89 2.22zm-3.83-.5c.44.45.99.67 1.63.67.64 0 1.19-.22 1.63-.67.44-.45.67-1.02.67-1.72s-.22-1.27-.67-1.72c-.44-.45-.99-.67-1.63-.67-.64 0-1.19.22-1.63.67-.44.45-.67 1.02-.67 1.72s.23 1.27.67 1.72zM24.95 7L24.95 1 25.89 1 28.81 5.67 28.84 5.67 28.81 4.51 28.81 1 29.58 1 29.58 7 28.78 7 25.73 2.11 25.7 2.11 25.73 3.27 25.73 7zM30.95 7L30.95 1 31.72 1 31.72 7zM33.09 7V1h2.17c.47 0 .88.16 1.22.46.34.31.52.7.52 1.17 0 .29-.07.54-.22.75-.15.22-.34.38-.59.49v.03c.3.1.54.27.73.52.19.25.29.53.29.86 0 .49-.18.9-.54 1.22-.37.34-.8.5-1.29.5h-2.29zm.77-3.43h1.4c.29 0 .52-.1.7-.29.18-.19.26-.4.26-.63 0-.23-.08-.44-.26-.63-.17-.19-.39-.29-.67-.29h-1.43v1.84zm0 2.69h1.55c.3 0 .54-.1.72-.31.18-.21.28-.43.28-.68 0-.25-.09-.47-.29-.67-.19-.2-.44-.31-.75-.31h-1.52v1.97h.01zM38.24 7L38.24 1 39.01 1 39.01 6.26 41.61 6.26 41.61 7zM46.08 1.74L43.35 1.74 43.35 3.64 45.81 3.64 45.81 4.36 43.35 4.36 43.35 6.26 46.08 6.26 46.08 7 42.58 7 42.58 1 46.08 1zM50.74 7.13c-.44 0-.86-.14-1.28-.43-.42-.29-.69-.68-.82-1.2l.7-.28c.08.33.25.61.51.83.26.23.55.34.88.34.33 0 .62-.09.86-.26.24-.18.36-.41.36-.72 0-.33-.12-.59-.36-.77-.24-.18-.61-.35-1.13-.51-.53-.17-.93-.38-1.21-.65-.27-.27-.41-.6-.41-1.02 0-.43.17-.8.51-1.12.34-.32.79-.48 1.33-.48.51 0 .92.13 1.24.38.32.25.53.53.62.83l-.7.29c-.05-.19-.17-.37-.37-.53-.2-.16-.45-.24-.77-.24-.3 0-.55.08-.76.25-.21.17-.31.37-.31.62 0 .22.1.41.29.57.19.15.48.29.85.41.3.1.54.19.74.28.2.09.4.21.6.36.2.15.36.33.46.55.1.22.16.48.16.77 0 .29-.06.55-.18.78-.12.23-.28.41-.48.54-.2.13-.41.24-.64.31-.21.07-.45.1-.69.1zM55.94 7.13c-.66 0-1.19-.22-1.61-.65-.41-.44-.62-1.01-.62-1.71V1h.77v3.8c0 .47.12.86.37 1.15.25.29.61.44 1.08.44.47 0 .83-.15 1.08-.44.25-.29.37-.68.37-1.15V1h.77v3.77c0 .71-.2 1.28-.6 1.71-.39.44-.93.65-1.61.65zM59.4 7V1h2.04c.51 0 .95.17 1.32.51.37.34.56.76.56 1.28 0 .42-.14.79-.41 1.11-.27.32-.61.52-1.02.61l-.02.02 1.68 2.44V7h-.91l-1.62-2.43h-.86V7h-.76zm.77-3.15h1.24c.31 0 .57-.1.79-.3.22-.2.33-.46.33-.76 0-.26-.1-.5-.29-.72-.2-.22-.46-.33-.78-.33h-1.29v2.11h0z" transform="translate(-263 -721) translate(263 226) translate(0 495) translate(41 6)"></path>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </svg></a>
+       </div>
+      </div>
+     </section>
+     <section class="sc-dwsnSq sc-kiIyQV cFYABJ bOAJVC">
+      <ul class="sc-cLpAjG hUpqnh">
+       <li data-name="footer_label_Monster – Tous Droits Réservés - U.S. No. de Brevet 7,599,930 B1; 7,827,125 and 7,836,060_0" class="sc-iIUQWv cisYnp">Monster – Tous Droits Réservés - U.S. No. de Brevet 7,599,930 B1; 7,827,125 and 7,836,060</li>
+       <li data-name="footer_label_Le Site est édité par la société Monster Worldwide, SAS au capital de 13 857 930 €,_1" class="sc-iIUQWv cisYnp">Le Site est édité par la société Monster Worldwide, SAS au capital de 13 857 930 €,</li>
+       <li data-name="footer_label_dont le siège social est situé 14-16 rue Clément Bayard, 92300 Levallois-Perret_2" class="sc-iIUQWv cisYnp">dont le siège social est situé 14-16 rue Clément Bayard, 92300 Levallois-Perret</li>
+       <li data-name="footer_label_et enregistrée au RCS de Nanterre sous le numéro 422 315 051._3" class="sc-iIUQWv cisYnp">et enregistrée au RCS de Nanterre sous le numéro 422 315 051.</li>
+       <li data-name="footer_label_Directeur de publication : Rob Slot, Directeur Général._4" class="sc-iIUQWv cisYnp">Directeur de publication : Rob Slot, Directeur Général.</li>
+       <li data-name="footer_label_Monster France obtient un index de l’égalité professionnelle entre les femmes et les hommes de 76/100 pour l’année 2020._5" class="sc-iIUQWv cisYnp">Monster France obtient un index de l’égalité professionnelle entre les femmes et les hommes de 76/100 pour l’année 2020.</li>
+       <li data-name="footer_label_Pour toute question concernant ce site, contactez-nous par e-mail à candidat@monster.fr si vous êtes candidat, ou à serviceclientele@monster.fr si vous êtes recruteur._6" class="sc-iIUQWv cisYnp">Pour toute question concernant ce site, contactez-nous par e-mail à candidat@monster.fr si vous êtes candidat, ou à serviceclientele@monster.fr si vous êtes recruteur.</li>
+      </ul>
+     </section>
+     <section class="sc-dwsnSq sc-djWRfJ cFYABJ jwA-dck">
+      <div class="sc-gIBqdA iPmJZh">
+       <div class="sc-fyrocj NFSem">
+        © <!-- -->2022<!-- --> Monster Worldwide
+       </div>
+      </div>
+      <div class="sc-jKTccl liXKDD">
+       <a href="https://privacy.truste.com/privacy-seal/validation?rid=c30c02ea-42af-4a87-aace-23c9abcb21ad&amp;lang=fr" target="_blank" rel="noreferrer" data-name="truste" class="sc-hZpJaK dYOuMI"><img src="//privacy-policy.truste.com/privacy-seal/seal?rid=c30c02ea-42af-4a87-aace-23c9abcb21ad" height="40" alt="TRUSTe" class="sc-cHzqoD jJilpq"></a>
+      </div>
+     </section>
+    </div>
+   </footer>
+  </div>
+  <script id="__NEXT_DATA__" type="application/json">{"props":{"pageProps":{"clientIp":"90.3.119.209","requestedURL":"/offres-demploi/alternant-chargé-de-mission-qualité-h-f-courbevoie-11--e84ba79c-c7ff-4380-9b06-ae280a9e73d9?sid=60757b2b-6f3d-4b43-8ece-7d3283eb758d\u0026jvo=m.ga.sc.1\u0026so=m.h.l\u0026hidesmr=1","siteId":"monster.fr","tenant":"monster","countryCode":"FR","subBrand":"MONSTER","host":"www.monster.fr","locale":"fr-FR","languageCode":"fr","translations":{"7":"et","61":"Page non trouvée","329":"Rechercher","331":"Adresse","332":"Afficher plus de résultats","333":"CDI","334":"CDD","335":"Contractuel","336":"Temporaire","341":"Postuler","343":"Description","344":"Détails du poste","345":"Salaire","346":"Type de contrat","347":"Date de publication","358":"Secteur","359":"Date de création","360":"Taille de la société","361":"Site Web","362":"Siège social","365":"À propos de la société","366":"Aujourd’hui","379":"Le poste demandé n’est pas disponible ; vous trouverez ci-dessous des emplois qui peuvent vous intéresser.","388":"Emplois apparentés","393":"Filtres","395":"Distance","396":"Publié le","401":"Toutes dates","406":"Stage","408":"Retour aux résultats","409":"Postuler maintenant","642":"Plusieurs emplacements","658":"Inscription","758":"Emplois les plus populaires","964":"Fermer","1007":"Chargement…","1181":"Annonces","1231":"Fin des résultats","1359":"Compétences","1405":"Autre rémunération","1406":"Avantages sociaux employé","1408":"à","1413":"Responsabilités","1982":"Source","1987":"Promu par","2195":"Vos résultats sont affichés sur la gauche","2307":"Charger plus","2314":"À propos de","2318":"à distance","2345":"Promu","2381":"Télétravail uniquement","2420":"Résultats de recherche pour","2516":"La semaine dernière","2518":"Les 2 dernières semaines","2519":"Le mois dernier","2521":"Annuler","2571":"Nous sommes désolés","2572":"Nous n’avons pas trouvé d’emplois correspondant à vos critères. Veuillez modifier votre recherche et réessayer.","2573":"Recommencer","2574":"Votre candidature a été envoyée !","2576":"Bravo","2577":"a bien reçu votre candidature pour","2578":"et l’examinera sous peu","2585":"Afficher les résultats","2586":"Filtrer","2587":"Tous types de contrats","2588":"CDI","2591":"confidentiel","2622":"Le poste demandé n’est pas disponible ; vous trouverez ci-dessous des emplois qui peuvent vous intéresser","2624":"plus","2625":"Votre candidature pour","2626":"a été reçue et sera examinée prochainement","2627":"Bravo","2649":"Connaissances et compétences","2749":"Confidentiel pour la société","2800":"Afficher plus d’emplois","2868":"Tous les résultats","2875":"Nous avons trouvé des emplois qui pourraient vous convenir","2882":"Les 2 derniers jours","2891":"S’inscrire aux alertes","2893":"Entrez votre adresse e-mail","2895":"A présent, vous recevez des alertes.","2897":"Salaire estimé par Monster","2898":"Cette fourchette de salaire est une estimation basée sur la moyenne des salaires pour ce poste et ce lieu : elle n’a pas été fournie par l’employeur. Le salaire final peut varier.","2908":"adresse e-mail non valide","2987":"Estimation Monster","3008":"Publiez votre CV","3009":"Créez un compte gratuit","3017":"Laissez les recruteurs vous trouver !","3018":"Vous souhaitez accélérer votre recherche d’emploi ? Pas de problème. Publiez votre CV sur Monster et soyez visible des recruteurs qui recherchent des profils comme le vôtre.","3077":"Candidature rapide","3079":"S’inscrire aux alertes","3081":"Votre candidature s’est ouverte dans un nouvel onglet.","3082":"Assurez-vous d’avoir rempli votre candidature pour le poste de","3083":"sur le site de l’employeur.","3088":"Emplois similaires","3089":"Voir tout","3096":"Recevez des offres similaires sur votre boîte de réception !","3100":"Postulé","3101":"Retour","3119":"En fournissant votre adresse e-mail et en cliquant sur Continuer, vous consentez à ce que Monster vous envoie des recommandations de poste en fonction de votre recherche d’emploi. Vous pouvez vous désabonner à tout moment en cliquant sur le lien correspondant au bas des e-mails que nous vous envoyons. En poursuivant, vous acceptez de Monster","3126":"Conditions d’utilisation","3127":"politique de confidentialité","3186":"Publié n’importe quand","3187":"Sous","3189":"Paramétrer les filtres","3191":"Les meilleures entreprises","3193":"Tout effacer","3194":"À distance"},"urlParameters":{"sid":"60757b2b-6f3d-4b43-8ece-7d3283eb758d","jvo":"m.ga.sc.1","so":"m.h.l","hidesmr":"1","distributor":["offres-demploi","alternant-chargé-de-mission-qualité-h-f-courbevoie-11--e84ba79c-c7ff-4380-9b06-ae280a9e73d9"]},"jobViewResultsData":{"schemaVersion":"2.15.0","jobId":"e84ba79c-c7ff-4380-9b06-ae280a9e73d9","externalIdentifiers":[{"identifierName":"NOW_POSTING_ID","identifierValue":"9c5c2637-cad3-4290-be8e-60781db87b1d"},{"identifierName":"POSITION_AD_ID","identifierValue":"241342901"}],"status":"ACTIVE","jobPosting":{"@context":"http://schema.org","@type":"JobPosting","description":"\u003ch3\u003eSociété\u003c/h3\u003e\u003cp style=\"text-align:left\"\u003eRejoindre TORANN-FRANCE, c’est faire partie d’une entreprise indépendante, leader sur le marché de la sécurité privée, où plus de 2 500 collaborateurs et collaboratrices experts de leurs domaines, grandissent ensemble pour contribuer au développement de l’entreprise et instaurer une véritable culture sécurité dans leur périmètre d’intervention.\u003c/p\u003e\u003ch3\u003eMission\u003c/h3\u003e\u003cp style=\"text-align:left\"\u003eDans le cadre du renforcement de notre service QSE, nous recrutons :\u003c/p\u003e\u003cul\u003e\u003cli\u003e\u003cp style=\"text-align:left\"\u003eun Chargé de mission Qualité - H/F en \u003cu\u003econtrat d'alternance\u003c/u\u003e basé à Courbevoie (92)\u003c/p\u003e\u003c/li\u003e\u003c/ul\u003e\u003cp style=\"text-align:left\"\u003ePlacé sous l'autorité du Responsable QSE qui sera également votre Maître d’Apprentissage, vous aurez pour mission principale d'aider à mettre en place le système de management de la qualité au sein de notre groupe.\u003c/p\u003e\u003cp style=\"text-align:left\"\u003eA ce titre, vous:\u003c/p\u003e\u003cul\u003e\u003cli\u003e\u003cp style=\"text-align:left\"\u003eContribuez à la formalisation du Manuel Qualité et du SMQ;\u003c/p\u003e\u003c/li\u003e\u003cli\u003e\u003cp style=\"text-align:left\"\u003eRédigez les fiches de processus;\u003c/p\u003e\u003c/li\u003e\u003cli\u003e\u003cp style=\"text-align:left\"\u003eAccompagnez les services dans la construction des documents métiers associés;\u003c/p\u003e\u003c/li\u003e\u003cli\u003e\u003cp style=\"text-align:left\"\u003eSuivez la réalisation des actions dans le cadre de la mise en place de la démarche;\u003c/p\u003e\u003c/li\u003e\u003cli\u003e\u003cp style=\"text-align:left\"\u003eParticipez à la préparation et au suivi des audits internes;\u003c/p\u003e\u003c/li\u003e\u003cli\u003e\u003cp style=\"text-align:left\"\u003eMettez à jour les tableaux de suivi des indicateurs.\u003c/p\u003e\u003c/li\u003e\u003c/ul\u003e\u003cp style=\"text-align:left\"\u003eDes déplacements ponctuels sont à prévoir sur toute la France.\u003c/p\u003e\u003cp style=\"text-align:left\"/\u003e\u003ch3\u003eProfil\u003c/h3\u003e\u003cp style=\"text-align:left\"\u003eDe formation Bac+3 dans le domaine QSE, vous préparez un diplôme de type M1/M2 en alternance dans le domaine de la Qualité.\u003c/p\u003e\u003cp style=\"text-align:left\"\u003eVous avez idéalement réalisé un premier stage ou occupé un premier emploi en alternance dans ce domaine.\u003c/p\u003e\u003cp style=\"text-align:left\"\u003eDoté d'un excellent relationnel, votre capacité à travailler en équipe, vos qualités rédactionnelles et votre rigueur seront des atouts majeurs pour réussir dans cette fonction.\u003c/p\u003e\u003cp style=\"text-align:left\"\u003eVous savez exploiter l'ensemble des outils du pack Office MS (Word, Excel, Powerpoint, ...).\u003c/p\u003e","url":"https://www.monster.fr/offres-demploi/alternant-chargé-de-mission-qualité-h-f-courbevoie-11--e84ba79c-c7ff-4380-9b06-ae280a9e73d9","datePosted":"2022-05-30T05:24:52.340Z","employmentType":["FULL_TIME"],"hiringOrganization":{"@context":"http://schema.org","@type":"Organization","description":"\u003cp\u003eConnue et reconnue pour notre expertise métier, notre qualité de service, notre loyauté et nos valeurs humaines, TORANN-FRANCE est un acteur majeur de la sécurité des biens et des personnes au service des entreprises françaises depuis plus de 30 ans.\u003c/p\u003e\n\u003cp\u003eNous rejoindre, c’est faire partie d’une entreprise familiale, indépendante, où plus de 2 500 collaborateurs et collaboratrices experts de leurs domaines, grandissent ensemble pour contribuer au développement de l’entreprise et instaurer une véritable culture sécurité dans leur périmètre d’intervention.\u003c/p\u003e","sameAs":"https://www.torann-france.fr/","name":"TORANN-FRANCE","foundingDate":"0","numberOfEmployees":{"@context":"http://schema.org","@type":"QuantitativeValue","unitText":"2000 à 2499 salariés"},"logo":"https://securemedia.newjobs.com/clu/xwto/xwtorannfrx/JobLogo.gif"},"identifier":{"@context":"http://schema.org","@type":"PropertyValue","name":"TORANN-FRANCE","value":"7hrkzuhzu4"},"industry":"Other/Not Classified","jobLocation":[{"@context":"http://schema.org","@type":"Place","address":{"@context":"http://schema.org","@type":"PostalAddress","streetAddress":"","addressLocality":"Courbevoie","addressRegion":"IDF","postalCode":"92400","addressCountry":"FR"},"geo":{"@context":"http://schema.org","@type":"GeoCoordinates","latitude":"48.897","longitude":"2.256"}}],"occupationalCategory":"19-4099.01: Quality Control Analysts","salaryCurrency":"EUR","title":"ALTERNANT CHARGÉ DE MISSION QUALITÉ - H/F","validThrough":"2022-06-15T15:30:36.303Z"},"createdDate":"2022-05-16T15:51:09.92Z","provider":{"code":"monster","name":"monster"},"apply":{"applyType":"ONSITE","applyUrl":"https://offre-demploi.monster.fr/v2/job/apply?jobid=241342901","applyPath":"/v2/job/apply?jobid=241342901","resolvedRedirectUrl":"https://www.monster.fr/emploi/404","onsiteApplyEmail":"bgw@monster.fr"},"jobViewPreferences":{"hiringOrganizationConfidential":false},"ingestionMethod":"ADAPTED_NOW","enrichments":{"language":{"languageCode":"fr"},"mescos":[{"id":"1900306001001"}],"normalizedJobLocations":[{"postalAddress":{"@context":"http://schema.org","@type":"Place","address":{"@context":"http://schema.org","@type":"PostalAddress","addressLocality":"Courbevoie","addressRegion":"11","postalCode":"92400","addressCountry":"FR"},"geo":{"@context":"http://schema.org","@type":"GeoCoordinates","latitude":"48.89672","longitude":"2.25666"}},"locationId":"3023141","countryCode":"FR"}],"companyKb":{"code":"xwtorannfrx"},"normalizedTitles":[{"title":"Chargé de qualité"}],"normalizedSalary":{"currencyCode":{"name":"EUR","id":911},"salaryBaseType":{"name":"UNKNOWN","id":239}},"employmentTypes":[{"name":"FULL_TIME","id":20}],"status":{"name":"ACTIVE","id":52},"applyType":{"name":"ONSITE","id":52},"ingestionMethod":{"name":"ADAPTED_NOW","id":704},"localizedMonsterUrls":[{"locationId":"3023141","url":"https://www.monster.fr/offres-demploi/alternant-chargé-de-mission-qualité-h-f-courbevoie-11--e84ba79c-c7ff-4380-9b06-ae280a9e73d9"}],"qualifiedForG4J":true,"isPublicJob":true,"googleSyntheticValidThrough":"2022-06-15T15:30:36.303Z","processedDescriptions":{"shortDescription":"Société\u003cbr/\u003eRejoindre TORANN-FRANCE, c’est faire partie d’une entreprise indépendante, leader sur le marché de la sécurité privée, où plus de 2 500 collaborateurs et collaboratrices experts de leurs domaines, grandissent ensemble pour contribuer au développement de l’entreprise et instaurer une véritable culture sécurité dans leur..."},"qualityScores":{"overallQualityScore":77.5},"soc":[{"id":"19409901","usen":"Quality Control Analysts"}],"hashes":[{"sourcePath":"$.jobPosting.description","description":"jobPosting description hashed.","hashAlgorithm":"SHA-256","value":"a51KBKvwmN1XmrB/Cm2FbKxkz6TrjUfn8oHLvnmAnyw="},{"sourcePath":"$.jobPosting.title","description":"jobPosting title hashed.","hashAlgorithm":"SHA-256","value":"ykII39ZSNTweGgwHIqbfgzfej4IKGxDCLs96cjxU+XI="},{"sourcePath":"$.jobPosting.hiringOrganization","description":"jobPosting hiringOrganization as json hashed.","hashAlgorithm":"SHA-256","value":"fiJ3rTT3Bkdja8ug5Rtve9gif/89b72gv+3ALn3po8A="},{"sourcePath":"$.jobPosting.jobLocation","description":"jobPosting jobLocation as json hashed.","hashAlgorithm":"SHA-256","value":"+fkZiLjQ4ICdigJ5ogz873+/Z9LZjIR8kkS1WZIXRFY="},{"sourcePath":"$.jobPosting.description,$.jobPosting.title,$.enrichments.normalizedJobLocations[0].postalAddress.address.addressLocality,$.enrichments.normalizedJobLocations[0].postalAddress.address.addressRegion,$.enrichments.normalizedJobLocations[0].postalAddress.address.addressCountry","description":"Google indexing deduplication","hashAlgorithm":"jobs-text-utils_JobsDuplicationUtils_computeDuplicationScore","value":"00-593234497|0-1293342048|FCDEB73A87365A72791FEB927928DE8C"}]},"attributeValuePairs":[{"name":"location_0_addressRegionName","value":"Île-de-France"},{"name":"jobLocationType_predictedType","value":"not_remote"},{"name":"jobLocationType_predictionConfidence","value":"0.23"},{"name":"location_0_addressCountryName","value":"France"}],"now":{"jobAdPricingTypeId":1,"folderId":285052953,"boardId":1,"templateId":57667,"diversity":false,"handicapped":false,"activationDate":"2022-05-30T05:24:52.340Z"},"normalizedJobPosting":{"@context":"http://schema.org","@type":"JobPosting","description":"\u003ch3\u003eSociété\u003c/h3\u003e\u003cp style=\"text-align:left\"\u003eRejoindre TORANN-FRANCE, c’est faire partie d’une entreprise indépendante, leader sur le marché de la sécurité privée, où plus de 2 500 collaborateurs et collaboratrices experts de leurs domaines, grandissent ensemble pour contribuer au développement de l’entreprise et instaurer une véritable culture sécurité dans leur périmètre d’intervention.\u003c/p\u003e\u003ch3\u003eMission\u003c/h3\u003e\u003cp style=\"text-align:left\"\u003eDans le cadre du renforcement de notre service QSE, nous recrutons :\u003c/p\u003e\u003cul\u003e\u003cli\u003e\u003cp style=\"text-align:left\"\u003eun Chargé de mission Qualité - H/F en \u003cu\u003econtrat d'alternance\u003c/u\u003e basé à Courbevoie (92)\u003c/p\u003e\u003c/li\u003e\u003c/ul\u003e\u003cp style=\"text-align:left\"\u003ePlacé sous l'autorité du Responsable QSE qui sera également votre Maître d’Apprentissage, vous aurez pour mission principale d'aider à mettre en place le système de management de la qualité au sein de notre groupe.\u003c/p\u003e\u003cp style=\"text-align:left\"\u003eA ce titre, vous:\u003c/p\u003e\u003cul\u003e\u003cli\u003e\u003cp style=\"text-align:left\"\u003eContribuez à la formalisation du Manuel Qualité et du SMQ;\u003c/p\u003e\u003c/li\u003e\u003cli\u003e\u003cp style=\"text-align:left\"\u003eRédigez les fiches de processus;\u003c/p\u003e\u003c/li\u003e\u003cli\u003e\u003cp style=\"text-align:left\"\u003eAccompagnez les services dans la construction des documents métiers associés;\u003c/p\u003e\u003c/li\u003e\u003cli\u003e\u003cp style=\"text-align:left\"\u003eSuivez la réalisation des actions dans le cadre de la mise en place de la démarche;\u003c/p\u003e\u003c/li\u003e\u003cli\u003e\u003cp style=\"text-align:left\"\u003eParticipez à la préparation et au suivi des audits internes;\u003c/p\u003e\u003c/li\u003e\u003cli\u003e\u003cp style=\"text-align:left\"\u003eMettez à jour les tableaux de suivi des indicateurs.\u003c/p\u003e\u003c/li\u003e\u003c/ul\u003e\u003cp style=\"text-align:left\"\u003eDes déplacements ponctuels sont à prévoir sur toute la France.\u003c/p\u003e\u003cp style=\"text-align:left\"/\u003e\u003ch3\u003eProfil\u003c/h3\u003e\u003cp style=\"text-align:left\"\u003eDe formation Bac+3 dans le domaine QSE, vous préparez un diplôme de type M1/M2 en alternance dans le domaine de la Qualité.\u003c/p\u003e\u003cp style=\"text-align:left\"\u003eVous avez idéalement réalisé un premier stage ou occupé un premier emploi en alternance dans ce domaine.\u003c/p\u003e\u003cp style=\"text-align:left\"\u003eDoté d'un excellent relationnel, votre capacité à travailler en équipe, vos qualités rédactionnelles et votre rigueur seront des atouts majeurs pour réussir dans cette fonction.\u003c/p\u003e\u003cp style=\"text-align:left\"\u003eVous savez exploiter l'ensemble des outils du pack Office MS (Word, Excel, Powerpoint, ...).\u003c/p\u003e","url":"https://www.monster.fr/offres-demploi/alternant-chargé-de-mission-qualité-h-f-courbevoie-11--e84ba79c-c7ff-4380-9b06-ae280a9e73d9","datePosted":"2022-05-30T05:24:52.340Z","employmentType":["FULL_TIME"],"hiringOrganization":{"@context":"http://schema.org","@type":"Organization","description":"\u003cp\u003eConnue et reconnue pour notre expertise métier, notre qualité de service, notre loyauté et nos valeurs humaines, TORANN-FRANCE est un acteur majeur de la sécurité des biens et des personnes au service des entreprises françaises depuis plus de 30 ans.\u003c/p\u003e\n\u003cp\u003eNous rejoindre, c’est faire partie d’une entreprise familiale, indépendante, où plus de 2 500 collaborateurs et collaboratrices experts de leurs domaines, grandissent ensemble pour contribuer au développement de l’entreprise et instaurer une véritable culture sécurité dans leur périmètre d’intervention.\u003c/p\u003e","sameAs":"https://www.torann-france.fr/","name":"TORANN-FRANCE","foundingDate":"0","numberOfEmployees":{"@context":"http://schema.org","@type":"QuantitativeValue","unitText":"2000 à 2499 salariés"},"logo":"https://securemedia.newjobs.com/clu/xwto/xwtorannfrx/JobLogo.gif"},"identifier":{"@context":"http://schema.org","@type":"PropertyValue","name":"TORANN-FRANCE","value":"7hrkzuhzu4"},"industry":"Other/Not Classified","jobLocation":[{"@context":"http://schema.org","@type":"Place","address":{"@context":"http://schema.org","@type":"PostalAddress","addressLocality":"Courbevoie","addressRegion":"11","postalCode":"92400","addressCountry":"FR"},"geo":{"@context":"http://schema.org","@type":"GeoCoordinates","latitude":"48.89672","longitude":"2.25666"}}],"occupationalCategory":"19-4099.01: Quality Control Analysts","salaryCurrency":"EUR","title":"ALTERNANT CHARGÉ DE MISSION QUALITÉ - H/F","validThrough":"2022-06-15T15:30:36.303Z"},"formattedDate":"2022-05-30T00:00:00","dateRecency":"Il y a 2 jours","seoJobId":"alternant-chargé-de-mission-qualité-h-f-courbevoie-11--e84ba79c-c7ff-4380-9b06-ae280a9e73d9","fieldTranslations":[{"fieldName":"EmploymentType","name":"FULL_TIME","locale":"fr-fr","translation":"Temps plein"}],"brandingExt":{"companyBannerUrl":"https://media.newjobs.com/clu/xwto/xwtorannfrx/branding/178659/Torann-France-banner-637607193010788986.png","companyPhotos":[],"companyBenefits":[]},"bespokeJob":false,"ldJsonEligible":true,"requestTime":141},"requestOrigin":{"affiliate":"m","searchProvider":"ga","placement":"sc","positionId":1},"userAgent":{"isBot":false,"pattern":"","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36"},"routePage":{"pageName":"job-openings","locale":"fr-FR","countryCd":"FR"},"originHost":"www.monster.fr","hideHeaderFooter":false,"requestedStartTs":1654114512523,"authClientSettings":{"audience":"profiles-profile-app-service","authClientId":"sDw05opUA4I7phyqhpxQDrb9B75nQ17J","authServerBaseUrl":"https://identity.monster.com/","scope":"openid profile email","serverCallbackPath":"/profile/auth/callback","siteHost":"","siteProto":"","useRefreshTokens":true}}},"page":"/[...distributor]","query":{"sid":"60757b2b-6f3d-4b43-8ece-7d3283eb758d","jvo":"m.ga.sc.1","so":"m.h.l","hidesmr":"1","distributor":["offres-demploi","alternant-chargé-de-mission-qualité-h-f-courbevoie-11--e84ba79c-c7ff-4380-9b06-ae280a9e73d9"]},"buildId":"Fjblcza1l-6CAHjlRPrsj","assetPrefix":"/assets/jobsui","runtimeConfig":{"api":{"gateway":"https://services.monster.io","apigee":"https://appsapi.monster.io","key":"ulBrClvGP6BGnOopklreIIPentd101O2","splitClientAuthKey":"6ae191sohf7npqmbcnp2mduul7svbtk772rq"},"runtimeEnv":"prod","tenantId":"8ac30c3a7057a2ec01705d1709660000","appVersion":"0.0.666","gtmId":"GTM-TTZS5RQ"},"isFallback":false,"dynamicIds":[41823,45,93483,99962],"appGip":true}</script>
+  <script nomodule="" src="/assets/jobsui/_next/static/chunks/polyfills-6e054d56079d4b93ebe8.js"></script>
+  <script async src="/assets/jobsui/_next/static/chunks/5675-4fe1ecf173d47ff18085.js"></script>
+  <script async src="/assets/jobsui/_next/static/chunks/3307-0989e5e230e8e50ddaed.js"></script>
+  <script async src="/assets/jobsui/_next/static/chunks/8776-91702018083418be1ace.js"></script>
+  <script async src="/assets/jobsui/_next/static/chunks/1823-55240ee9243eb60390d5.js"></script>
+  <script async src="/assets/jobsui/_next/static/chunks/9834.d0d82d1bd1348f78a229.js"></script>
+  <script async src="/assets/jobsui/_next/static/chunks/2416-c1d4841ea9100cb619c8.js"></script>
+  <script async src="/assets/jobsui/_next/static/chunks/8024-49d97bcd2d8ee7e1d544.js"></script>
+  <script async src="/assets/jobsui/_next/static/chunks/45-642924b57233833652da.js"></script>
+  <script async src="/assets/jobsui/_next/static/chunks/1463.74c62d3583f886fd6ac1.js"></script>
+  <script async src="/assets/jobsui/_next/static/chunks/3483.7bddb3d8379ab5d31078.js"></script>
+  <script async src="/assets/jobsui/_next/static/chunks/9962.8cb82360a33cba3582d2.js"></script>
+  <script src="/assets/jobsui/_next/static/chunks/webpack-06f34638fdf13c4693be.js" async></script>
+  <script src="/assets/jobsui/_next/static/chunks/framework-1b8b1fe721f9ff7dcbaf.js" async></script>
+  <script src="/assets/jobsui/_next/static/chunks/main-8fed3dd72d012da99074.js" async></script>
+  <script src="/assets/jobsui/_next/static/chunks/pages/_app-aee69fa52c7924d56f4e.js" async></script>
+  <script src="/assets/jobsui/_next/static/chunks/pages/%5B...distributor%5D-721bc39d1dc43664a722.js" async></script>
+  <script src="/assets/jobsui/_next/static/Fjblcza1l-6CAHjlRPrsj/_buildManifest.js" async></script>
+  <script src="/assets/jobsui/_next/static/Fjblcza1l-6CAHjlRPrsj/_ssgManifest.js" async></script>
+ </body>
+</html>

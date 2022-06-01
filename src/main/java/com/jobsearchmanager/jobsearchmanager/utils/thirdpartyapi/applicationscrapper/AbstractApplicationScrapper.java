@@ -18,9 +18,9 @@ public abstract class AbstractApplicationScrapper {
         return Jsoup.connect(link).get();
     }
 
-    protected abstract HashMap<String, String> retrieveData(Document document, Application emptyApplication);
+    protected abstract HashMap<String, String> retrieveData(Document document);
 
-    private Application generateApplication(HashMap<String, String> datas){
+    private Application generateApplication(HashMap<String, String> datas) {
         Application application = new Application();
         application.setTitle(datas.get("title"));
         application.setDescription(datas.get("description"));
@@ -35,8 +35,8 @@ public abstract class AbstractApplicationScrapper {
         return application;
     }
 
-    public Application executeRequest(String link) throws IOException{
+    public Application executeRequest(String link) throws IOException {
         Document document = this.getHTMLCode(link);
-        return this.generateApplication(this.retrieveData(document, new Application()));
+        return this.generateApplication(this.retrieveData(document));
     }
 }

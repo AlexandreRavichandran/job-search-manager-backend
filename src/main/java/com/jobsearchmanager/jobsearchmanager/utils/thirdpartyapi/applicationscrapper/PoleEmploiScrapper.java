@@ -11,7 +11,7 @@ import java.util.HashMap;
 public class PoleEmploiScrapper extends AbstractApplicationScrapper implements ThirdpartyAPIManager {
 
     @Override
-    protected HashMap<String, String> retrieveData(Document document, Application emptyApplication) {
+    protected HashMap<String, String> retrieveData(Document document) {
 
         String title = document.selectFirst("#labelPopinDetails").text();
         String description = document.selectFirst(".description").text();
@@ -19,9 +19,9 @@ public class PoleEmploiScrapper extends AbstractApplicationScrapper implements T
 
         HashMap<String, String> datas = new HashMap<>();
 
-        datas.put("title",title);
-        datas.put("description",description);
-        datas.put("companyName",companyName);
+        datas.put("title", title);
+        datas.put("description", description);
+        datas.put("companyName", companyName);
 
         return datas;
     }
